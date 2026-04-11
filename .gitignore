@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+.env
+.env.*
+node_modules/
+yt-data-extractor/node_modules/
+*.log
+.claude/settings.local.json
