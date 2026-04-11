@@ -1,0 +1,165 @@
+# The Literature Talks — Video Processing Tracker
+
+**Last Updated:** 2026-04-11 (automated pipeline)
+**Channel:** [@theliteraturetalks](https://www.youtube.com/@theliteraturetalks)
+
+---
+
+## Status Legend
+
+| Symbol | Meaning |
+|--------|---------|
+| ✅ | Done |
+| ❌ | Not done |
+| ⏳ | In progress |
+| — | Not applicable |
+
+---
+
+## Video Tracker
+
+| # | Video Title | Video ID | JSON Uploaded | Metadata Extracted | Transcript Extracted | Summary Generated | Notes Generated |
+|---|-------------|----------|---------------|--------------------|----------------------|-------------------|-----------------|
+| 1 | Sultana's Dream — Rokeya Sakhawat Hossain | 8eOCn5Aoy2k | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 2 | Touch — Meena Kandasamy | fhie3346vjY | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 3 | The Comet and The Moon (Class 6th) | kd3vTFj6hFk | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 4 | Laura Mulvey: Visual Pleasure and Narrative Cinema | P-ULFTFfsGk | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 5 | The Color Purple — Alice Walker | DODxezG7wTw | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 6 | Seventeen Oranges (Class 6th, Roots and Wings) | m4CkN49k5mY | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 7 | A Speech to Save Environment — Back Exercise (Class 6) | oJvC1jYb1Nw | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 8 | A Speech to Save Environment (Class 6) | _S19W_nECtM | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 9 | Tara by Mahesh Dattani | -dz1jvj5qIE | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 10 | A Horse and Two Goats — R.K. Narayan | OxtEonL4XrI | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 11 | My Mother at Sixty Six (Class 12) | rbOvSQmD2SA | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 12 | A Poem for My Mother — Robin Ngangom | ZzG9jbVkuus | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 13 | Coromandel Fishermen — Back Exercise (Class 7th) | zmREZ8Iwix8 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 14 | The Chocolate Room (Class 7th, Roots and Wings) | W2a2I-TZM-o | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 15 | Things Fall Apart: Important Questions and Notes | -pS8OYvoFLY | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 16 | Things Fall Apart: Character Analysis — Nwoye | o9-3QS5FBes | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 17 | Things Fall Apart: Summary in Hindi | J5eRxGyJvR4 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 18 | Things Fall Apart: Introduction | uNHcPGqVLI0 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 19 | Character Sketch in The Glass Menagerie | yiKHVOJUPFQ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 20 | Coromandel Fishermen — Line by Line | JmkosUeDzaA | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 21 | The Chimney Sweepers (Songs of Innocence) — William Blake | KEB_629lExk | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 22 | The Lamb — William Blake | HfGInQiM_4w | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 23 | London — William Blake | lb7-LRC8Blw | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 24 | Introduction to Songs of Innocence — William Blake | dUWQ0fFicHs | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 25 | William Tell — Back Exercise (Class 7th, Roots and Wings) | vMMbqwA94Y4 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 26 | Elegy Written in a Country Churchyard — Thomas Gray | tBn3XXCvfQY | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 27 | William Tell — Summary (Class 7th, Roots and Wings) | De27CooCFl8 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 28 | Enterprise — Nissim Ezekiel (Line by Line) | rvVKsxjTCi0 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 29 | The Glass Menagerie — Tennessee Williams | bDvtMvXAa0E | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 30 | I Cannot Live With You — Emily Dickinson | US73Q0QP6Js | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 31 | The Shadow Lines — Amitav Ghosh | mqm0Ddq3ldM | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 32 | Where the Mind is Without Fear — Rabindranath Tagore | MFbor3XlL5Q | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 33 | Where the Mind is Without Fear — Back Exercise (Class 6) | 5Oycgj9Nc3g | ✅ | ✅ | ✅ | — | — |
+| 34 | Where the Mind is Without Fear — Ch 8 Roots and Wings (Class 6) | 4VDlSfdQ2qg | ✅ | ✅ | ✅ | — | — |
+| 35 | The Lady of Shalott — Part 4 (Alfred Tennyson) | TZv3AUbuJ_0 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 36 | The Lady of Shalott — Part 3 (Alfred Tennyson) | 5UzY2tA_KT4 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 37 | Philemon and Baucis Scene 2 — Back Exercise (Class 6th) | qxrFHzB3FqQ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 38 | Philemon and Baucis Scene 2 — Explanation (Class 6th) | UJ3qHIBLHkM | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 39 | Philemon and Baucis Scene 1 — Explanation (Class 6th) | UbNe291__oQ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 40 | Abou Ben Adhem — Back Exercise (Class 6th, Roots and Wings) | skvJAos0-ns | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 41 | Abou Ben Adhem — Explanation in Hindi (Class 6th) | EwplAdEswO0 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 42 | A Feast on the Train — Back Exercise (Class 6th) | JHMb26lUurQ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 43 | A Feast on the Train — Explanation in Hindi (Class 6th) | NjmDWqfUUvk | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 44 | The Ones Who Walk Away from Omelas — Ursula K. Le Guin | GyQz0V0NThM | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 45 | The Swan King — Back Exercise (Class 6th, Roots and Wings) | __WqWnL92vY | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 46 | The Swan King — Explanation in Hindi (Class 6th) | kSW2DBBhTCc | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 47 | The Lady of Shalott — Part 2 (Alfred Tennyson) | cGddpj24q70 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 48 | Huck Saves the Life of Widow Douglas — Class 6th (Mark Twain) | 3pAeXuY0Vos | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 49 | Beloved by Toni Morrison: Themes | 4DYyUpxysQM | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 50 | The Lady of Shalott — Part 1 (Alfred Tennyson) | LzM7kLUamrM | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 51 | Beloved by Toni Morrison: Important Questions Part 2 | 89CXJIHipc8 | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 52 | In Custody — Anita Desai | 5-YCbGuaO60 | ✅ | ✅ | ✅ | ⚠️ | ❌ |
+| 53 | The Real Crusoe — Back Exercise (Class 6th, Roots and Wings) | c-mBMR5i0Dw | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 54 | Beloved by Toni Morrison: Important Questions Part 1 | 8N3V7ibegSw | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 55 | Sonnet 60 — William Shakespeare | 5kp56Js_Nbg | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 56 | Sonnet 18 — William Shakespeare | CxVD6FJzxOs | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 57 | Essay: Books as a Companion | FPDkgoj8xAY | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 64 | Perhaps the world ends here by Joy Harjo | Analysis | Line by line Explanation | Summary in Hindi | perhaps_the_world_ends_here_by_joy_harjo_analysis_line_by_li_mSCE4yxShOM.json | ✅ | ✅ | ✅ | ✅ | ❌ |
+| 65 | Beloved by Toni Morisson Summary in Hindi Ba Eng Hons 3rd sem Delhi University Sol | beloved_by_toni_morisson_summary_in_hindi_ba_eng_hons_3rd_se_txXWinSsVJk.json | ✅ | ✅ | ✅ | ✅ | ❌ |
+
+---
+
+## File Reference
+
+| # | Video ID | Metadata File | Transcript File | Summary File | Notes File |
+|---|----------|---------------|-----------------|--------------|------------|
+| 1 | `8eOCn5Aoy2k` | `raw/metadata/sultanas_dream_rokeya_sakhawat_hossain_8eOCn5Aoy2k.json` | `raw/transcripts/sultanas_dream_rokeya_sakhawat_hossain_8eOCn5Aoy2k.json` | `processed/summaries/sultanas_dream_rokeya_sakhawat_hossain_8eOCn5Aoy2k_summary.md` | — |
+| 2 | `fhie3346vjY` | `raw/metadata/touch_meena_kandasamy_fhie3346vjY.json` | `raw/transcripts/touch_meena_kandasamy_fhie3346vjY.json` | `processed/summaries/touch_meena_kandasamy_fhie3346vjY_summary.md` | — |
+| 3 | `kd3vTFj6hFk` | `raw/metadata/the_comet_and_the_moon_class6_kd3vTFj6hFk.json` | `raw/transcripts/the_comet_and_the_moon_class6_kd3vTFj6hFk.json` | `processed/summaries/the_comet_and_the_moon_class6_kd3vTFj6hFk_summary.md` | — |
+| 4 | `P-ULFTFfsGk` | `raw/metadata/laura_mulvey_visual_pleasure_narrative_cinema_P-ULFTFfsGk.json` | `raw/transcripts/laura_mulvey_visual_pleasure_narrative_cinema_P-ULFTFfsGk.json` | `processed/summaries/laura_mulvey_visual_pleasure_narrative_cinema_P-ULFTFfsGk_summary.md` | — |
+| 5 | `DODxezG7wTw` | `raw/metadata/the_color_purple_by_alice_walker_summary_in_hindi_explanatio_DODxezG7wTw.json` | `raw/transcripts/the_color_purple_by_alice_walker_summary_in_hindi_explanatio_DODxezG7wTw.json` | `processed/summaries/the_color_purple_by_alice_walker_summary_in_hindi_explanatio_DODxezG7wTw_summary.md` | — |
+| 6 | `m4CkN49k5mY` | `json-res/seventeen_oranges_class_6th_roots_and_wings_english_literatu_m4CkN49k5mY.json` | *(in json-res file)* | `processed/summaries/seventeen_oranges_class_6th_roots_and_wings_english_literatu_m4CkN49k5mY_summary.md` | — |
+| 7 | `oJvC1jYb1Nw` | `json-res/a_speech_to_save_environment_back_exercise_class_6_roots_and_oJvC1jYb1Nw.json` | *(in json-res file)* | `processed/summaries/a_speech_to_save_environment_back_exercise_class_6_roots_and_oJvC1jYb1Nw_summary.md` | — |
+| 8 | `_S19W_nECtM` | `json-res/a_speech_to_save_environment_class_6_roots_and_wings_english__S19W_nECtM.json` | *(in json-res file)* | `processed/summaries/a_speech_to_save_environment_class_6_roots_and_wings_english__S19W_nECtM_summary.md` | — |
+| 9 | `-dz1jvj5qIE` | `json-res/tara_by_mahesh_dattani_summary_in_hindi_-dz1jvj5qIE.json` | *(in json-res file)* | `processed/summaries/tara_by_mahesh_dattani_summary_in_hindi_-dz1jvj5qIE_summary.md` | — |
+| 10 | `OxtEonL4XrI` | `raw/metadata/a_horse_and_two_goats_in_hindi_rk_narayan_summary_explanatio_OxtEonL4XrI.json` | `raw/transcripts/a_horse_and_two_goats_in_hindi_rk_narayan_summary_explanatio_OxtEonL4XrI.json` | `processed/summaries/a_horse_and_two_goats_in_hindi_rk_narayan_summary_explanatio_OxtEonL4XrI_summary.md` | — |
+| 11 | `rbOvSQmD2SA` | `json-res/my_mother_at_sixty_six_class_12_summary_my_mother_at_66_clas_rbOvSQmD2SA.json` | *(in json-res file)* | `processed/summaries/my_mother_at_sixty_six_class_12_summary_my_mother_at_66_clas_rbOvSQmD2SA_summary.md` | — |
+| 12 | `ZzG9jbVkuus` | `json-res/a_poem_for_my_mother_robin_ngangom_line_by_line_full_hindi_e_ZzG9jbVkuus.json` | *(in json-res file)* | `processed/summaries/a_poem_for_my_mother_robin_ngangom_line_by_line_full_hindi_e_ZzG9jbVkuus_summary.md` | — |
+| 13 | `zmREZ8Iwix8` | `json-res/coromandel_fishermen_explanation_sarojini_naidu_back_exercis_zmREZ8Iwix8.json` | *(in json-res file)* | `processed/summaries/coromandel_fishermen_explanation_sarojini_naidu_back_exercis_zmREZ8Iwix8_summary.md` | — |
+| 14 | `W2a2I-TZM-o` | `raw/metadata/the_chocolate_room_roots_and_wings_class_7th_english_literat_W2a2I-TZM-o.json` | `raw/transcripts/the_chocolate_room_roots_and_wings_class_7th_english_literat_W2a2I-TZM-o.json` | `processed/summaries/the_chocolate_room_roots_and_wings_class_7th_english_literat_W2a2I-TZM-o_summary.md` | — |
+| 15 | `-pS8OYvoFLY` | `raw/metadata/things_fall_apart_important_question_notes_link_in_descripti_-pS8OYvoFLY.json` | `raw/transcripts/things_fall_apart_important_question_notes_link_in_descripti_-pS8OYvoFLY.json` | `processed/summaries/things_fall_apart_important_question_notes_link_in_descripti_-pS8OYvoFLY_summary.md` | — |
+| 16 | `o9-3QS5FBes` | `json-res/things_fall_apart_cinua_achebe_character_analysis_nwoye_char_o9-3QS5FBes.json` | *(in json-res file)* | `processed/summaries/things_fall_apart_cinua_achebe_character_analysis_nwoye_char_o9-3QS5FBes_summary.md` | — |
+| 17 | `J5eRxGyJvR4` | `json-res/things_fall_apart_novel_by_chinua_achebe_summary_in_hindi_ex_J5eRxGyJvR4.json` | *(in json-res file)* | `processed/summaries/things_fall_apart_novel_by_chinua_achebe_summary_in_hindi_ex_J5eRxGyJvR4_summary.md` | — |
+| 18 | `uNHcPGqVLI0` | `json-res/things_fall_apart_chinua_achebe_introduction_of_novel_charac_uNHcPGqVLI0.json` | *(in json-res file)* | `processed/summaries/things_fall_apart_chinua_achebe_introduction_of_novel_charac_uNHcPGqVLI0_summary.md` | — |
+| 19 | `yiKHVOJUPFQ` | `json-res/character_sketch_in_the_glass_menagerie_ba_eng_hons_tennesse_yiKHVOJUPFQ.json` | *(in json-res file)* | `processed/summaries/character_sketch_in_the_glass_menagerie_ba_eng_hons_tennesse_yiKHVOJUPFQ_summary.md` | — |
+| 20 | `JmkosUeDzaA` | `json-res/coromandel_fishermen_explanation_sarojini_naidu_line_by_line_JmkosUeDzaA.json` | *(in json-res file)* | `processed/summaries/coromandel_fishermen_explanation_sarojini_naidu_line_by_line_JmkosUeDzaA_summary.md` | — |
+| 21 | `KEB_629lExk` | `json-res/the_chimney_sweepers_songs_of_innocence_by_william_blake_sum_KEB_629lExk.json` | *(in json-res file)* | `processed/summaries/the_chimney_sweepers_songs_of_innocence_by_william_blake_sum_KEB_629lExk_summary.md` | — |
+| 22 | `HfGInQiM_4w` | `json-res/the_lamb_poem_by_william_blake_in_hindi_summary_explanation_HfGInQiM_4w.json` | *(in json-res file)* | `processed/summaries/the_lamb_poem_by_william_blake_in_hindi_summary_explanation_HfGInQiM_4w_summary.md` | — |
+| 23 | `lb7-LRC8Blw` | `json-res/london_by_william_blake_summary_and_line_by_line_explanation_lb7-LRC8Blw.json` | *(in json-res file)* | `processed/summaries/london_by_william_blake_summary_and_line_by_line_explanation_lb7-LRC8Blw_summary.md` | — |
+| 24 | `dUWQ0fFicHs` | `json-res/introduction_to_the_songs_of_innocence_by_william_blake_dUWQ0fFicHs.json` | *(in json-res file)* | `processed/summaries/introduction_to_the_songs_of_innocence_by_william_blake_dUWQ0fFicHs_summary.md` | — |
+| 25 | `vMMbqwA94Y4` | `json-res/william_tell_chapter_10_back_exercise_roots_and_wings_litera_vMMbqwA94Y4.json` | *(in json-res file)* | `processed/summaries/william_tell_chapter_10_back_exercise_roots_and_wings_litera_vMMbqwA94Y4_summary.md` | — |
+| 26 | `tBn3XXCvfQY` | `json-res/elegy_written_in_a_country_charchyard_poem_summary_in_hindi_tBn3XXCvfQY.json` | *(in json-res file)* | `processed/summaries/elegy_written_in_a_country_charchyard_poem_summary_in_hindi_tBn3XXCvfQY_summary.md` | — |
+| 27 | `De27CooCFl8` | `json-res/william_tell_chapter_10_summary_in_hindi_roots_and_wings_lit_De27CooCFl8.json` | *(in json-res file)* | `processed/summaries/william_tell_chapter_10_summary_in_hindi_roots_and_wings_lit_De27CooCFl8_summary.md` | — |
+| 28 | `rvVKsxjTCi0` | `json-res/line_by_line_summary_of_enterprise_by_nissim_ezekiel_rvVKsxjTCi0.json` | *(in json-res file)* | `processed/summaries/line_by_line_summary_of_enterprise_by_nissim_ezekiel_rvVKsxjTCi0_summary.md` | — |
+| 29 | `bDvtMvXAa0E` | `json-res/the_glass_menagerie_by_tennessee_williams_summary_and_explan_bDvtMvXAa0E.json` | *(in json-res file)* | `processed/summaries/the_glass_menagerie_by_tennessee_williams_summary_and_explan_bDvtMvXAa0E_summary.md` | — |
+| 30 | `US73Q0QP6Js` | `raw/metadata/i_cannot_live_with_you_by_emily_dickinson_summary_and_line_b_US73Q0QP6Js.json` | `raw/transcripts/i_cannot_live_with_you_by_emily_dickinson_summary_and_line_b_US73Q0QP6Js.json` | `processed/summaries/i_cannot_live_with_you_by_emily_dickinson_summary_and_line_b_US73Q0QP6Js_summary.md` | — |
+| 31 | `mqm0Ddq3ldM` | `json-res/the_shadow_lines_by_amitav_ghosh_explanation_in_hindi_purcha_mqm0Ddq3ldM.json` | *(in json-res file)* | `processed/summaries/the_shadow_lines_by_amitav_ghosh_explanation_in_hindi_purcha_mqm0Ddq3ldM_summary.md` | — |
+| 32 | `MFbor3XlL5Q` | `json-res/where_the_mind_is_without_fear_ba_eng_hons_sem_5_line_by_lin_MFbor3XlL5Q.json` | *(in json-res file)* | `processed/summaries/where_the_mind_is_without_fear_ba_eng_hons_sem_5_line_by_lin_MFbor3XlL5Q_summary.md` | — |
+| 33 | `5Oycgj9Nc3g` | `json-res/where_the_mind_is_without_fear_back_exercise_class_6th_roots_5Oycgj9Nc3g.json` | *(in json-res file)* | — | — |
+| 34 | `4VDlSfdQ2qg` | `json-res/where_the_mind_is_without_fear_ch_8_roots_and_wings_class_6_4VDlSfdQ2qg.json` | *(in json-res file)* | — | — |
+| 35 | `TZv3AUbuJ_0` | `json-res/the_lady_of_shalott_by_alfred_tennyson_line_by_line_explanat_TZv3AUbuJ_0.json` | *(in json-res file)* | `processed/summaries/the_lady_of_shalott_by_alfred_tennyson_line_by_line_explanat_TZv3AUbuJ_0_summary.md` | — |
+| 36 | `5UzY2tA_KT4` | `json-res/the_lady_of_shalott_by_alfred_tennyson_line_by_line_explanat_5UzY2tA_KT4.json` | *(in json-res file)* | `processed/summaries/the_lady_of_shalott_by_alfred_tennyson_line_by_line_explanat_5UzY2tA_KT4_summary.md` | — |
+| 37 | `qxrFHzB3FqQ` | `json-res/philemon_and_baucis_scene_2_roots_and_wings_class_6th_englis_qxrFHzB3FqQ.json` | *(in json-res file)* | `processed/summaries/philemon_and_baucis_scene_2_roots_and_wings_class_6th_englis_qxrFHzB3FqQ_summary.md` | — |
+| 38 | `UJ3qHIBLHkM` | `json-res/philemon_and_baucis_scene_2_roots_and_wings_class_6th_englis_UJ3qHIBLHkM.json` | *(in json-res file)* | `processed/summaries/philemon_and_baucis_scene_2_roots_and_wings_class_6th_englis_UJ3qHIBLHkM_summary.md` | — |
+| 39 | `UbNe291__oQ` | `raw/metadata/philemon_and_baucis_scene_i_roots_and_wings_class_6th_englis_UbNe291__oQ.json` | `raw/transcripts/philemon_and_baucis_scene_i_roots_and_wings_class_6th_englis_UbNe291__oQ.json` | `processed/summaries/philemon_and_baucis_scene_i_roots_and_wings_class_6th_englis_UbNe291__oQ_summary.md` | — |
+| 40 | `skvJAos0-ns` | `json-res/abou_ben_adhem_back_exercise_class_6th_roots_and_wings_liter_skvJAos0-ns.json` | *(in json-res file)* | `processed/summaries/abou_ben_adhem_back_exercise_class_6th_roots_and_wings_liter_skvJAos0-ns_summary.md` | — |
+| 41 | `EwplAdEswO0` | `json-res/abou_ben_adhem_in_hindi_roots_and_wings_class_6_ch_13_diffic_EwplAdEswO0.json` | *(in json-res file)* | `processed/summaries/abou_ben_adhem_in_hindi_roots_and_wings_class_6_ch_13_diffic_EwplAdEswO0_summary.md` | — |
+| 42 | `JHMb26lUurQ` | `json-res/a_feast_on_the_train_back_exercise_roots_and_wings_class_6_q_JHMb26lUurQ.json` | *(in json-res file)* | `processed/summaries/a_feast_on_the_train_back_exercise_roots_and_wings_class_6_q_JHMb26lUurQ_summary.md` | — |
+| 43 | `NjmDWqfUUvk` | `json-res/a_feast_on_the_train_in_hindi_ch_11_roots_and_wings_class_6_NjmDWqfUUvk.json` | *(in json-res file)* | `processed/summaries/a_feast_on_the_train_in_hindi_ch_11_roots_and_wings_class_6_NjmDWqfUUvk_summary.md` | — |
+| 44 | `GyQz0V0NThM` | `json-res/ones_who_walk_away_from_omelas_by_ursula_k_le_guin_summary_a_GyQz0V0NThM.json` | *(in json-res file)* | `processed/summaries/ones_who_walk_away_from_omelas_by_ursula_k_le_guin_summary_a_GyQz0V0NThM_summary.md` | — |
+| 45 | `__WqWnL92vY` | `json-res/the_swan_king_ch9_class_6th_roots_and_wings_back_exercise_qu___WqWnL92vY.json` | *(in json-res file)* | `processed/summaries/the_swan_king_ch9_class_6th_roots_and_wings_back_exercise_qu___WqWnL92vY_summary.md` | — |
+| 46 | `kSW2DBBhTCc` | `json-res/the_swan_king_ch_9_roots_and_wings_class_6_jataka_tales_diff_kSW2DBBhTCc.json` | *(in json-res file)* | `processed/summaries/the_swan_king_ch_9_roots_and_wings_class_6_jataka_tales_diff_kSW2DBBhTCc_summary.md` | — |
+| 47 | `cGddpj24q70` | `json-res/the_lady_of_shalott_by_alfred_tennyson_line_by_line_explanat_cGddpj24q70.json` | *(in json-res file)* | `processed/summaries/the_lady_of_shalott_by_alfred_tennyson_line_by_line_explanat_cGddpj24q70_summary.md` | — |
+| 48 | `3pAeXuY0Vos` | `json-res/huck_saves_the_life_of_widow_douglas_explanation_in_hindi_ro_3pAeXuY0Vos.json` | *(in json-res file)* | `processed/summaries/huck_saves_the_life_of_widow_douglas_explanation_in_hindi_ro_3pAeXuY0Vos_summary.md` | — |
+| 49 | `4DYyUpxysQM` | `json-res/beloved_by_toni_morrison_themes_of_beloved_major_themes_amer_4DYyUpxysQM.json` | *(in json-res file)* | `processed/summaries/beloved_by_toni_morrison_themes_of_beloved_major_themes_amer_4DYyUpxysQM_summary.md` | — |
+| 50 | `LzM7kLUamrM` | `json-res/the_lady_of_shalott_by_alfred_tennyson_line_by_line_explanat_LzM7kLUamrM.json` | *(in json-res file)* | `processed/summaries/the_lady_of_shalott_by_alfred_tennyson_line_by_line_explanat_LzM7kLUamrM_summary.md` | — |
+| 51 | `89CXJIHipc8` | `json-res/beloved_by_toni_morrison_important_question_answers_part_2_d_89CXJIHipc8.json` | *(in json-res file)* | `processed/summaries/beloved_by_toni_morrison_important_question_answers_part_2_d_89CXJIHipc8_summary.md` | — |
+| 52 | `5-YCbGuaO60` | `json-res/in_custody_by_anita_desai_summary_in_hindi_explanation_and_f_5-YCbGuaO60.json` | *(in json-res file)* | `processed/summaries/in_custody_by_anita_desai_summary_in_hindi_explanation_and_f_5-YCbGuaO60_summary.md` | — |
+| 53 | `c-mBMR5i0Dw` | `raw/metadata/the_real_crusoe_back_exercise_roots_and_wings_class_6th_lite_c-mBMR5i0Dw.json` | `raw/transcripts/the_real_crusoe_back_exercise_roots_and_wings_class_6th_lite_c-mBMR5i0Dw.json` | `processed/summaries/the_real_crusoe_back_exercise_roots_and_wings_class_6th_lite_c-mBMR5i0Dw_summary.md` | — |
+| 54 | `8N3V7ibegSw` | `json-res/beloved_by_toni_morrison_important_question_answers_part_1_d_8N3V7ibegSw.json` | *(in json-res file)* | `processed/summaries/beloved_by_toni_morrison_important_question_answers_part_1_d_8N3V7ibegSw_summary.md` | — |
+| 55 | `5kp56Js_Nbg` | `json-res/sonnet_60_by_william_shakespeare_line_by_line_explanation_in_5kp56Js_Nbg.json` | *(in json-res file)* | `processed/summaries/sonnet_60_by_william_shakespeare_line_by_line_explanation_in_5kp56Js_Nbg_summary.md` | — |
+| 56 | `CxVD6FJzxOs` | `json-res/sonnet_18_by_william_shakespeare_sonnet_18_by_william_shakes_CxVD6FJzxOs.json` | *(in json-res file)* | `processed/summaries/sonnet_18_by_william_shakespeare_sonnet_18_by_william_shakes_CxVD6FJzxOs_summary.md` | — |
+| 57 | `FPDkgoj8xAY` | `json-res/write_an_essay_on_books_as_companion_essay_writing_english_b_FPDkgoj8xAY.json` | *(in json-res file)* | `processed/summaries/write_an_essay_on_books_as_companion_essay_writing_english_b_FPDkgoj8xAY_summary.md` | — |
+| 64 | `mSCE4yxShOM` | `json-res/perhaps_the_world_ends_here_by_joy_harjo_analysis_line_by_li_mSCE4yxShOM.json` | *(in json-res file)* | `processed/summaries/perhaps_the_world_ends_here_by_joy_harjo_analysis_line_by_li_mSCE4yxShOM_summary.md` | — |
+| 65 | `txXWinSsVJk` | `json-res/beloved_by_toni_morisson_summary_in_hindi_ba_eng_hons_3rd_se_txXWinSsVJk.json` | *(in json-res file)* | `processed/summaries/beloved_by_toni_morisson_summary_in_hindi_ba_eng_hons_3rd_se_txXWinSsVJk_summary.md` | — |
+
+---
+
+## Notes
+
+- Row 1: JSON was shared directly in chat (not via json-res/). All extraction and summary complete.
+- Row 2: `touch.json` contains Touch by Meena Kandasamy (video_id: fhie3346vjY). Summary complete.
+- Row 3: The Comet and The Moon (Class 6, Roots and Wings). Raw files split and summary generated.
+- Row 4: Laura Mulvey — Visual Pleasure and Narrative Cinema. JSON was misplaced in processed/summaries/, moved to json-res/ and processed correctly.
+- Row 5: The Color Purple by Alice Walker (video_id: DODxezG7wTw). Published 2022-11-23. Curriculum: BA Eng Hons Semester 5 Women's Writing, IGNOU MEG 11, DU SOL.
+- Row 10: A Horse and Two Goats by R.K. Narayan (video_id: OxtEonL4XrI). Published 2022-07-11. Curriculum: BA English Honours, Indian English Literature.
+- Row 14: The Chocolate Room by Roald Dahl (video_id: W2a2I-TZM-o). Published 2022-07-04. Curriculum: Class 7th English, Roots and Wings.
+- Row 15: Things Fall Apart: Important Questions and Notes (video_id: -pS8OYvoFLY). Published 2022-06-27. Curriculum: BA English Honours, Postcolonial Literature, Delhi University, IGNOU MEG.
+- Rows 6-9, 11-13, 16-21: Summaries generated directly from json-res/ files. Raw metadata/transcript split not yet done for these rows.
+- Rows 33-34: Where the Mind is Without Fear (Class 6 back exercise + Ch 8 Roots and Wings) — intentionally skipped, no summary needed.
+- Row 30: I Cannot Live With You by Emily Dickinson (video_id: US73Q0QP6Js). Published 2022-02-01. Curriculum: BA English Honours, 5th Semester, American Poetry. Raw metadata and transcript files split and saved.
+- Row 41: Philemon and Baucis Scene 1 (video_id: UbNe291__oQ). Published 2022-01-01. Curriculum: Class 6th English Literature, Roots and Wings. Raw metadata and transcript files split and saved.
+- Row 53: The Real Crusoe Back Exercise (video_id: c-mBMR5i0Dw). Published 2021-10-03. Curriculum: Class 6th English Literature, Roots and Wings, Chapter 1. Raw metadata and transcript files split and saved.
