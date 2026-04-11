@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Mahesh Dattani's 'Tara' - plot, themes, characters, and playwright biography",
+  "questions": [
+    {
+      "question": "In which year was the play 'Tara' by Mahesh Dattani written?",
+      "type": "mcq",
+      "options": [
+        "1988",
+        "1990",
+        "1995",
+        "1998"
+      ],
+      "correctAnswer": "1990",
+      "explanation": "According to the content, 'Tara' was written in 1990 and is a three-act stage play set in an urban, educated, middle-class Indian home.",
+      "points": 1
+    },
+    {
+      "question": "What major award did Mahesh Dattani receive in 1998?",
+      "type": "mcq",
+      "options": [
+        "National Film Award",
+        "Sahitya Akademi Award",
+        "Padma Shri Award",
+        "Tagore Prize"
+      ],
+      "correctAnswer": "Sahitya Akademi Award",
+      "explanation": "Mahesh Dattani holds the distinction of being the first Indian playwright writing in English to receive the Sahitya Akademi Award, which he won in 1998.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT mentioned as one of Mahesh Dattani's major works?",
+      "type": "mcq",
+      "options": [
+        "Dance Like a Man",
+        "Final Solutions",
+        "Broken Hearts",
+        "On a Muggy Night in Mumbai"
+      ],
+      "correctAnswer": "Broken Hearts",
+      "explanation": "The content lists his major works as 'Final Solutions', 'Dance Like a Man', 'Bravely Fought the Queen', 'On a Muggy Night in Mumbai', and 'Tara'. 'Broken Hearts' is not mentioned.",
+      "points": 1
+    },
+    {
+      "question": "What is the central event around which the plot of 'Tara' revolves?",
+      "type": "mcq",
+      "options": [
+        "The marriage of Tara to a wealthy businessman",
+        "The surgical separation of conjoined twins named Chandan and Tara",
+        "The migration of the family from India to London",
+        "The death of the family patriarch"
+      ],
+      "correctAnswer": "The surgical separation of conjoined twins named Chandan and Tara",
+      "explanation": "The content explicitly states that 'the central event of the play is the surgical separation of conjoined twins, a boy named Chandan and a girl named Tara, and the unjust consequences of a decision made during that surgery.'",
+      "points": 1
+    },
+    {
+      "question": "Mahesh Dattani's plays explore themes of gender inequality and patriarchy in urban, educated, middle-class Indian families.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content emphasizes that Dattani writes about 'urban, educated, middle-class Indian families who appear modern on the outside but operate on deeply traditional and patriarchal values on the inside,' and his plays challenge social taboos including gender inequality.",
+      "points": 1
+    },
+    {
+      "question": "According to the content, Mahesh Dattani was born in Mumbai in 1958.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that Mahesh Dattani 'was born in Bangalore in August 1958,' not in Mumbai. He is also described as Bangalore-based.",
+      "points": 1
+    }
+  ]
+}

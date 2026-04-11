@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'The Chocolate Room' from Roald Dahl's Charlie and the Chocolate Factory, Class 7 English Literature",
+  "questions": [
+    {
+      "question": "Who is the author of 'Charlie and the Chocolate Factory'?",
+      "type": "mcq",
+      "options": [
+        "Roald Dahl",
+        "J.K. Rowling",
+        "C.S. Lewis",
+        "Beatrix Potter"
+      ],
+      "correctAnswer": "Roald Dahl",
+      "explanation": "Roald Dahl (1916-1990) was a British author born in Wales who wrote Charlie and the Chocolate Factory, first published in 1964.",
+      "points": 1
+    },
+    {
+      "question": "What was the condition of Charlie Bucket's family when the story begins?",
+      "type": "mcq",
+      "options": [
+        "They were wealthy but unhappy",
+        "They lived in great poverty with four bedridden grandparents",
+        "They were middle-class and comfortable",
+        "They owned a small chocolate shop"
+      ],
+      "correctAnswer": "They lived in great poverty with four bedridden grandparents",
+      "explanation": "The content states that Charlie lived in great poverty with his parents and four bedridden grandparents, yet he remained kind and never complained.",
+      "points": 1
+    },
+    {
+      "question": "How many Golden Tickets did Willy Wonka hide in chocolate bars?",
+      "type": "mcq",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "correctAnswer": "Five",
+      "explanation": "According to the content, Wonka hid five Golden Tickets inside five randomly chosen chocolate bars, which were sent all over the world.",
+      "points": 1
+    },
+    {
+      "question": "What did Willy Wonka wear when he welcomed the children at the factory gates?",
+      "type": "mcq",
+      "options": [
+        "A brown suit and bowler hat",
+        "A purple velvet coat, black trousers, cherry-red shirt, small black top hat, and carried a golden walking cane",
+        "A white lab coat and safety goggles",
+        "A tuxedo and top hat"
+      ],
+      "correctAnswer": "A purple velvet coat, black trousers, cherry-red shirt, small black top hat, and carried a golden walking cane",
+      "explanation": "The content specifically describes Wonka's appearance as theatrical and colourful, wearing these exact items to greet the visitors.",
+      "points": 1
+    },
+    {
+      "question": "Charlie Bucket was a greedy child who always wanted extra food for himself.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explicitly states that Charlie was never greedy and never took extra food because he knew it would mean less for other family members.",
+      "points": 1
+    },
+    {
+      "question": "Grandfather Joe accompanied Charlie to the chocolate factory because Charlie's parents could not go with him.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that since Charlie's parents could not accompany him, his Grandfather Joe came along as his guardian.",
+      "points": 1
+    }
+  ]
+}

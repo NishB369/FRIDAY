@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of Shakespeare's Sonnet 18, its background, structure, and themes of immortality through poetry",
+  "questions": [
+    {
+      "question": "Which sequence of Shakespeare's sonnets does Sonnet 18 belong to?",
+      "type": "mcq",
+      "options": [
+        "The Dark Lady sequence (Sonnets 127-154)",
+        "The Fair Youth sequence (Sonnets 1-126)",
+        "The Procreation sequence (Sonnets 1-17)",
+        "The Love sequence (Sonnets 18-50)"
+      ],
+      "correctAnswer": "The Fair Youth sequence (Sonnets 1-126)",
+      "explanation": "The content explicitly states that Sonnet 18 belongs to the Fair Youth sequence (Sonnets 1-126), which addresses a beautiful young man. The Procreation Sonnets (1-17) came before it and urged the youth to have children.",
+      "points": 1
+    },
+    {
+      "question": "What does Shakespeare propose as a better solution than procreation to preserve the young man's beauty?",
+      "type": "mcq",
+      "options": [
+        "Commissioning a portrait of the young man",
+        "Creating a statue to commemorate his beauty",
+        "Preserving his beauty through verse and poetry",
+        "Encouraging him to travel and share his beauty with the world"
+      ],
+      "correctAnswer": "Preserving his beauty through verse and poetry",
+      "explanation": "The content states that in Sonnet 18, instead of urging procreation, Shakespeare 'offers a better solution: he will preserve the young man's beauty in verse. The poem argues that poetry is a more powerful and lasting form of immortality than children or any physical legacy.'",
+      "points": 1
+    },
+    {
+      "question": "What does the word 'temperate' mean in the second line of Sonnet 18?",
+      "type": "mcq",
+      "options": [
+        "Cold and unpleasant",
+        "Gentle, balanced, and pleasant",
+        "Hot and intense",
+        "Unpredictable and dangerous"
+      ],
+      "correctAnswer": "Gentle, balanced, and pleasant",
+      "explanation": "The analysis section explicitly defines 'temperate' as 'gentle, balanced, and pleasant,' and explains that the friend's beauty is calm and steady, unlike the harsh nature of summer.",
+      "points": 1
+    },
+    {
+      "question": "What is the structure of a Shakespearean sonnet?",
+      "type": "mcq",
+      "options": [
+        "Two quatrains and two couplets",
+        "Four quatrains and one couplet",
+        "Three quatrains and one closing couplet",
+        "Five quatrains with no couplet"
+      ],
+      "correctAnswer": "Three quatrains and one closing couplet",
+      "explanation": "The content states that the Shakespearean sonnet form 'consists of three quatrains (groups of four lines) and a closing couplet (two lines).' This structure allows Shakespeare to present a problem in the quatrains and resolve it in the couplet.",
+      "points": 1
+    },
+    {
+      "question": "True or False: Sonnet 18 was one of the Procreation Sonnets that urged the young man to have children.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clarifies that the Procreation Sonnets are Sonnets 1-17, which came before Sonnet 18. In Sonnet 18, Shakespeare takes a completely different approach by offering poetry as a solution instead of procreation.",
+      "points": 1
+    },
+    {
+      "question": "True or False: The identity of the 'Fair Youth' to whom Shakespeare addressed these sonnets has been definitively established.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that the identity of the 'Fair Youth,' referred to only by the initials W.H., 'remains one of literature's most debated mysteries,' indicating it has not been definitively established.",
+      "points": 1
+    }
+  ]
+}

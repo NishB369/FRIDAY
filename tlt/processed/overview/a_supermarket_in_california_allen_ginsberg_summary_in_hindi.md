@@ -1,5 +1,6 @@
 ---
-title: "A Supermarket in California by Allen Ginsberg — Summary, Explanation & Analysis"
+
+## title: "A Supermarket in California by Allen Ginsberg — Summary, Explanation & Analysis"
 video_id: TQbJHofFV24
 channel: The Literature Talks
 published_at: 2021-08-22
@@ -7,7 +8,6 @@ duration: 9 minutes
 language: Hindi explanation
 curriculum: BA English Honours | American Poetry | Beat Generation Literature
 keywords: ["A Supermarket in California", "Allen Ginsberg", "Allen Ginsberg summary", "A Supermarket in California summary", "A Supermarket in California analysis", "A Supermarket in California themes", "Beat Generation poetry", "Walt Whitman influence", "Allen Ginsberg poems", "Howl and Other Poems", "American poetry", "apostrophe literary device", "free verse", "García Lorca", "BA English Honours", "American literature summary", "Allen Ginsberg biography", "consumerism in poetry", "postmodern American poetry", "A Supermarket in California explanation in Hindi"]
----
 
 # A Supermarket in California by Allen Ginsberg — Summary & Analysis
 
@@ -140,3 +140,4 @@ The closing apostrophe. Ginsberg asks Whitman what his America looked like from 
 - Greek mythology is used at the close: **Charon** (the ferryman of the dead) and **Lethe** (the river of forgetfulness) place Whitman in the underworld and frame the poem as a meditation on **death, memory, and the loss of an ideal America**.
 - The poem is simultaneously a **personal lament**, a **critique of consumer society**, and a **literary tribute** to the poets who came before Ginsberg.
 - For exam purposes: identify the **apostrophe**, **free verse**, **allusion to Whitman and Lorca**, **supermarket as symbol**, and the **theme of America's lost soul**.
+

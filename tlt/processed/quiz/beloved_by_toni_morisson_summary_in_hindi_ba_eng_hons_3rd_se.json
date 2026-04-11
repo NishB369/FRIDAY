@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Toni Morrison's Beloved\u2014author background, historical context, plot elements, and literary significance",
+  "questions": [
+    {
+      "question": "In what year was Beloved by Toni Morrison published?",
+      "type": "mcq",
+      "options": [
+        "1981",
+        "1987",
+        "1993",
+        "1998"
+      ],
+      "correctAnswer": "1987",
+      "explanation": "The novel was published in 1987 by Alfred A. Knopf, as stated in the background section of the content.",
+      "points": 1
+    },
+    {
+      "question": "Which historical figure's case inspired the plot of Beloved?",
+      "type": "mcq",
+      "options": [
+        "Harriet Tubman",
+        "Margaret Garner",
+        "Sojourner Truth",
+        "Phillis Wheatley"
+      ],
+      "correctAnswer": "Margaret Garner",
+      "explanation": "Morrison was inspired by the historical case of Margaret Garner, an enslaved woman who killed her child rather than have her returned to slavery, as detailed in the content.",
+      "points": 1
+    },
+    {
+      "question": "What is the name of Sethe's house that serves as the central setting of the novel?",
+      "type": "mcq",
+      "options": [
+        "Sweet Home Plantation",
+        "124 Bluestone Road",
+        "Baby Suggs' House",
+        "The Cincinnati Manor"
+      ],
+      "correctAnswer": "124 Bluestone Road",
+      "explanation": "The novel is set at 124 Bluestone Road in Cincinnati, Ohio, which is haunted by the ghost of an infant and serves as the main setting of the narrative.",
+      "points": 1
+    },
+    {
+      "question": "What award did Toni Morrison receive in 1993, making her the first African American woman to achieve this honour?",
+      "type": "mcq",
+      "options": [
+        "Pulitzer Prize for Fiction",
+        "National Book Award",
+        "Nobel Prize in Literature",
+        "Booker Prize"
+      ],
+      "correctAnswer": "Nobel Prize in Literature",
+      "explanation": "Toni Morrison received the Nobel Prize in Literature in 1993, becoming the first African American woman to receive this prestigious honour.",
+      "points": 1
+    },
+    {
+      "question": "Beloved was set in Cincinnati, Ohio, and begins in the year 1873, which is immediately following the American Civil War.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The novel is indeed set in Cincinnati, Ohio, beginning in 1873, some years after the end of the American Civil War (1861\u20131865), as stated in the plot summary section.",
+      "points": 1
+    },
+    {
+      "question": "Beloved belongs to the literary mode of magic realism, in which supernatural elements are presented as naturally occurring within a realistic world.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Beloved belongs to the mode of magic realism, where the ghost of the dead infant and other supernatural elements are presented as natural dimensions of lived experience.",
+      "points": 1
+    }
+  ]
+}

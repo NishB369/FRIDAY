@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'Huck Saves The Life Of Widow Douglas' by Mark Twain from Class 6 Roots and Wings",
+  "questions": [
+    {
+      "question": "Who is the author of 'The Adventures of Tom Sawyer' from which this chapter is taken?",
+      "type": "mcq",
+      "options": [
+        "Mark Twain",
+        "Charles Dickens",
+        "Jane Austen",
+        "Leo Tolstoy"
+      ],
+      "correctAnswer": "Mark Twain",
+      "explanation": "The content clearly states that Mark Twain (real name: Samuel Langhorne Clemens) is the author of 'The Adventures of Tom Sawyer' (1876), and this chapter is an excerpt from that novel.",
+      "points": 1
+    },
+    {
+      "question": "Why does Injun Joe (Red Joe) want to take revenge on Widow Douglas?",
+      "type": "mcq",
+      "options": [
+        "She stole his treasure box",
+        "Her husband sent him to prison and he cannot harm the husband because he is dead",
+        "She witnessed a murder in the graveyard",
+        "She refused to help him escape from the inn"
+      ],
+      "correctAnswer": "Her husband sent him to prison and he cannot harm the husband because he is dead",
+      "explanation": "Red Joe explicitly states that the Widow's husband sent him to prison, and since Mr. Douglas had already died, Red Joe plans to take revenge on the Widow instead.",
+      "points": 1
+    },
+    {
+      "question": "What does Huck observe when he is hiding beside the inn at 11 o'clock at night?",
+      "type": "mcq",
+      "options": [
+        "Tom Sawyer trying to break into the inn",
+        "The Widow Douglas leaving the inn with treasure",
+        "Two men coming out with a heavy box",
+        "Red Joe arguing with the innkeeper"
+      ],
+      "correctAnswer": "Two men coming out with a heavy box",
+      "explanation": "The content describes how Huck hears a faint sound, and then two men come out and walk past him, with one of them carrying a heavy box, which Huck assumes contains treasure.",
+      "points": 1
+    },
+    {
+      "question": "Why is the moonless night beneficial to Huck as he follows the two men?",
+      "type": "mcq",
+      "options": [
+        "It allows him to see the men more clearly",
+        "The darkness prevents him from being seen by the men he is following",
+        "It gives him the courage to follow dangerous criminals",
+        "It helps him find his way back to the town easily"
+      ],
+      "correctAnswer": "The darkness prevents him from being seen by the men he is following",
+      "explanation": "The content explains that on a moonless night with clouds, the ground is very dark, which allows Huck to follow the men closely without being noticed or seen.",
+      "points": 1
+    },
+    {
+      "question": "Mark Twain is often called 'the Father of American Literature.'",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Mark Twain 'is widely regarded as one of the greatest American writers and is often called \"the Father of American Literature.\"'",
+      "points": 1
+    },
+    {
+      "question": "Huck decided to go and tell Tom Sawyer about the two men before following them.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clearly states that Huck thinks 'I do not have time to go and tell Tom. He thinks: I will have to follow them alone,' meaning he did not go to tell Tom before following the men.",
+      "points": 1
+    }
+  ]
+}

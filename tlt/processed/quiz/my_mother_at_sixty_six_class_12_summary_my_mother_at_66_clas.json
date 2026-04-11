@@ -1,0 +1,79 @@
+{
+  "description": "Test comprehension of 'My Mother at Sixty-Six' by Kamala Das, including poet biography, poem themes, and literary devices.",
+  "questions": [
+    {
+      "question": "Kamala Das wrote in two languages and published under two different names. What was her pen name for Malayalam writing?",
+      "type": "mcq",
+      "options": [
+        "Kamala Surayya",
+        "Madhavikutty",
+        "Nalapat Narayana Menon",
+        "Kamala Kochi"
+      ],
+      "correctAnswer": "Madhavikutty",
+      "explanation": "The content states that when Kamala Das wrote in Malayalam, she used the pen name Madhavikutty, and her autobiography 'Ente Katha' was published under this name.",
+      "points": 1
+    },
+    {
+      "question": "Which literary device is used when the poet compares her mother's face to 'that of a corpse'?",
+      "type": "mcq",
+      "options": [
+        "Metaphor",
+        "Personification",
+        "Simile",
+        "Alliteration"
+      ],
+      "correctAnswer": "Simile",
+      "explanation": "The content explicitly states that comparing the mother's face to 'that of a corpse' is a simile, as it uses 'like' or 'as' to compare two unlike things.",
+      "points": 1
+    },
+    {
+      "question": "What is the main setting of the poem 'My Mother at Sixty-Six'?",
+      "type": "mcq",
+      "options": [
+        "A train journey from Cochin to Delhi",
+        "A car drive from the poet's parents' home to Cochin airport",
+        "A walk through the streets of Kerala",
+        "A visit to the hospital where her mother is admitted"
+      ],
+      "correctAnswer": "A car drive from the poet's parents' home to Cochin airport",
+      "explanation": "The poem begins with the line 'Driving from my parent's home to Cochin last Friday morning,' establishing that the setting is a car journey to the airport.",
+      "points": 1
+    },
+    {
+      "question": "What do the 'merry children spilling out of their homes' symbolize in the poem?",
+      "type": "mcq",
+      "options": [
+        "The poet's childhood memories",
+        "Life, energy, vitality, and happiness",
+        "The poet's fear of the future",
+        "The corruption of innocence"
+      ],
+      "correctAnswer": "Life, energy, vitality, and happiness",
+      "explanation": "The content explains that the energetic children symbolize life, energy, vitality, and happiness, forming a sharp contrast with the aging mother's fading appearance.",
+      "points": 1
+    },
+    {
+      "question": "Kamala Das belonged to the tradition of confessional poetry, which means her poems were often autobiographical and personal.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Kamala Das belonged to the tradition of confessional poetry, where poets write about personal feelings and private experiences with honesty, and that her poems were often autobiographical.",
+      "points": 1
+    },
+    {
+      "question": "'My Mother at Sixty-Six' is written in a fixed rhyme scheme with regular meter and formal structure.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that the poem is written in free verse with no fixed rhyme scheme or meter, which suits the conversational, diary-like tone of the poem.",
+      "points": 1
+    }
+  ]
+}

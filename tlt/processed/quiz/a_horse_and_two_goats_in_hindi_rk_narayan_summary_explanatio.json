@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of R.K. Narayan's 'A Horse and Two Goats' including author background, story context, and main plot elements.",
+  "questions": [
+    {
+      "question": "What is the name of the fictional South Indian town created by R.K. Narayan that serves as the setting for most of his major works?",
+      "type": "mcq",
+      "options": [
+        "Malgudi",
+        "Chennai",
+        "Madras",
+        "Kritm"
+      ],
+      "correctAnswer": "Malgudi",
+      "explanation": "The video explicitly states that Malgudi is the fictional South Indian town created by Narayan that first appeared in 'Swami and Friends' and became the backdrop for nearly all of his major works.",
+      "points": 1
+    },
+    {
+      "question": "In 'A Horse and Two Goats,' how many goats does Muni currently own?",
+      "type": "mcq",
+      "options": [
+        "Four goats",
+        "Two goats",
+        "Forty goats",
+        "Thirty goats"
+      ],
+      "correctAnswer": "Two goats",
+      "explanation": "The content states that Muni used to have a flock of forty goats and sheep, but now he has just two goats left, which reflects his decline in wealth.",
+      "points": 1
+    },
+    {
+      "question": "What is the primary reason Muni goes to the village outskirts near the highway with his goats?",
+      "type": "mcq",
+      "options": [
+        "To sell his goats to the American visitor",
+        "To find drumstick pods for his wife",
+        "To escape an argument with his wife after failing to get credit at the shop",
+        "To guard the clay horse statue from thieves"
+      ],
+      "correctAnswer": "To escape an argument with his wife after failing to get credit at the shop",
+      "explanation": "The video explains that after Muni returns home empty-handed from the shop and gets into an argument with his wife, he takes his two goats to graze at the village outskirts to escape the conflict.",
+      "points": 1
+    },
+    {
+      "question": "What awards did R.K. Narayan receive during his lifetime?",
+      "type": "mcq",
+      "options": [
+        "Only the Sahitya Akademi Award",
+        "The Sahitya Akademi Award, AC Benson Medal, Padma Bhushan, and Padma Vibhushan",
+        "The Nobel Prize in Literature and the Padma Bhushan",
+        "The Booker Prize and the Rajya Sabha nomination"
+      ],
+      "correctAnswer": "The Sahitya Akademi Award, AC Benson Medal, Padma Bhushan, and Padma Vibhushan",
+      "explanation": "The content specifically lists that Narayan received the Sahitya Akademi Award for 'The Guide,' the AC Benson Medal from the Royal Society of Literature, the Padma Bhushan, and the Padma Vibhushan, and was also nominated to the Rajya Sabha.",
+      "points": 1
+    },
+    {
+      "question": "In South Indian folk tradition, clay horses like the one in the story are believed to protect villages from evil spirits.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The video states that large clay horses known as Aiyanar horses are placed at the entrance of villages as guardians and are believed to protect the village from evil spirits.",
+      "points": 1
+    },
+    {
+      "question": "Muni and the American are able to communicate easily because they both speak English fluently.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clearly explains that the American speaks no Tamil and Muni speaks no English, so the two cannot understand a single word the other is saying, leading to fundamental miscommunication.",
+      "points": 1
+    }
+  ]
+}

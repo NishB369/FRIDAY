@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Daniel Defoe's 'The Real Crusoe' and the true story of Alexander Selkirk that inspired Robinson Crusoe",
+  "questions": [
+    {
+      "question": "Which Scottish sailor's real-life experience served as the basis for Daniel Defoe's Robinson Crusoe?",
+      "type": "mcq",
+      "options": [
+        "Alexander Selkirk",
+        "William Dampier",
+        "Captain Defoe",
+        "Juan Fernandez"
+      ],
+      "correctAnswer": "Alexander Selkirk",
+      "explanation": "Alexander Selkirk was the historical figure whose survival story on a deserted island directly inspired Defoe's fictional character Robinson Crusoe.",
+      "points": 1
+    },
+    {
+      "question": "Where was Alexander Selkirk left stranded when he requested to leave the ship?",
+      "type": "mcq",
+      "options": [
+        "The coast of Scotland",
+        "Juan Fernandez Island, approximately 400 miles off the coast of Chile",
+        "An island near London",
+        "The Caribbean Sea"
+      ],
+      "correctAnswer": "Juan Fernandez Island, approximately 400 miles off the coast of Chile",
+      "explanation": "The text explicitly states that Juan Fernandez (also known as M\u00e1s a Tierra) was located approximately 400 miles off the coast of Chile in the Pacific Ocean, where Selkirk asked to be left ashore.",
+      "points": 1
+    },
+    {
+      "question": "What were the items Alexander Selkirk brought with him when he left the ship?",
+      "type": "mcq",
+      "options": [
+        "Food supplies, rope, and a map",
+        "A musket, gunpowder, and carpenter's tools",
+        "Seeds, tools, and fresh water",
+        "A compass, sail cloth, and nails"
+      ],
+      "correctAnswer": "A musket, gunpowder, and carpenter's tools",
+      "explanation": "The text specifically lists that Selkirk managed to bring with him a musket, gunpowder, and carpenter's tools from the ship before being left on the island.",
+      "points": 1
+    },
+    {
+      "question": "Why did Alexander Selkirk demand to be left on an island during the expedition?",
+      "type": "mcq",
+      "options": [
+        "He wanted to find treasure",
+        "He was tired of working and wanted a vacation",
+        "He had disagreements with Captain Dampier over the ship's safety and seaworthiness due to disease concerns",
+        "He was searching for wild goats to hunt"
+      ],
+      "correctAnswer": "He had disagreements with Captain Dampier over the ship's safety and seaworthiness due to disease concerns",
+      "explanation": "The text explains that Selkirk had frequent disagreements with Captain Dampier over matters of ship safety and the vessel's condition, including concerns about disease, which led him to demand to be left ashore.",
+      "points": 1
+    },
+    {
+      "question": "Robinson Crusoe was entirely a product of Daniel Defoe's imagination and had no basis in real events.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The chapter reveals that while Defoe was imaginative, the character of Robinson Crusoe was not entirely fictional but was instead based on the real-life experience of Alexander Selkirk, a Scottish sailor.",
+      "points": 1
+    },
+    {
+      "question": "Alexander Selkirk immediately regretted his decision to be left on Juan Fernandez Island and tried to call the ship back.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text explicitly states that the moment Selkirk stepped ashore, he immediately regretted his decision and called out to the departing ship trying to be taken back, but it was too late as the ship had already sailed away.",
+      "points": 1
+    }
+  ]
+}

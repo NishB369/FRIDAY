@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'A Poem for My Mother' by Robin Ngangom, its poet's background, themes, and textual analysis",
+  "questions": [
+    {
+      "question": "Robin Singh Ngangom is a poet from which Northeast Indian state?",
+      "type": "mcq",
+      "options": [
+        "Assam",
+        "Manipur",
+        "Meghalaya",
+        "Nagaland"
+      ],
+      "correctAnswer": "Manipur",
+      "explanation": "The video clearly states that Robin Singh Ngangom was born in Manipur, a state in Northeast India, and is one of the most significant voices in contemporary Indian poetry in English from the Northeast.",
+      "points": 1
+    },
+    {
+      "question": "What does the word 'Apokpi' mean in the Meitei language?",
+      "type": "mcq",
+      "options": [
+        "Sister",
+        "Beloved",
+        "Mother",
+        "Woman"
+      ],
+      "correctAnswer": "Mother",
+      "explanation": "The explanation explicitly states that 'Apokpi' means mother in Meitei, making the address 'Palem Apokpi' layered with love and respect.",
+      "points": 1
+    },
+    {
+      "question": "How many years before the poem does the poet say he left home?",
+      "type": "mcq",
+      "options": [
+        "Five years ago",
+        "Seven years ago",
+        "Ten years ago",
+        "Fifteen years ago"
+      ],
+      "correctAnswer": "Ten years ago",
+      "explanation": "In the first stanza, the poet explicitly states 'to be a man how I hated leaving home / ten years ago,' indicating he left a decade before writing the poem.",
+      "points": 1
+    },
+    {
+      "question": "Which university did Robin Singh Ngangom teach at?",
+      "type": "mcq",
+      "options": [
+        "Delhi University",
+        "North-Eastern Hill University (NEHU) in Shillong",
+        "Jawaharlal Nehru University",
+        "Banaras Hindu University"
+      ],
+      "correctAnswer": "North-Eastern Hill University (NEHU) in Shillong",
+      "explanation": "The video biography section states that Ngangom 'taught English at North-Eastern Hill University (NEHU) in Shillong, Meghalaya,' which is why he moved away from his home state of Manipur.",
+      "points": 1
+    },
+    {
+      "question": "The poem 'A Poem for My Mother' is classified as a confessional poem, meaning the poet speaks directly about his own life, regrets, and relationships.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly describes 'A Poem for My Mother' as 'a confessional poem: the poet speaks directly about his own life, his regrets, and his relationship with his mother,' and notes the poet's 'unusual honesty' in admitting failure and inadequacy.",
+      "points": 1
+    },
+    {
+      "question": "According to the video, the poet successfully followed his mother's advice about managing money and time wisely throughout his life.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "In Stanza 2, the poet explicitly admits: 'I could never learn to keep up with them,' referring to his mother's lessons about money and time, indicating he failed to follow her practical wisdom.",
+      "points": 1
+    }
+  ]
+}

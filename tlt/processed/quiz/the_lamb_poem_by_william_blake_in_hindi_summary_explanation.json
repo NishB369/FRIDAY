@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of William Blake's 'The Lamb' from Songs of Innocence, including biographical context, themes, and poem analysis.",
+  "questions": [
+    {
+      "question": "In which collection was 'The Lamb' by William Blake originally published?",
+      "type": "mcq",
+      "options": [
+        "Songs of Experience",
+        "Songs of Innocence",
+        "The Marriage of Heaven and Hell",
+        "Jerusalem"
+      ],
+      "correctAnswer": "Songs of Innocence",
+      "explanation": "The poem was published in 1789 as part of Songs of Innocence, a collection celebrating the state of childhood innocence.",
+      "points": 1
+    },
+    {
+      "question": "What is the direct counterpart poem to 'The Lamb' in Songs of Experience?",
+      "type": "mcq",
+      "options": [
+        "The Tiger",
+        "The Tyger",
+        "The Beast",
+        "The Predator"
+      ],
+      "correctAnswer": "The Tyger",
+      "explanation": "'The Tyger' is the companion poem in Songs of Experience that contrasts with 'The Lamb,' presenting a fierce and terrifying creature made by the same God.",
+      "points": 1
+    },
+    {
+      "question": "Which literary tradition does 'The Lamb' belong to?",
+      "type": "mcq",
+      "options": [
+        "Gothic tradition",
+        "Pastoral tradition",
+        "Realist tradition",
+        "Modernist tradition"
+      ],
+      "correctAnswer": "Pastoral tradition",
+      "explanation": "The poem belongs to the pastoral tradition, which celebrates simple rural life, nature, and gentle animals as symbols of purity and happiness.",
+      "points": 1
+    },
+    {
+      "question": "In the second stanza of 'The Lamb,' what does the speaker say the Creator is called?",
+      "type": "mcq",
+      "options": [
+        "The Father",
+        "The King",
+        "A Lamb",
+        "The Shepherd"
+      ],
+      "correctAnswer": "A Lamb",
+      "explanation": "The speaker states 'He is called by thy name, / For he calls himself a Lamb,' referring to the Christian symbol of Jesus as the Lamb of God.",
+      "points": 1
+    },
+    {
+      "question": "William Blake rejected organised religion but held strong personal Christian beliefs.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Blake was a deeply spiritual thinker who rejected the organised religion of his time while holding strong personal Christian beliefs.",
+      "points": 1
+    },
+    {
+      "question": "'The Lamb' and 'The Tyger' together explore Blake's central question about how one God could be responsible for both tenderness and terror.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explains that the two poems together pose the central question of how one God can be responsible for both the mild lamb and the fierce tiger, representing innocence and power.",
+      "points": 1
+    }
+  ]
+}

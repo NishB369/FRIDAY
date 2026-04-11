@@ -1,0 +1,79 @@
+{
+  "description": "A quiz testing comprehension of William Blake's 'London' poem, its historical context, and literary analysis.",
+  "questions": [
+    {
+      "question": "In which collection of William Blake's work does the poem 'London' appear?",
+      "type": "mcq",
+      "options": [
+        "Songs of Innocence",
+        "Songs of Experience",
+        "The Marriage of Heaven and Hell",
+        "Jerusalem"
+      ],
+      "correctAnswer": "Songs of Experience",
+      "explanation": "The content explicitly states that 'London' belongs to Songs of Experience (1794), which presents the world through the eyes of experience as dark, corrupted, and unjust.",
+      "points": 1
+    },
+    {
+      "question": "What does the word 'charter'd' in Blake's 'London' primarily represent?",
+      "type": "mcq",
+      "options": [
+        "Natural waterways and rivers",
+        "Official control and ownership of public spaces by powerful interests",
+        "The beauty and freedom of the city",
+        "Ancient historical monuments"
+      ],
+      "correctAnswer": "Official control and ownership of public spaces by powerful interests",
+      "explanation": "The content explains that 'chartered' means officially controlled, licensed, or owned, and Blake uses it to show that even nature and public space had been claimed and controlled by the powerful.",
+      "points": 1
+    },
+    {
+      "question": "What is the meaning of 'mind-forg'd manacles' in the second stanza?",
+      "type": "mcq",
+      "options": [
+        "Physical chains used to imprison criminals",
+        "Mental and psychological chains that trap people in their thinking",
+        "The sound of machines in factories",
+        "Religious symbols of redemption"
+      ],
+      "correctAnswer": "Mental and psychological chains that trap people in their thinking",
+      "explanation": "According to the content, 'mind-forg'd manacles' refers to chains made in the mind\u2014mental and psychological chains that trap people, with 'forged' meaning both manufactured and falsified.",
+      "points": 1
+    },
+    {
+      "question": "During what historical period was 'London' written by William Blake?",
+      "type": "mcq",
+      "options": [
+        "During the American Revolution in the 1770s",
+        "During the French Revolution and a period of social upheaval in England in 1794",
+        "During the Victorian Era in the 1850s",
+        "During the English Civil War in the 1640s"
+      ],
+      "correctAnswer": "During the French Revolution and a period of social upheaval in England in 1794",
+      "explanation": "The content states that 'London' was written in 1794 during a period of great social upheaval in England, after the French Revolution of 1789 had shaken Europe and political repression was heavy in Britain.",
+      "points": 1
+    },
+    {
+      "question": "William Blake spent most of his life in London and directly witnessed the social injustice brought by the Industrial Revolution.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Blake was born in London, spent most of his life in the city, and witnessed firsthand the poverty, child labour, and social injustice that the Industrial Revolution brought with it.",
+      "points": 1
+    },
+    {
+      "question": "In the first stanza of 'London,' the repetition of the word 'marks' suggests that suffering has been permanently stamped onto people like a brand.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explains that the repetition of 'marks' is deliberate and suggests that suffering has been stamped onto people's faces like a brand, as if their misery is a permanent mark that cannot be removed.",
+      "points": 1
+    }
+  ]
+}

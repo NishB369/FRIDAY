@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Kamala Das's 'My Grandmother's House' including poet biography, poem themes, and literary context.",
+  "questions": [
+    {
+      "question": "In which year was 'My Grandmother's House' first published?",
+      "type": "mcq",
+      "options": [
+        "1965 in Summer in Calcutta",
+        "1967 in The Descendants",
+        "1973 in The Old Playhouse and Other Poems",
+        "1976 in My Story"
+      ],
+      "correctAnswer": "1965 in Summer in Calcutta",
+      "explanation": "The content explicitly states that 'My Grandmother's House' was first published in 1965 in Kamala Das's debut collection Summer in Calcutta.",
+      "points": 1
+    },
+    {
+      "question": "What literary movement does Kamala Das's confessional poetry belong to?",
+      "type": "mcq",
+      "options": [
+        "Modernist poetry movement focusing on impersonal expression",
+        "Confessional poetry movement using direct personal experience and the 'I' of the poem",
+        "Metaphysical poetry emphasizing abstract concepts",
+        "Romantic poetry celebrating nature and emotion"
+      ],
+      "correctAnswer": "Confessional poetry movement using direct personal experience and the 'I' of the poem",
+      "explanation": "The content explains that Kamala Das is situated within the confessional poetry movement, which uses the 'I' of the poem as a direct channel for raw personal experience.",
+      "points": 1
+    },
+    {
+      "question": "Which pen name did Kamala Das use for her Malayalam writings?",
+      "type": "mcq",
+      "options": [
+        "Kamala Surayya",
+        "Madhavikutty",
+        "The Literature Talks",
+        "Punnayurkulam"
+      ],
+      "correctAnswer": "Madhavikutty",
+      "explanation": "The content states that Kamala Das wrote under her own name in English and under the pen name 'Madhavikutty' in Malayalam.",
+      "points": 1
+    },
+    {
+      "question": "What does the grandmother's house symbolize in the poem according to the analysis?",
+      "type": "mcq",
+      "options": [
+        "A place of urban alienation and cold emotions",
+        "A symbol of everything warm, safe, and freely loving in contrast to adult married life",
+        "A setting for the poet's literary career",
+        "A representation of social progress and modernization"
+      ],
+      "correctAnswer": "A symbol of everything warm, safe, and freely loving in contrast to adult married life",
+      "explanation": "The content explicitly states that 'The grandmother's house becomes a symbol for everything that was warm, safe, and freely loving, in contrast to the cold, transactional emotional world of adult womanhood.'",
+      "points": 1
+    },
+    {
+      "question": "Kamala Das was born in Kerala and spent her formative years at her maternal grandmother's ancestral home in Malabar.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content confirms that Kamala Das was born in Punnayurkulam, Kerala, and spent formative years at her maternal grandmother's ancestral home in Malabar.",
+      "points": 1
+    },
+    {
+      "question": "Kamala Das's confessional poetry primarily focuses on abstract philosophical concepts rather than personal emotional experiences.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clearly states that her confessional poetry broke ground by speaking openly about female desire, loneliness, marital disappointment, and other personal emotional experiences, not abstract concepts.",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Toni Morrison's Beloved themes, author background, and novel analysis",
+  "questions": [
+    {
+      "question": "What true historical event inspired Toni Morrison to write Beloved?",
+      "type": "mcq",
+      "options": [
+        "The story of Margaret Garner, an enslaved woman who killed her daughter in 1856 to prevent her return to slavery",
+        "The autobiography of Sethe, a formerly enslaved woman living in Cincinnati",
+        "A slave rebellion that occurred at Sweet Home plantation in Kentucky",
+        "The diary entries of Baby Suggs documenting her escape from slavery"
+      ],
+      "correctAnswer": "The story of Margaret Garner, an enslaved woman who killed her daughter in 1856 to prevent her return to slavery",
+      "explanation": "Morrison read about Margaret Garner's case and used it as the foundation for Beloved. This true story became the emotional core of the novel's central conflict.",
+      "points": 1
+    },
+    {
+      "question": "Which achievement made Toni Morrison the first African American woman to receive this prestigious award?",
+      "type": "mcq",
+      "options": [
+        "The Pulitzer Prize for Fiction in 1988",
+        "The Nobel Prize in Literature in 1993",
+        "The National Book Award in 1988",
+        "The American Academy Award in 1987"
+      ],
+      "correctAnswer": "The Nobel Prize in Literature in 1993",
+      "explanation": "Toni Morrison was the first African American woman to receive the Nobel Prize in Literature, which she won in 1993 for her significant contributions to literature.",
+      "points": 1
+    },
+    {
+      "question": "How does Paul D cope with the trauma and grief from his experiences at Sweet Home and the chain gang?",
+      "type": "mcq",
+      "options": [
+        "He isolates himself completely from human contact like Denver does",
+        "He imagines his pain locked away in a tobacco tin in his chest, far from his heart, and uses alcohol as solace",
+        "He writes detailed accounts of his suffering to process his emotions",
+        "He dedicates himself entirely to helping other formerly enslaved people"
+      ],
+      "correctAnswer": "He imagines his pain locked away in a tobacco tin in his chest, far from his heart, and uses alcohol as solace",
+      "explanation": "The novel describes Paul D's survival mechanism as locking his pain inside an imagined tobacco tin. When Sethe's act cracks this seal, the pain floods out and he turns to alcohol for comfort.",
+      "points": 1
+    },
+    {
+      "question": "What violation experienced by Sethe at Sweet Home represents slavery's dehumanization of Black women and their maternal identity?",
+      "type": "mcq",
+      "options": [
+        "She was forced to work without receiving any compensation",
+        "The schoolteacher's nephews held her down and stole her breast milk",
+        "She was prevented from learning to read or write",
+        "Her children were given names chosen by the slaveholder"
+      ],
+      "correctAnswer": "The schoolteacher's nephews held her down and stole her breast milk",
+      "explanation": "This specific act of violation demonstrates how slavery dehumanized Black women by denying them control over their own bodies and their fundamental right to nurture their children.",
+      "points": 1
+    },
+    {
+      "question": "Beloved is set during the Reconstruction era following the American Civil War.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Beloved is set in the years following the American Civil War, during the Reconstruction era, with the novel centered on Sethe living at 124 Bluestone Road in Cincinnati.",
+      "points": 1
+    },
+    {
+      "question": "Denver overcomes her grief and isolation by the end of the novel, stepping outside to find work and build a future.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Denver dealt with grief through isolation, but by the end of the novel, she breaks free from this isolation, steps outside, finds work, and begins building a future.",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'The Comet and The Moon' poem from Class 6 Roots and Wings anthology",
+  "questions": [
+    {
+      "question": "Why does the Moon feel sad and lonely in the poem?",
+      "type": "mcq",
+      "options": [
+        "It is stuck in the same orbit around Earth and cannot move freely",
+        "The Comet refuses to talk to it",
+        "Astronauts have stopped visiting it permanently",
+        "It is moving too fast through space"
+      ],
+      "correctAnswer": "It is stuck in the same orbit around Earth and cannot move freely",
+      "explanation": "The Moon explicitly states it is 'doomed' to always plot the same path in the chain of gravity, which is the source of its sadness and loneliness.",
+      "points": 1
+    },
+    {
+      "question": "What does the Comet represent in terms of the Moon's feelings?",
+      "type": "mcq",
+      "options": [
+        "A symbol of danger and chaos",
+        "Everything the Moon envies - freedom and the ability to roam freely",
+        "A reminder of past visitors to the Moon",
+        "A threat to the Moon's safety"
+      ],
+      "correctAnswer": "Everything the Moon envies - freedom and the ability to roam freely",
+      "explanation": "The Moon directly tells the Comet that it envies its ability to 'flare and sizzle' and 'roam like rockets do,' while the Moon is stuck in its orbit.",
+      "points": 1
+    },
+    {
+      "question": "What does the Moon ask the Comet to do in the fourth stanza?",
+      "type": "mcq",
+      "options": [
+        "Take it along on its journey through space",
+        "Tell other comets about the Moon's loneliness",
+        "Stay and talk because life has become dull",
+        "Visit Venus and bring back stories"
+      ],
+      "correctAnswer": "Stay and talk because life has become dull",
+      "explanation": "The Moon explicitly requests the Comet to 'stay and talk' because life is now 'too dull' after the astronauts stopped visiting.",
+      "points": 1
+    },
+    {
+      "question": "Which literary device is most important in this poem?",
+      "type": "mcq",
+      "options": [
+        "Metaphor",
+        "Personification - giving human feelings and speech to celestial objects",
+        "Alliteration",
+        "Simile"
+      ],
+      "correctAnswer": "Personification - giving human feelings and speech to celestial objects",
+      "explanation": "The poem's key literary device is personification, as both the Comet and Moon are given human emotions, thoughts, and the ability to have a conversation.",
+      "points": 1
+    },
+    {
+      "question": "The Comet stops to spend time with the Moon and answer its request for company.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The Comet ignores the Moon's request and speeds off to Venus without responding, leaving the Moon alone to continue its fixed orbit.",
+      "points": 1
+    },
+    {
+      "question": "The Moon feels nostalgic because it remembers when astronauts used to visit, float, and walk on its surface.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The Moon explicitly recalls that 'Spacemen came up to float and walk' on it, and these were exciting times that it now misses, making this a clear example of nostalgia.",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'A Feast on the Train' by Rabindranath Tagore from Class 6 Roots and Wings Chapter 11",
+  "questions": [
+    {
+      "question": "Which prestigious award did Rabindranath Tagore win in 1913?",
+      "type": "mcq",
+      "options": [
+        "The Nobel Prize in Literature",
+        "The Bharat Ratna",
+        "The Padma Bhushan",
+        "The National Film Award"
+      ],
+      "correctAnswer": "The Nobel Prize in Literature",
+      "explanation": "Tagore became the first non-European to win the Nobel Prize in Literature in 1913 for his poetry collection Gitanjali.",
+      "points": 1
+    },
+    {
+      "question": "What does the Bengali word 'Pandit' mean?",
+      "type": "mcq",
+      "options": [
+        "A school principal",
+        "A learned scholar or teacher",
+        "A train conductor",
+        "A school boy"
+      ],
+      "correctAnswer": "A learned scholar or teacher",
+      "explanation": "According to the content, in Bengali, the word 'Pandit' means a learned scholar or teacher, which is why the boys use it as a nickname for their new teacher.",
+      "points": 1
+    },
+    {
+      "question": "Where did Rabindranath Tagore found Visva-Bharati University?",
+      "type": "mcq",
+      "options": [
+        "Kolkata",
+        "Delhi",
+        "Shantiniketan in West Bengal",
+        "Darjeeling"
+      ],
+      "correctAnswer": "Shantiniketan in West Bengal",
+      "explanation": "The content states that Tagore founded the Visva-Bharati University at Shantiniketan in West Bengal, which was built on the idea of learning in nature.",
+      "points": 1
+    },
+    {
+      "question": "How do the boys initially react when the old man boards the train?",
+      "type": "mcq",
+      "options": [
+        "They welcome him warmly and offer him a seat",
+        "They tell him rudely that there is no space and suggest he find his own seat",
+        "They ignore him completely",
+        "They help him with his bags immediately"
+      ],
+      "correctAnswer": "They tell him rudely that there is no space and suggest he find his own seat",
+      "explanation": "According to the story, one of the tougher-looking boys tells the old man rudely: 'There is no space for you here, old man. Go find your own seat.'",
+      "points": 1
+    },
+    {
+      "question": "Rabindranath Tagore's famous song 'Jana Gana Mana' became India's national anthem.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content clearly states that Tagore's famous song 'Jana Gana Mana' became India's national anthem.",
+      "points": 1
+    },
+    {
+      "question": "The old man who boards the train becomes angry and loses his temper when the boys tease him about the compartment being infested with rats.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explicitly states that the old man does not lose his temper and stays calm and composed throughout, which actually disappoints the boys who wanted to see a reaction from him.",
+      "points": 1
+    }
+  ]
+}

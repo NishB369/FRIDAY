@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Philemon and Baucis Scene 1 from Class 6 Roots and Wings Literature Reader",
+  "questions": [
+    {
+      "question": "Where is the story of Philemon and Baucis originally set?",
+      "type": "mcq",
+      "options": [
+        "A village in Phrygia, a region in present-day Turkey",
+        "A village in ancient Rome",
+        "A village in ancient Greece",
+        "A village in present-day Egypt"
+      ],
+      "correctAnswer": "A village in Phrygia, a region in present-day Turkey",
+      "explanation": "The content explicitly states that the story is set in a village in Phrygia, a region in present-day Turkey. This is where the gods Zeus and Hermes (Jupiter and Mercury) visit in disguise.",
+      "points": 1
+    },
+    {
+      "question": "What is the original source of the Philemon and Baucis story?",
+      "type": "mcq",
+      "options": [
+        "The Hindu mythology texts",
+        "The Roman poet Ovid's collection called Metamorphoses",
+        "Ancient Egyptian hieroglyphic texts",
+        "The Norse mythology sagas"
+      ],
+      "correctAnswer": "The Roman poet Ovid's collection called Metamorphoses",
+      "explanation": "The content states that the original tale comes from the Roman poet Ovid's collection called Metamorphoses, which is a compilation of mythological transformation stories.",
+      "points": 1
+    },
+    {
+      "question": "What does Philemon say about the village and its people?",
+      "type": "mcq",
+      "options": [
+        "The land is poor but the people are generous",
+        "The land is fertile but the people are rude and selfish",
+        "The land is infertile and the people are also poor",
+        "The land and people are both very wealthy"
+      ],
+      "correctAnswer": "The land is fertile but the people are rude and selfish",
+      "explanation": "Philemon explicitly says he has never seen a place like this village where the land is very fertile but the people who live there are very rude and selfish, which is an unusual contrast.",
+      "points": 1
+    },
+    {
+      "question": "What does Baucis promise to give to a tired traveller who comes to their door?",
+      "type": "mcq",
+      "options": [
+        "Gold coins and expensive wine",
+        "Fresh bread and vegetables from the garden",
+        "Brown bread and a cup of milk",
+        "A comfortable bed and fine clothing"
+      ],
+      "correctAnswer": "Brown bread and a cup of milk",
+      "explanation": "Baucis clearly states: 'I will give him my brown bread and a cup of milk,' showing her willingness to share their simple food with strangers.",
+      "points": 1
+    },
+    {
+      "question": "Zeus and Hermes come to earth in their true divine form to test the villagers.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that Zeus and Hermes (Jupiter and Mercury) come down to earth in disguise as ordinary travellers, not in their true divine form.",
+      "points": 1
+    },
+    {
+      "question": "Philemon and Baucis decide to help strangers only if they are wealthy enough to afford it.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Philemon says that as long as God has given them food and a roof, they will help every stranger who asks, and Baucis agrees to share what little they have, showing they help despite being poor themselves.",
+      "points": 1
+    }
+  ]
+}

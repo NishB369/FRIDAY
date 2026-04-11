@@ -1,0 +1,79 @@
+{
+  "description": "Comprehension quiz on Enterprise by Nissim Ezekiel's life, poem background, and thematic content",
+  "questions": [
+    {
+      "question": "What title is Nissim Ezekiel widely regarded as having?",
+      "type": "mcq",
+      "options": [
+        "Father of Modern Indian English Poetry",
+        "Father of Indian Drama",
+        "Pioneer of Indian Short Stories",
+        "Founder of Indian Literary Movement"
+      ],
+      "correctAnswer": "Father of Modern Indian English Poetry",
+      "explanation": "The content explicitly states that Nissim Ezekiel is 'widely regarded as the Father of Modern Indian English Poetry,' a title earned by shaping a distinctly Indian voice in the English language.",
+      "points": 1
+    },
+    {
+      "question": "In what year did Nissim Ezekiel receive the Padma Shri award?",
+      "type": "mcq",
+      "options": [
+        "1976",
+        "1982",
+        "1983",
+        "1988"
+      ],
+      "correctAnswer": "1988",
+      "explanation": "According to the content, Ezekiel 'received the Padma Shri in 1988 in recognition of his contribution to Indian literature.'",
+      "points": 1
+    },
+    {
+      "question": "What extended metaphor is used in the poem 'Enterprise' to reflect on human life?",
+      "type": "mcq",
+      "options": [
+        "A voyage across the ocean",
+        "A pilgrimage",
+        "A climb up a mountain",
+        "A race between competitors"
+      ],
+      "correctAnswer": "A pilgrimage",
+      "explanation": "The content states that 'Enterprise is one of his most celebrated poems' and 'uses the extended metaphor of a pilgrimage to reflect on the journey of human life itself.'",
+      "points": 1
+    },
+    {
+      "question": "According to the poem's conclusion, where is true grace actually found?",
+      "type": "mcq",
+      "options": [
+        "At the distant pilgrimage destination",
+        "In the temples passed along the journey",
+        "At home",
+        "In the desert hardships"
+      ],
+      "correctAnswer": "At home",
+      "explanation": "The content explicitly states that 'the poet concludes that true grace is not found at a distant destination but at home,' as captured in the key phrase 'home is where we have to gather grace.'",
+      "points": 1
+    },
+    {
+      "question": "Nissim Ezekiel was awarded the Sahitya Akademi Award in 1983 for his collection 'Latter-Day Psalms.'",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content confirms that Ezekiel 'was awarded the Sahitya Akademi Award in 1983 for Latter-Day Psalms.'",
+      "points": 1
+    },
+    {
+      "question": "In Stanza 2, the pilgrims focus on meaningful observations about the true purpose of their journey rather than getting distracted by trivial details.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that the group 'does not pay attention to the true lesson' and is 'getting distracted from their real goal,' wasting energy on trivial observations instead of staying focused on what truly matters.",
+      "points": 1
+    }
+  ]
+}

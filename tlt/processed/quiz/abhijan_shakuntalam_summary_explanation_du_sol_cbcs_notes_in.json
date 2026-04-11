@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Abhijnana Shakuntalam by Kalidasa, including plot, characters, and literary context",
+  "questions": [
+    {
+      "question": "Who is the author of Abhijnana Shakuntalam?",
+      "type": "mcq",
+      "options": [
+        "Kalidasa",
+        "Bharata Muni",
+        "Vishwamitra",
+        "Georg Forster"
+      ],
+      "correctAnswer": "Kalidasa",
+      "explanation": "Kalidasa is the renowned Sanskrit playwright who created Abhijnana Shakuntalam, often called the 'Shakespeare of Sanskrit' and believed to have flourished during the Gupta period (4th-5th century CE).",
+      "points": 1
+    },
+    {
+      "question": "What form of marriage did Dushyanta and Shakuntala enter into?",
+      "type": "mcq",
+      "options": [
+        "Brahma marriage with parental blessing",
+        "Gandharva marriage by mutual consent",
+        "Asura marriage arranged by priests",
+        "Rakshasa marriage by abduction"
+      ],
+      "correctAnswer": "Gandharva marriage by mutual consent",
+      "explanation": "The text explicitly states that Dushyanta and Shakuntala were wed in the Gandharva form, which is a marriage by mutual consent without formal ceremony or parental blessing, recognized as valid for the kshatriya class in classical Indian tradition.",
+      "points": 1
+    },
+    {
+      "question": "Who raised Shakuntala after she was abandoned in the forest?",
+      "type": "mcq",
+      "options": [
+        "Menaka, the celestial nymph",
+        "Vishwamitra, the great sage",
+        "Rishi Kanva, the compassionate sage",
+        "King Dushyanta"
+      ],
+      "correctAnswer": "Rishi Kanva, the compassionate sage",
+      "explanation": "The content states that infant Shakuntala was found crying near the hermitage of sage Kanva, who was moved by compassion, took her in, and raised her as his own daughter in the forest ashram.",
+      "points": 1
+    },
+    {
+      "question": "What did King Dushyanta give to Shakuntala as a token of his love and identity before departing?",
+      "type": "mcq",
+      "options": [
+        "A love letter written in Sanskrit",
+        "A royal ring bearing his name",
+        "A precious gemstone from his treasury",
+        "A written marriage contract"
+      ],
+      "correctAnswer": "A royal ring bearing his name",
+      "explanation": "The text clearly states that before leaving the ashram, Dushyanta gave Shakuntala a royal ring bearing his name as a token of his love and identity.",
+      "points": 1
+    },
+    {
+      "question": "Abhijnana Shakuntalam is based on an episode from the Mahabharata, but Kalidasa significantly reworked the original story.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that the play is based on an episode from the Adi Parva of the Mahabharata, but Kalidasa transformed it by introducing a sage's curse as the cause of separation, rather than Dushyanta's willful abandonment, thus ennobling the hero.",
+      "points": 1
+    },
+    {
+      "question": "Kalidasa's Abhijnana Shakuntalam was first translated into German by Georg Forster in 1791 and later praised by Goethe.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text confirms that the play was translated into German by Georg Forster in 1791 and praised lavishly by Goethe, which brought it to the attention of European scholarship and established its world literary significance.",
+      "points": 1
+    }
+  ]
+}

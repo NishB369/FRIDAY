@@ -1,7 +1,7 @@
 # The Literature Talks — Status Board
 
 **Last Updated:** 2026-04-11  
-**Total:** 77 &nbsp;|&nbsp; **Done:** 55 &nbsp;|&nbsp; **Pending:** 20 &nbsp;|&nbsp; **Skipped:** 2
+**Total:** 77 &nbsp;|&nbsp; **Done:** 75 &nbsp;|&nbsp; **Pending:** 0 &nbsp;|&nbsp; **Skipped:** 2
 
 ---
 
@@ -58,29 +58,29 @@
 | 49 | `4DYyUpxysQM` | Beloved by Toni Morrison — Themes of Beloved — Major Themes — American Literature — Ba English Hons | ✅ | ✅ |
 | 50 | `LzM7kLUamrM` | The lady Of Shalott by Alfred Tennyson Line by Line Explanation Part 1 British Lit. 19 cent | ✅ | ✅ |
 | 51 | `89CXJIHipc8` | Beloved by Toni Morrison — Important Question Answers part 2 — DU — SOL — 2nd Yr — Most Expected | ✅ | ✅ |
-| 52 | `5-YCbGuaO60` | In Custody by Anita Desai Summary in Hindi Explanation and Full Analysis in hindi — Ba eng hons | ✅ | ❌ |
+| 52 | `5-YCbGuaO60` | In Custody by Anita Desai Summary in Hindi Explanation and Full Analysis in hindi — Ba eng hons | ✅ | ✅ |
 | 53 | `c-mBMR5i0Dw` | The Real Crusoe — Back Exercise — Roots and Wings Class 6th — Literature Reader | ✅ | ✅ |
 | 54 | `8N3V7ibegSw` | Beloved by Toni Morrison — Important Question Answers part 1 — DU — SOL — 2nd Yr — Most Expected | ✅ | ✅ |
 | 55 | `5kp56Js_Nbg` | Sonnet 60 by William Shakespeare — line by line explanation in Hindi — Summary | ✅ | ✅ |
 | 56 | `CxVD6FJzxOs` | 🎬"Sonnet 18" by William Shakespeare — Sonnet 18 by William Shakespeare — line by line explanation | ✅ | ✅ |
 | 57 | `FPDkgoj8xAY` | Write an essay on Books as Companion — Essay Writing — English — Beautifu; Handwriting | ✅ | ✅ |
 | 58 | `mSCE4yxShOM` | Perhaps the world ends here by Joy Harjo — Analysis — Line by line Explanation — Summary in Hindi | ✅ | ✅ |
-| 59 | `txXWinSsVJk` | Beloved by Toni Morisson Summary in Hindi Ba Eng Hons 3rd sem Delhi University Sol | ✅ | ❌ |
-| 60 | `WsGlKTrFGPY` | Aunt Sue's Stories by Langston Hughes — Summary and Analysis — Line by Line Explanation in Hindi | ✅ | ❌ |
-| 61 | `t6XIHFrXMrU` | English poem - Sonnet 1 by William Shakespeare - "From Fairest Creatures" line-line explain in hindi | ✅ | ❌ |
-| 62 | `JaRQaB7NU-4` | The Story of Shakespeare's Sonnets -summary in Hindi — Explained — Summary — Characters — Background | ✅ | ❌ |
-| 63 | `lHGB5DXZCt8` | They Flee From Me by Sir Thomas Wyatt — Thomas Wyatt — Line by line explanation | ✅ | ❌ |
-| 64 | `edTNsPCpyUQ` | The South by Langston Hughes — Summary in Hindi — Explanation in Hindi — Poetry — Langston Hughes | ✅ | ❌ |
-| 65 | `k4BSpybnCIY` | The Real Crusoe — Daniel Defoe — Roots and Wings — Class 6 — English Literature — Robinson Crusoe | ✅ | ❌ |
-| 66 | `NikCbcaVeIk` | O CAPTAIN MY CAPTAIN by WALT WHITMAN summary in Hindi — explanation in Hindi — DU — SOL — IGNOU | ✅ | ❌ |
-| 67 | `m_WG_zpHW-o` | Comment On The Themes Discussed In Abhijnana Shakuntala — Important Question — DU — SOL — IGNOU — BA | ✅ | ❌ |
-| 68 | `EIcRu5nmZmk` | The Negro Speaks of Rivers Summary In Hindi — Line By Line Explanation In Hindi | ✅ | ❌ |
-| 69 | `TQbJHofFV24` | A Supermarket In California Allen Ginsberg Summary In Hindi | ✅ | ❌ |
-| 70 | `KJH7b9dXZM8` | The ending of Twelfth Night problematizes the comic ending of the play. Do you agree? Give reasons. | ✅ | ❌ |
-| 71 | `2A9Zo3PGOnk` | Salman Rushdie's narrative style in the short story 'The Free Radio,' | ✅ | ❌ |
-| 72 | `Tm2oxCuUTyE` | The character of Nur represents the state of Urdu language and literature in India. — SOL — ABE | ✅ | ❌ |
-| 73 | `UfpCuxUztfQ` | My Grandmother's House by Kamala Das - Summary In Hindi | ✅ | ❌ |
-| 74 | `YaKkIJA33EY` | BA ENGLISH HONS ASSIGNMENT SOLVED 2nd sem — Dr. Faustus as a Christian play — NOTES IN DESCRIPTION | ✅ | ❌ |
-| 75 | `2zMP61djEpA` | Comment on the theme of partition in The Shadow Lines — DU — SOL — ABE — NOTES IN DESCRIPTION | ✅ | ❌ |
-| 76 | `rEq7Nb_MaIY` | Whoso List To Hunt by Thomas Wyatt — Summary — DU — SOL — 2nd semester — NOTES IN DESCRIPTION | ✅ | ❌ |
-| 77 | `R1gFIKW0e4s` | ABHIJAN SHAKUNTALAM SUMMARY — EXPLANATION — DU — SOL — CBCS — NOTES IN DESCRIPTION | ✅ | ❌ |
+| 59 | `txXWinSsVJk` | Beloved by Toni Morisson Summary in Hindi Ba Eng Hons 3rd sem Delhi University Sol | ✅ | ✅ |
+| 60 | `WsGlKTrFGPY` | Aunt Sue's Stories by Langston Hughes — Summary and Analysis — Line by Line Explanation in Hindi | ✅ | ✅ |
+| 61 | `t6XIHFrXMrU` | English poem - Sonnet 1 by William Shakespeare - "From Fairest Creatures" line-line explain in hindi | ✅ | ✅ |
+| 62 | `JaRQaB7NU-4` | The Story of Shakespeare's Sonnets -summary in Hindi — Explained — Summary — Characters — Background | ✅ | ✅ |
+| 63 | `lHGB5DXZCt8` | They Flee From Me by Sir Thomas Wyatt — Thomas Wyatt — Line by line explanation | ✅ | ✅ |
+| 64 | `edTNsPCpyUQ` | The South by Langston Hughes — Summary in Hindi — Explanation in Hindi — Poetry — Langston Hughes | ✅ | ✅ |
+| 65 | `k4BSpybnCIY` | The Real Crusoe — Daniel Defoe — Roots and Wings — Class 6 — English Literature — Robinson Crusoe | ✅ | ✅ |
+| 66 | `NikCbcaVeIk` | O CAPTAIN MY CAPTAIN by WALT WHITMAN summary in Hindi — explanation in Hindi — DU — SOL — IGNOU | ✅ | ✅ |
+| 67 | `m_WG_zpHW-o` | Comment On The Themes Discussed In Abhijnana Shakuntala — Important Question — DU — SOL — IGNOU — BA | ✅ | ✅ |
+| 68 | `EIcRu5nmZmk` | The Negro Speaks of Rivers Summary In Hindi — Line By Line Explanation In Hindi | ✅ | ✅ |
+| 69 | `TQbJHofFV24` | A Supermarket In California Allen Ginsberg Summary In Hindi | ✅ | ✅ |
+| 70 | `KJH7b9dXZM8` | The ending of Twelfth Night problematizes the comic ending of the play. Do you agree? Give reasons. | ✅ | ✅ |
+| 71 | `2A9Zo3PGOnk` | Salman Rushdie's narrative style in the short story 'The Free Radio,' | ✅ | ✅ |
+| 72 | `Tm2oxCuUTyE` | The character of Nur represents the state of Urdu language and literature in India. — SOL — ABE | ✅ | ✅ |
+| 73 | `UfpCuxUztfQ` | My Grandmother's House by Kamala Das - Summary In Hindi | ✅ | ✅ |
+| 74 | `YaKkIJA33EY` | BA ENGLISH HONS ASSIGNMENT SOLVED 2nd sem — Dr. Faustus as a Christian play — NOTES IN DESCRIPTION | ✅ | ✅ |
+| 75 | `2zMP61djEpA` | Comment on the theme of partition in The Shadow Lines — DU — SOL — ABE — NOTES IN DESCRIPTION | ✅ | ✅ |
+| 76 | `rEq7Nb_MaIY` | Whoso List To Hunt by Thomas Wyatt — Summary — DU — SOL — 2nd semester — NOTES IN DESCRIPTION | ✅ | ✅ |
+| 77 | `R1gFIKW0e4s` | ABHIJAN SHAKUNTALAM SUMMARY — EXPLANATION — DU — SOL — CBCS — NOTES IN DESCRIPTION | ✅ | ✅ |

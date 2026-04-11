@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of the essay on Books as Companion, including main arguments, benefits of books, and warnings about poor-quality reading material.",
+  "questions": [
+    {
+      "question": "According to the essay, why are human friendships often unreliable in modern times?",
+      "type": "mcq",
+      "options": [
+        "They are based on self-interest and break when personal gain conflicts with loyalty",
+        "People are too busy with work to maintain friendships",
+        "Human beings prefer to read books instead of socializing",
+        "Modern technology makes face-to-face friendships impossible"
+      ],
+      "correctAnswer": "They are based on self-interest and break when personal gain conflicts with loyalty",
+      "explanation": "The essay explicitly states that human friendships are based on self-interest and tend to break when there is a conflict between personal gain and loyalty, which is why books serve as better companions.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit that good books provide?",
+      "type": "mcq",
+      "options": [
+        "They increase wealth and financial prosperity",
+        "They sharpen intellectual taste and broaden outlook on life",
+        "They console us when we are sad or depressed",
+        "They remove ignorance and increase our knowledge"
+      ],
+      "correctAnswer": "They increase wealth and financial prosperity",
+      "explanation": "The essay lists many benefits of books including intellectual improvement, emotional support, and knowledge gain, but does not claim that books increase wealth or financial prosperity.",
+      "points": 1
+    },
+    {
+      "question": "What does the essay identify as the primary dangers of bad books?",
+      "type": "mcq",
+      "options": [
+        "They are too expensive and difficult to obtain",
+        "They can ruin character, develop bad habits, mislead readers, and waste time and energy",
+        "They are written in languages that are difficult to understand",
+        "They discourage people from developing reading habits"
+      ],
+      "correctAnswer": "They can ruin character, develop bad habits, mislead readers, and waste time and energy",
+      "explanation": "The essay specifically warns that bad books make life miserable, develop bad habits, mislead readers (especially young ones), and waste time and energy, which is why selective reading is important.",
+      "points": 1
+    },
+    {
+      "question": "According to the essay, what makes the pleasure gained from reading books unique compared to other sources of entertainment?",
+      "type": "mcq",
+      "options": [
+        "Books are the cheapest form of entertainment available",
+        "Reading allows us to forget our worries and be transported to a world of beauty, imagination, and happiness, providing deeply fulfilling joy",
+        "Books can be shared with large groups of people at once",
+        "Reading books requires no effort or concentration from the reader"
+      ],
+      "correctAnswer": "Reading allows us to forget our worries and be transported to a world of beauty, imagination, and happiness, providing deeply fulfilling joy",
+      "explanation": "The essay contrasts the unique pleasure of reading\u2014where we are transported to worlds of beauty and imagination and experience deep fulfillment\u2014with other forms of entertainment like sports, games, and films.",
+      "points": 1
+    },
+    {
+      "question": "Good books serve as both a friend and a philosopher or guide to readers.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The essay explicitly states in Paragraph 4 that 'A good book is not just a friend. It is also a philosopher and a guide,' emphasizing the dual role books play in a reader's life.",
+      "points": 1
+    },
+    {
+      "question": "The essay recommends that all books, regardless of quality, should be read to develop a healthy reading habit.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The essay explicitly warns against bad books and emphasizes that students must be careful and selective, reading only good books and avoiding cheap and low-quality books, contradicting the idea that all books should be read.",
+      "points": 1
+    }
+  ]
+}

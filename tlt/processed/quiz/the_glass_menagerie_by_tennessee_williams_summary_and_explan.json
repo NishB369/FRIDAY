@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Tennessee Williams' The Glass Menagerie, its background, themes, and key characters.",
+  "questions": [
+    {
+      "question": "Which of the following best describes the formal structure of The Glass Menagerie?",
+      "type": "mcq",
+      "options": [
+        "A memory play filtered through Tom Wingfield's subjective recollection",
+        "A strictly realistic drama set during the Great Depression",
+        "A comedy about Southern family life in the 1930s",
+        "An experimental play with no narrative structure"
+      ],
+      "correctAnswer": "A memory play filtered through Tom Wingfield's subjective recollection",
+      "explanation": "The content explicitly states that The Glass Menagerie is a 'memory play' where 'the entire action is filtered through the subjective memory of one character, Tom Wingfield,' and audiences should not expect strict realism.",
+      "points": 1
+    },
+    {
+      "question": "What is the autobiographical connection between Tennessee Williams and the Wingfield family?",
+      "type": "mcq",
+      "options": [
+        "Tom represents Williams' father, Amanda represents his sister Rose, and Laura represents his mother",
+        "Tom is a self-portrait of young Williams, Amanda is based on his mother Edwina, and Laura is based on his sister Rose",
+        "All three characters are entirely fictional with no basis in Williams' life",
+        "The family is based on Williams' college friends and teachers"
+      ],
+      "correctAnswer": "Tom is a self-portrait of young Williams, Amanda is based on his mother Edwina, and Laura is based on his sister Rose",
+      "explanation": "The content states that 'Tom in The Glass Menagerie is widely understood as a self-portrait of the young Williams, Amanda as a version of his own mother Edwina, and Laura as his beloved but troubled sister Rose.'",
+      "points": 1
+    },
+    {
+      "question": "In what year did The Glass Menagerie premiere, and in which city?",
+      "type": "mcq",
+      "options": [
+        "1943 in New York",
+        "1944 in Chicago",
+        "1945 in St. Louis",
+        "1947 in Broadway"
+      ],
+      "correctAnswer": "1944 in Chicago",
+      "explanation": "The content explicitly states that 'The Glass Menagerie premiered in Chicago in December 1944' and that it moved to Broadway after receiving enthusiastic reviews.",
+      "points": 1
+    },
+    {
+      "question": "What does the fire escape in the Wingfield apartment symbolize?",
+      "type": "mcq",
+      "options": [
+        "A symbol of safety and security for the family",
+        "A symbol of both entrapment and the desire to escape",
+        "A practical feature of modern apartment buildings",
+        "A symbol of the family's wealth and status"
+      ],
+      "correctAnswer": "A symbol of both entrapment and the desire to escape",
+      "explanation": "The content notes that 'The Wingfield family lives in a small rented apartment with fire escape steps \u2014 a symbol of both entrapment and the desire to escape.'",
+      "points": 1
+    },
+    {
+      "question": "Tennessee Williams' sister Rose underwent a lobotomy in 1943, which directly influenced the characterization of Laura in the play.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that Laura is based on 'his beloved but troubled sister Rose, who underwent a lobotomy in 1943,' indicating this traumatic family event influenced the play's creation.",
+      "points": 1
+    },
+    {
+      "question": "The Glass Menagerie features the Father as an active character who appears on stage multiple times throughout the play.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clearly states that the Father 'never appears on stage but whose desertion haunts the whole family,' and 'only his portrait on the wall remains.'",
+      "points": 1
+    }
+  ]
+}

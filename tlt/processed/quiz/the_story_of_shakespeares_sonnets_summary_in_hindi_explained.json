@@ -1,0 +1,79 @@
+{
+  "description": "Test comprehension of Shakespeare's Sonnets introduction, form, background, and historical context",
+  "questions": [
+    {
+      "question": "What is the distinctive rhyme scheme of a Shakespearean sonnet?",
+      "type": "mcq",
+      "options": [
+        "ABAB CDCD EFEF GG",
+        "ABBAABBA CDECDE",
+        "ABAB BCBC CDCD EE",
+        "AABB CCDD EEFF GG"
+      ],
+      "correctAnswer": "ABAB CDCD EFEF GG",
+      "explanation": "The Shakespearean or Elizabethan sonnet follows the rhyme scheme ABAB CDCD EFEF GG, which consists of three quatrains and a final couplet, as explained in the content.",
+      "points": 1
+    },
+    {
+      "question": "To whom are the first 126 sonnets in Shakespeare's sequence addressed?",
+      "type": "mcq",
+      "options": [
+        "A fair lady named Laura",
+        "A young man of exceptional beauty",
+        "A woman with dark complexion and hair",
+        "An idealized, virtuous woman"
+      ],
+      "correctAnswer": "A young man of exceptional beauty",
+      "explanation": "The content states that rather than a fair lady, the first 126 sonnets are addressed to a young man of exceptional beauty, which deliberately subverts Petrarchan conventions.",
+      "points": 1
+    },
+    {
+      "question": "Which publisher issued the primary authoritative text of Shakespeare's sonnets in 1609?",
+      "type": "mcq",
+      "options": [
+        "William Thorpe",
+        "Thomas Wyatt",
+        "Thomas Thorpe",
+        "Surrey Publishing"
+      ],
+      "correctAnswer": "Thomas Thorpe",
+      "explanation": "According to the content, the Quarto of 1609 was published by the stationer Thomas Thorpe and entered in the Stationers' Register that same year.",
+      "points": 1
+    },
+    {
+      "question": "What metre does Shakespeare use in his sonnets?",
+      "type": "mcq",
+      "options": [
+        "Trochaic tetrameter",
+        "Iambic hexameter",
+        "Iambic pentameter",
+        "Dactylic pentameter"
+      ],
+      "correctAnswer": "Iambic pentameter",
+      "explanation": "The content explicitly states that the metre is iambic pentameter, with each line containing ten syllables arranged in five iambic feet (unstressed-stressed pattern).",
+      "points": 1
+    },
+    {
+      "question": "Shakespeare's sonnets were most likely composed during the 1590s when London theatres were closed due to plague.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that Shakespeare composed his sonnets 'most likely in the 1590s, during a period when the London theatres were closed due to plague.'",
+      "points": 1
+    },
+    {
+      "question": "The mysterious figure \"Mr. W.H.\" mentioned in the 1609 dedication is definitively identified as William Herbert in the content provided.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content describes the dedicatee as 'a mysterious figure identified only as \"Mr. W.H.\"' and does not definitively identify this person, though the keywords suggest possible identifications; the dedication remains 'one of the most enduring mysteries in English literary history.'",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'Abou Ben Adhem' poem, poet background, and key themes from Class 6 Roots and Wings Chapter 13",
+  "questions": [
+    {
+      "question": "Who was the real historical figure that inspired Leigh Hunt's poem 'Abou Ben Adhem'?",
+      "type": "mcq",
+      "options": [
+        "Ibrahim ibn Adham, an 8th century Islamic mystic and saint",
+        "James Henry Leigh Hunt, an English Romantic poet",
+        "John Keats, a famous English poet",
+        "Percy Bysshe Shelley, a friend of Leigh Hunt"
+      ],
+      "correctAnswer": "Ibrahim ibn Adham, an 8th century Islamic mystic and saint",
+      "explanation": "The content explicitly states that the poem is based on the life of Ibrahim ibn Adham, a real historical figure who was an Islamic mystic and saint living in the 8th century.",
+      "points": 1
+    },
+    {
+      "question": "In the first part of the poem, what does the angel tell Abou Ben Adhem when asked 'Is mine one?'",
+      "type": "mcq",
+      "options": [
+        "Yes, your name is written in the book of gold",
+        "No, but we will write your name tomorrow",
+        "Nay, not so",
+        "Your name will be added if you pray more"
+      ],
+      "correctAnswer": "Nay, not so",
+      "explanation": "The poem clearly states that when Abou asks 'And is mine one?', the angel replies 'Nay, not so,' indicating that Abou's name is not written in the book of those who love the Lord.",
+      "points": 1
+    },
+    {
+      "question": "What is the central message that Leigh Hunt conveys through 'Abou Ben Adhem'?",
+      "type": "mcq",
+      "options": [
+        "Angels are more important than human beings",
+        "Loving your fellow human beings is itself a form of loving God",
+        "Only those who pray loudly will be remembered by God",
+        "Peace comes from avoiding contact with other people"
+      ],
+      "correctAnswer": "Loving your fellow human beings is itself a form of loving God",
+      "explanation": "The content states that the central message is that loving your fellow human beings is itself a form of loving God, because human beings are God's creation.",
+      "points": 1
+    },
+    {
+      "question": "In which literary tradition does 'Abou Ben Adhem' belong?",
+      "type": "mcq",
+      "options": [
+        "Gothic literature tradition",
+        "Romantic tradition",
+        "Modernist tradition",
+        "Victorian literature tradition"
+      ],
+      "correctAnswer": "Romantic tradition",
+      "explanation": "The content explicitly states that the poem belongs to the Romantic tradition, which valued human emotion, individual experience, and a personal relationship with the divine.",
+      "points": 1
+    },
+    {
+      "question": "Leigh Hunt was a close friend and supporter of famous poets like John Keats and Percy Bysshe Shelley.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content clearly states that Leigh Hunt was a close friend of famous poets like John Keats and Percy Bysshe Shelley, and helped bring their work to public attention.",
+      "points": 1
+    },
+    {
+      "question": "The poem 'Abou Ben Adhem' was first published in 1848 and has been included in school textbooks across many countries.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "According to the content, the poem was first published in 1834, not 1848. The year of publication mentioned in the text is clearly stated as 1834.",
+      "points": 1
+    }
+  ]
+}

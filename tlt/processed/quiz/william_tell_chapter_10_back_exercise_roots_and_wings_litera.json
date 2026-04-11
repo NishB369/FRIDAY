@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of William Tell Chapter 10 from Roots and Wings Class 6 Literature Reader",
+  "questions": [
+    {
+      "question": "What was William Tell's main weapon that he carried with him?",
+      "type": "mcq",
+      "options": [
+        "A sword",
+        "A crossbow",
+        "A spear",
+        "A gun"
+      ],
+      "correctAnswer": "A crossbow",
+      "explanation": "William Tell carried a crossbow (bow and arrows) as his main weapon, which was most closely associated with him throughout the story.",
+      "points": 1
+    },
+    {
+      "question": "Who placed the hat on the pole in the market square?",
+      "type": "mcq",
+      "options": [
+        "William Tell",
+        "Gessler",
+        "Walter",
+        "The Emperor"
+      ],
+      "correctAnswer": "Gessler",
+      "explanation": "Gessler, the cruel Austrian governor, placed his hat on a pole in the market square and ordered all people to bow before it as a symbol of the Emperor's authority.",
+      "points": 1
+    },
+    {
+      "question": "What was William Tell's position in society?",
+      "type": "mcq",
+      "options": [
+        "An Austrian soldier",
+        "A skilled archer and proud Swiss patriot",
+        "A market seller",
+        "A royal guard"
+      ],
+      "correctAnswer": "A skilled archer and proud Swiss patriot",
+      "explanation": "William Tell is described as a skilled archer and a proud Swiss patriot who refused to submit to Austrian rule, making him a symbol of freedom and resistance.",
+      "points": 1
+    },
+    {
+      "question": "Why did William Tell secretly take out a second arrow?",
+      "type": "mcq",
+      "options": [
+        "To impress Gessler with his skill",
+        "As a backup in case he missed the apple",
+        "To kill Gessler if his first shot harmed his son Walter",
+        "To show his strength to the other people"
+      ],
+      "correctAnswer": "To kill Gessler if his first shot harmed his son Walter",
+      "explanation": "William Tell kept a second arrow hidden with the intention that if his first shot accidentally hurt or killed his son, the second arrow was meant for Gessler as revenge.",
+      "points": 1
+    },
+    {
+      "question": "William Tell was an excellent archer.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text explicitly describes William Tell as a skilled archer, and he successfully shot the apple off his son's head, demonstrating his exceptional archery abilities.",
+      "points": 1
+    },
+    {
+      "question": "William Tell bowed before Gessler's hat because he forgot about the order.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Although William Tell initially walked through without bowing because he was talking to his son and not paying attention, when soldiers forced him to bow, he refused on principle as a proud Swiss patriot who would not submit to foreign rule.",
+      "points": 1
+    }
+  ]
+}

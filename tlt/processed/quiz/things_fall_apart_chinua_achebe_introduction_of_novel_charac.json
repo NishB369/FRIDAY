@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Things Fall Apart by Chinua Achebe, covering the author's background, novel context, structure, and main characters.",
+  "questions": [
+    {
+      "question": "In what year was Things Fall Apart first published?",
+      "type": "mcq",
+      "options": [
+        "1956",
+        "1958",
+        "1960",
+        "1962"
+      ],
+      "correctAnswer": "1958",
+      "explanation": "The novel was first published in 1958, which was two years before Nigeria gained independence from Britain, making the timing historically significant.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following best describes Chinua Achebe's main contribution to African literature?",
+      "type": "mcq",
+      "options": [
+        "He created the first dictionary of African languages",
+        "He gave Africa its own literary voice and challenged Western narratives about the continent",
+        "He translated all traditional African oral stories into English",
+        "He established the first university for African writers"
+      ],
+      "correctAnswer": "He gave Africa its own literary voice and challenged Western narratives about the continent",
+      "explanation": "Achebe is widely regarded as the father of modern African literature because he challenged the dominant Western depiction of Africa as a 'dark continent' without history or culture, allowing Africa to tell its own stories.",
+      "points": 1
+    },
+    {
+      "question": "What is the novel's title derived from?",
+      "type": "mcq",
+      "options": [
+        "An Igbo proverb about social collapse",
+        "A W.B. Yeats poem called 'The Second Coming'",
+        "A traditional Nigerian folk song",
+        "An ancient Igbo historical chronicle"
+      ],
+      "correctAnswer": "A W.B. Yeats poem called 'The Second Coming'",
+      "explanation": "Achebe uses the phrase 'Things fall apart; the centre cannot hold' from Yeats's poem 'The Second Coming' as the novel's title and frame for showing how colonialism disrupted Igbo society.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT a major work by Chinua Achebe mentioned in the content?",
+      "type": "mcq",
+      "options": [
+        "No Longer at Ease",
+        "Arrow of God",
+        "The Second Coming",
+        "Anthills of the Savannah"
+      ],
+      "correctAnswer": "The Second Coming",
+      "explanation": "The Second Coming is a W.B. Yeats poem, not a work by Achebe. His major works include No Longer at Ease, Arrow of God, A Man of the People, and Anthills of the Savannah.",
+      "points": 1
+    },
+    {
+      "question": "Things Fall Apart is set in the Igbo clan of Umuofia during the late 19th century when British colonial forces and Christian missionaries were arriving in West Africa.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The novel is set in the fictional Igbo clan of Umuofia in southeastern Nigeria during the late 19th century, a period when British colonialism and Christian missionaries were making inroads into West Africa.",
+      "points": 1
+    },
+    {
+      "question": "Okonkwo's fear of becoming like his father Unoka, who was a lazy debtor, drives him to be adaptable and flexible in his approach to life.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "While Okonkwo's fear of failing like his father does drive him, it actually makes him brutal, rigid, and excessive rather than adaptable. He becomes overly harsh and inflexible rather than flexible.",
+      "points": 1
+    }
+  ]
+}

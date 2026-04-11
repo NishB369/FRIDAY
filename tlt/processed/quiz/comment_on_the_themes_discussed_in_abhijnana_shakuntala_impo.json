@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of themes and literary analysis in Kalidasa's Abhijnana Shakuntalam",
+  "questions": [
+    {
+      "question": "According to the content, in which historical period is Kalidasa most likely to have lived?",
+      "type": "mcq",
+      "options": [
+        "2nd\u20133rd century CE during the Maurya period",
+        "4th\u20135th century CE during the Gupta period",
+        "6th\u20137th century CE during the Harsha period",
+        "1st\u20132nd century CE during the Satavahana period"
+      ],
+      "correctAnswer": "4th\u20135th century CE during the Gupta period",
+      "explanation": "The content explicitly states that most scholars place Kalidasa in the Gupta period (approximately 4th\u20135th century CE), which is described as a golden age of Indian art, science, and philosophy.",
+      "points": 1
+    },
+    {
+      "question": "What is the primary meaning of the title 'Abhijnana Shakuntalam'?",
+      "type": "mcq",
+      "options": [
+        "The Love of Shakuntala and Dushyanta",
+        "The Recognition of Shakuntala, referring to a ring of identification",
+        "The Curse Upon Shakuntala",
+        "The Journey of Shakuntala to the Royal Court"
+      ],
+      "correctAnswer": "The Recognition of Shakuntala, referring to a ring of identification",
+      "explanation": "The content explains that 'abhijnana' means recognition or token of identification, specifically referring to a ring that becomes central to the plot's resolution.",
+      "points": 1
+    },
+    {
+      "question": "Which famous Western poet expressed admiration for Abhijnana Shakuntalam?",
+      "type": "mcq",
+      "options": [
+        "Lord Byron",
+        "Johann Wolfgang von Goethe",
+        "Samuel Taylor Coleridge",
+        "William Wordsworth"
+      ],
+      "correctAnswer": "Johann Wolfgang von Goethe",
+      "explanation": "The content states that the German poet Goethe famously expressed admiration for the play, describing it as containing 'the blossom of youth and the fruit of mature years.'",
+      "points": 1
+    },
+    {
+      "question": "What literary technique does Kalidasa use to integrate nature imagery with human emotion?",
+      "type": "mcq",
+      "options": [
+        "Bahya srishti, where external creation mirrors internal states",
+        "Rasa theory, which categorizes emotional responses",
+        "Dhvani, which emphasizes suggestion over direct statement",
+        "Kavya, the formal structure of Sanskrit poetry"
+      ],
+      "correctAnswer": "Bahya srishti, where external creation mirrors internal states",
+      "explanation": "The content explicitly defines bahya srishti as the technique where landscapes, seasons, rivers, trees, and animals serve as symbolic extensions of the psychological and spiritual states of characters.",
+      "points": 1
+    },
+    {
+      "question": "Shakuntala is the biological daughter of a celestial nymph and a sage.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that Shakuntala is the adopted daughter of Rishi Kanva but the biological daughter of the celestial nymph Menaka and the sage Vishwamitra.",
+      "points": 1
+    },
+    {
+      "question": "According to the content, King Dushyanta first encounters Shakuntala at the hermitage of Rishi Kanva during a formal royal procession.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that King Dushyanta encounters Shakuntala during a hunting expedition in the forest, not during a formal royal procession.",
+      "points": 1
+    }
+  ]
+}

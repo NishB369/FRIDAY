@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Things Fall Apart by Chinua Achebe, including author background, historical context, and plot details",
+  "questions": [
+    {
+      "question": "In which year was Things Fall Apart first published?",
+      "type": "mcq",
+      "options": [
+        "1950",
+        "1958",
+        "1964",
+        "1966"
+      ],
+      "correctAnswer": "1958",
+      "explanation": "According to the content, Chinua Achebe published Things Fall Apart in 1958 when he was just 28 years old, and it immediately became one of the most celebrated works of African literature.",
+      "points": 1
+    },
+    {
+      "question": "What is the fictional village setting of Things Fall Apart?",
+      "type": "mcq",
+      "options": [
+        "Ibadan",
+        "Ogidi",
+        "Umuofia",
+        "Lagos"
+      ],
+      "correctAnswer": "Umuofia",
+      "explanation": "The novel is set in the late 19th century in the fictional Igbo village of Umuofia, located in what is now southeastern Nigeria.",
+      "points": 1
+    },
+    {
+      "question": "Which European novel does Achebe directly challenge with Things Fall Apart?",
+      "type": "mcq",
+      "options": [
+        "Great Expectations by Charles Dickens",
+        "Heart of Darkness by Joseph Conrad",
+        "Wuthering Heights by Emily Bront\u00eb",
+        "Jane Eyre by Charlotte Bront\u00eb"
+      ],
+      "correctAnswer": "Heart of Darkness by Joseph Conrad",
+      "explanation": "The content states that Achebe's fiction directly challenged the portrayal of Africa in Joseph Conrad's Heart of Darkness, in which African societies were shown as primitive and without history or culture.",
+      "points": 1
+    },
+    {
+      "question": "What does the title of the novel come from?",
+      "type": "mcq",
+      "options": [
+        "An Igbo proverb about social collapse",
+        "A line from W.B. Yeats's poem The Second Coming",
+        "A historical account of British colonialism",
+        "An African folktale about the end of civilizations"
+      ],
+      "correctAnswer": "A line from W.B. Yeats's poem The Second Coming",
+      "explanation": "The title comes from a line in W.B. Yeats's poem The Second Coming (1919), which reads 'Things fall apart; the centre cannot hold.' Achebe uses this phrase to describe the destruction of Igbo society by British colonialism.",
+      "points": 1
+    },
+    {
+      "question": "Okonkwo's father Unoka was a hardworking and successful farmer.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "According to the content, Okonkwo's father Unoka was considered a failure\u2014he was lazy, deeply in debt, and died without any social standing, which motivated Okonkwo to become his opposite.",
+      "points": 1
+    },
+    {
+      "question": "Chinua Achebe is widely regarded as the father of modern African literature.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that 'Achebe is widely regarded as the father of modern African literature' and that he used the novel as a tool to reclaim and tell African history from an African point of view.",
+      "points": 1
+    }
+  ]
+}

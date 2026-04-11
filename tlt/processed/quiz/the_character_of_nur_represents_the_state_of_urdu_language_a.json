@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Nur as a symbol of Urdu's decline in Anita Desai's 'In Custody'",
+  "questions": [
+    {
+      "question": "According to the content, what major event in 1947 significantly contributed to Urdu's marginalization in India?",
+      "type": "mcq",
+      "options": [
+        "The adoption of Hindi as the sole national language",
+        "Partition and the creation of Pakistan as Urdu's national language",
+        "The closure of all Urdu-medium schools by the Indian government",
+        "The death of major Urdu poets like Ghalib and Mir Taqi Mir"
+      ],
+      "correctAnswer": "Partition and the creation of Pakistan as Urdu's national language",
+      "explanation": "The content explicitly states that Partition in 1947 left Urdu speakers in India in a precarious position, as Urdu became Pakistan's national language while Hindi was promoted in India.",
+      "points": 1
+    },
+    {
+      "question": "What is Devendra Sharma's professional role in the novel?",
+      "type": "mcq",
+      "options": [
+        "He is an Urdu professor at Delhi University",
+        "He is a Hindi lecturer at a small college in Mirpore",
+        "He is the editor of an Urdu magazine called Awaaz",
+        "He is a retired Urdu poet living in Old Delhi"
+      ],
+      "correctAnswer": "He is a Hindi lecturer at a small college in Mirpore",
+      "explanation": "The content clearly identifies Devendra Sharma as a Hindi lecturer at a small college in Mirpore, who has a suppressed personal love of Urdu poetry.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following best describes the physical and spiritual state of Nur when Deven finally meets him?",
+      "type": "mcq",
+      "options": [
+        "He is thriving, celebrated, and actively writing new poetry",
+        "He is financially wealthy but emotionally isolated from society",
+        "He is a figure of ruin: diminished, surrounded by parasites, dependent, and creatively exhausted",
+        "He is leading a successful Urdu literary movement in Old Delhi"
+      ],
+      "correctAnswer": "He is a figure of ruin: diminished, surrounded by parasites, dependent, and creatively exhausted",
+      "explanation": "The content explicitly describes Nur as 'physically diminished, surrounded by parasites, financially dependent, creatively exhausted, and utterly indifferent to his own legacy,' mirroring Urdu's decline.",
+      "points": 1
+    },
+    {
+      "question": "Which literary forms are mentioned as part of Urdu's rich heritage in the content?",
+      "type": "mcq",
+      "options": [
+        "The novel and short story",
+        "Drama and theatrical performances",
+        "The ghazal and nazm",
+        "Historical chronicles and memoirs"
+      ],
+      "correctAnswer": "The ghazal and nazm",
+      "explanation": "The content specifically identifies the ghazal and nazm as representative forms of Urdu poetry, describing them as among the richest literary heritages of the subcontinent.",
+      "points": 1
+    },
+    {
+      "question": "Anita Desai was born to parents from two different cultural backgrounds.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that Desai was born in Mussoorie to 'a Bengali father and a German mother,' which shaped her experience of navigating multiple linguistic and cultural worlds.",
+      "points": 1
+    },
+    {
+      "question": "The novel 'In Custody' was adapted into a film by Ismail Merchant in 1993.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly mentions that 'A film adaptation of In Custody was directed by Ismail Merchant in 1993,' confirming this historical fact.",
+      "points": 1
+    }
+  ]
+}

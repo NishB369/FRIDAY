@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of Toni Morrison's concept of 'rememory' in Beloved and its narrative significance",
+  "questions": [
+    {
+      "question": "What does Toni Morrison mean by the term 'rememory' in Beloved?",
+      "type": "mcq",
+      "options": [
+        "A traumatic memory that remains as a physical presence in places and can be experienced by those who were not present at the original event",
+        "A technique used by historians to accurately document the events of slavery",
+        "The ability of enslaved people to forget their painful past and move forward",
+        "A standard English literary term that describes how memories fade over time"
+      ],
+      "correctAnswer": "A traumatic memory that remains as a physical presence in places and can be experienced by those who were not present at the original event",
+      "explanation": "Morrison invents 'rememory' to describe how traumatic memories persist not just internally but as physical presences in the landscape and community that can be encountered by others, as explained through Sethe's experience in the novel.",
+      "points": 1
+    },
+    {
+      "question": "In what year was Beloved published, and what is the primary setting of the novel?",
+      "type": "mcq",
+      "options": [
+        "1970, in Lorain, Ohio during slavery",
+        "1987, in Cincinnati, Ohio roughly in 1873, after the Civil War",
+        "1993, in Kentucky during the antebellum period",
+        "1977, in various locations across the American South"
+      ],
+      "correctAnswer": "1987, in Cincinnati, Ohio roughly in 1873, after the Civil War",
+      "explanation": "The content explicitly states that Beloved was published in 1987 and is set in Cincinnati, Ohio, in the years after the American Civil War, roughly 1873, with flashbacks to the late 1850s.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following best explains why Toni Morrison uses the invented word 'rememory' rather than the standard word 'memory'?",
+      "type": "mcq",
+      "options": [
+        "To make the novel more difficult for readers to understand",
+        "Because standard English words like 'memory' cannot fully capture the re-living and re-experiencing of traumatic memories that persist as physical presences",
+        "To follow a trend in postmodern literature of creating new vocabulary",
+        "To distinguish between memories of enslaved people and memories of free people"
+      ],
+      "correctAnswer": "Because standard English words like 'memory' cannot fully capture the re-living and re-experiencing of traumatic memories that persist as physical presences",
+      "explanation": "Morrison creates 'rememory' to describe something that ordinary words cannot capture\u2014the experience of a memory that does not stay in the past but comes back as something real and present, almost like a physical object.",
+      "points": 1
+    },
+    {
+      "question": "The novel Beloved is loosely based on the true story of which historical figure?",
+      "type": "mcq",
+      "options": [
+        "Harriet Tubman, who led enslaved people through the Underground Railroad",
+        "Margaret Garner, an enslaved woman who escaped from Kentucky in 1856 and killed her daughter to prevent her return to slavery",
+        "Sojourner Truth, an abolitionist and women's rights activist",
+        "Frederick Douglass, a formerly enslaved man who became a prominent speaker and writer"
+      ],
+      "correctAnswer": "Margaret Garner, an enslaved woman who escaped from Kentucky in 1856 and killed her daughter to prevent her return to slavery",
+      "explanation": "The content explicitly states that Beloved is based loosely on the true story of Margaret Garner, who escaped from Kentucky in 1856 and killed her young daughter rather than allow her to be returned to slavery.",
+      "points": 1
+    },
+    {
+      "question": "Toni Morrison won the Nobel Prize in Literature in 1993, becoming the first African American woman to receive this honor.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content confirms that in 1993, Morrison became the first African American woman to win the Nobel Prize in Literature, with the Nobel committee praising her for novels characterized by visionary force and poetic import.",
+      "points": 1
+    },
+    {
+      "question": "According to the novel, the traumatic effects of slavery end immediately once formerly enslaved people are granted legal freedom and are no longer in physical bondage.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explicitly states that slavery does not simply end when legal freedom is granted; its violence, dehumanisation, and trauma continue to live in the bodies, minds, and communities of formerly enslaved people, and freedom from physical bondage does not automatically mean freedom from the past.",
+      "points": 1
+    }
+  ]
+}

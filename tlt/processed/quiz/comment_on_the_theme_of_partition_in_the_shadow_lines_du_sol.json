@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of the theme of partition in Amitav Ghosh's The Shadow Lines and the novel's context, structure, and key characters.",
+  "questions": [
+    {
+      "question": "In which year was The Shadow Lines by Amitav Ghosh published?",
+      "type": "mcq",
+      "options": [
+        "1986",
+        "1988",
+        "1992",
+        "1995"
+      ],
+      "correctAnswer": "1988",
+      "explanation": "The Shadow Lines was published in 1988 and is set against historical events including the Bengal Famine of 1943, WWII, the Partition of 1947, and communal riots in 1963-64.",
+      "points": 1
+    },
+    {
+      "question": "What educational background did Amitav Ghosh have that directly influenced his treatment of borders and identity in his novels?",
+      "type": "mcq",
+      "options": [
+        "He studied literature at Oxford University",
+        "He received a doctorate in social anthropology from Oxford",
+        "He completed his degree in postcolonial studies at Delhi University",
+        "He studied history at the \u00c9cole des Hautes \u00c9tudes en Sciences Sociales"
+      ],
+      "correctAnswer": "He received a doctorate in social anthropology from Oxford",
+      "explanation": "Ghosh's anthropological training is evident in his meticulous attention to how communities remember collective events and is particularly concerned with the human cost of political abstractions such as borders and partition.",
+      "points": 1
+    },
+    {
+      "question": "The Shadow Lines is divided into two parts. What are the names of these two sections?",
+      "type": "mcq",
+      "options": [
+        "Before and After Partition; During Partition",
+        "Going Away; Coming Home",
+        "London and Calcutta; Dhaka and Bengal",
+        "Past and Present; Memory and Reality"
+      ],
+      "correctAnswer": "Going Away; Coming Home",
+      "explanation": "Part One, 'Going Away,' focuses on connections between two families and themes of love and memory, while Part Two, 'Coming Home,' focuses on return, displacement, and the violent consequences of partition.",
+      "points": 1
+    },
+    {
+      "question": "Which character in The Shadow Lines is most important in representing the trauma of partition and carries its contradictions within her?",
+      "type": "mcq",
+      "options": [
+        "Ila Price",
+        "May Price",
+        "Thamma (the grandmother)",
+        "The unnamed narrator"
+      ],
+      "correctAnswer": "Thamma (the grandmother)",
+      "explanation": "Thamma is introduced in the second section as the character who directly experienced partition, was born and raised in Dhaka, and was separated from her home city when Bengal was divided.",
+      "points": 1
+    },
+    {
+      "question": "According to the content, Amitav Ghosh's concept of 'shadow lines' refers to the physical borders drawn on maps that have no corresponding reality in the lived geography of ordinary people.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that for Ghosh, partition is the moment when 'shadow lines' were drawn on maps\u2014lines that had no corresponding reality in the lived geography of ordinary people yet tore apart families, languages, and memories.",
+      "points": 1
+    },
+    {
+      "question": "The Partition of India in 1947 divided British India into India and Pakistan, and it primarily affected only the Punjab region, not Bengal.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Bengal was particularly affected by partition, being divided between West Bengal (India) and East Pakistan (later Bangladesh), which severed communities, families, and cities including Dhaka, once the cultural heart of Bengal.",
+      "points": 1
+    }
+  ]
+}

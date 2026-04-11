@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'Where the Mind is Without Fear' by Rabindranath Tagore, its background, and themes.",
+  "questions": [
+    {
+      "question": "In what year did Rabindranath Tagore win the Nobel Prize in Literature?",
+      "type": "mcq",
+      "options": [
+        "1911",
+        "1912",
+        "1913",
+        "1914"
+      ],
+      "correctAnswer": "1913",
+      "explanation": "The video explicitly states that Tagore became the first non-European writer to win the Nobel Prize in Literature in 1913 for his poetry collection Gitanjali.",
+      "points": 1
+    },
+    {
+      "question": "What was the original Bengali title of the poem 'Where the Mind is Without Fear'?",
+      "type": "mcq",
+      "options": [
+        "Gitanjali",
+        "Prarthana",
+        "Naibedya",
+        "Shantiniketan"
+      ],
+      "correctAnswer": "Prarthana",
+      "explanation": "The content states that the poem was originally written in Bengali under the title 'Prarthana,' which means 'prayer.'",
+      "points": 1
+    },
+    {
+      "question": "Which educational institution did Tagore found based on the principle of learning in harmony with nature?",
+      "type": "mcq",
+      "options": [
+        "Delhi University",
+        "Shantiniketan",
+        "Indian Society, London",
+        "Calcutta School of Arts"
+      ],
+      "correctAnswer": "Shantiniketan",
+      "explanation": "The video explains that Tagore founded Shantiniketan, an educational institution in West Bengal built on the idea of learning in harmony with nature as an alternative to rigid, colonial-style schooling.",
+      "points": 1
+    },
+    {
+      "question": "According to the poem, what does 'narrow domestic walls' symbolize?",
+      "type": "mcq",
+      "options": [
+        "Physical barriers built by the British",
+        "The boundaries of India's territory",
+        "Divisions such as caste, religion, class, gender, region, and language",
+        "The walls of colonial prisons"
+      ],
+      "correctAnswer": "Divisions such as caste, religion, class, gender, region, and language",
+      "explanation": "The line-by-line explanation clarifies that 'narrow domestic walls' refers to all the man-made divisions that keep people apart, including caste, religion, class, gender, region, and language.",
+      "points": 1
+    },
+    {
+      "question": "Tagore's concept of freedom in this poem is only about removing British colonial rule from India.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explicitly states that Tagore's idea of freedom was not simply political; true freedom for him was an internal and social condition involving the ability to think without fear, access knowledge, speak truthfully, live without superstition, and move with dignity.",
+      "points": 1
+    },
+    {
+      "question": "'Where the Mind is Without Fear' is poem number 35 in Tagore's collection Gitanjali.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The video clearly states that 'Where the Mind is Without Fear' is poem 35 in Gitanjali and is one of Tagore's most widely read and discussed poems.",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of The Shadow Lines by Amitav Ghosh, its author, structure, themes, and key characters",
+  "questions": [
+    {
+      "question": "In what year was The Shadow Lines by Amitav Ghosh published?",
+      "type": "mcq",
+      "options": [
+        "1986",
+        "1988",
+        "1990",
+        "1995"
+      ],
+      "correctAnswer": "1988",
+      "explanation": "The novel was published in 1988 and won the Sahitya Akademi Award in 1990, making it one of the most important Indian English novels of the twentieth century.",
+      "points": 1
+    },
+    {
+      "question": "Which literary award did The Shadow Lines win in 1990?",
+      "type": "mcq",
+      "options": [
+        "Booker Prize",
+        "Sahitya Akademi Award",
+        "National Book Award",
+        "Prix Goncourt"
+      ],
+      "correctAnswer": "Sahitya Akademi Award",
+      "explanation": "The Shadow Lines won the Sahitya Akademi Award in 1990, as well as the Prix Medicis Etranger literary award, establishing it as a major work in Indian literature.",
+      "points": 1
+    },
+    {
+      "question": "What historical event triggered the communal riots in 1964 that are central to The Shadow Lines?",
+      "type": "mcq",
+      "options": [
+        "The assassination of a political leader",
+        "The disappearance of the Prophet's hair relic from Hazratbal Mosque in Srinagar",
+        "A conflict over border disputes between India and Pakistan",
+        "Religious tensions between Hindu and Muslim communities"
+      ],
+      "correctAnswer": "The disappearance of the Prophet's hair relic from Hazratbal Mosque in Srinagar",
+      "explanation": "The theft of the sacred relic from Hazratbal Mosque in Srinagar in January 1964 triggered simultaneous communal violence in both Calcutta and Dhaka, which is a key event in the novel.",
+      "points": 1
+    },
+    {
+      "question": "What is the primary concern of the two-part structure of The Shadow Lines (Going Away and Coming Home)?",
+      "type": "mcq",
+      "options": [
+        "The chronological order of historical events from partition to 1978",
+        "The contrast between the desire to escape national borders and the impossibility of doing so",
+        "The development of the narrator's relationship with Ila throughout his life",
+        "The comparison between life in India and life in other countries"
+      ],
+      "correctAnswer": "The contrast between the desire to escape national borders and the impossibility of doing so",
+      "explanation": "The two-part structure\u2014Part One dealing with travel and departure, Part Two with return and memory\u2014mirrors the novel's central tension about escaping and being bound by national borders.",
+      "points": 1
+    },
+    {
+      "question": "Amitav Ghosh studied social anthropology at Delhi School of Economics before becoming a novelist.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "According to the content, Amitav Ghosh completed his undergraduate studies at St. Stephen's College, Delhi, and later studied social anthropology at Delhi School of Economics, which influenced his intellectual interests in history and anthropology.",
+      "points": 1
+    },
+    {
+      "question": "Thamma donated her gold chain to the Indian government during the 1965 India-Pakistan war as a display of her nationalist sentiment.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Thamma 'donated her gold chain, given to her by her husband, to the Indian government during the 1965 India-Pakistan war,' reflecting her strong nationalist beliefs.",
+      "points": 1
+    }
+  ]
+}

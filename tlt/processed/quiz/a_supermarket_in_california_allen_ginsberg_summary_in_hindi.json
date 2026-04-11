@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Allen Ginsberg's 'A Supermarket in California' including biographical context, poem analysis, and literary themes",
+  "questions": [
+    {
+      "question": "In which year was 'A Supermarket in California' published as part of Ginsberg's debut collection?",
+      "type": "mcq",
+      "options": [
+        "1950",
+        "1956",
+        "1961",
+        "1968"
+      ],
+      "correctAnswer": "1956",
+      "explanation": "The poem was published in 1956 as part of 'Howl and Other Poems', Ginsberg's landmark debut collection that also included the famous poem 'Howl'.",
+      "points": 1
+    },
+    {
+      "question": "Which literary figure does Ginsberg imagine lurking near the watermelons in the supermarket vision?",
+      "type": "mcq",
+      "options": [
+        "William Blake",
+        "William Carlos Williams",
+        "Federico Garc\u00eda Lorca",
+        "Jack Kerouac"
+      ],
+      "correctAnswer": "Federico Garc\u00eda Lorca",
+      "explanation": "In the poem's vision, Lorca is portrayed peering at the produce with the curiosity of a misunderstood outsider, representing a connection to marginalized artistic voices.",
+      "points": 1
+    },
+    {
+      "question": "What was the primary context of post-war America that influenced Ginsberg's writing of this poem?",
+      "type": "mcq",
+      "options": [
+        "Industrial decline and poverty",
+        "Economic prosperity, suburban expansion, and rise of consumer culture",
+        "Agricultural revolution and rural expansion",
+        "Military industrialization and weapons development"
+      ],
+      "correctAnswer": "Economic prosperity, suburban expansion, and rise of consumer culture",
+      "explanation": "The 1950s America in which Ginsberg wrote was characterized by unprecedented economic prosperity, supermarkets, automobiles, television, and a conformist social ideal that the Beat Generation rejected.",
+      "points": 1
+    },
+    {
+      "question": "What form of poetry does Ginsberg use in 'A Supermarket in California'?",
+      "type": "mcq",
+      "options": [
+        "Rhyming couplets",
+        "Sonnet form",
+        "Free verse lyric poem",
+        "Haiku sequence"
+      ],
+      "correctAnswer": "Free verse lyric poem",
+      "explanation": "The poem is written in free verse, characteristic of Ginsberg's style which features long, breath-driven lines and rejection of formal metre.",
+      "points": 1
+    },
+    {
+      "question": "True or False: Allen Ginsberg was born in San Francisco and formed the Beat Generation movement there.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Ginsberg was born in Newark, New Jersey. While the famous 'Howl' reading took place at the Six Gallery in San Francisco in 1955, he formed his key friendships with Beat writers at Columbia University.",
+      "points": 1
+    },
+    {
+      "question": "True or False: Walt Whitman was a major literary influence on Ginsberg and is referenced in 'A Supermarket in California' as an imaginary companion in the poem.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "Ginsberg was deeply influenced by Whitman's vision of democratic America and saw him as a spiritual predecessor; Whitman appears as an imaginary figure in the supermarket vision.",
+      "points": 1
+    }
+  ]
+}

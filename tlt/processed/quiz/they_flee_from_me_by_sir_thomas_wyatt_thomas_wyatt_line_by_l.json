@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'They Flee from Me' by Sir Thomas Wyatt, including biographical context, poetic form, and textual analysis.",
+  "questions": [
+    {
+      "question": "In what poetic form is 'They Flee from Me' written?",
+      "type": "mcq",
+      "options": [
+        "Rhyme Royal (seven-line stanzas with ABABBCC rhyme scheme)",
+        "Petrarchan sonnet (14 lines with ABBAABBA rhcdecde)",
+        "Blank verse (unrhymed iambic pentameter)",
+        "Terza rima (interlocking three-line stanzas)"
+      ],
+      "correctAnswer": "Rhyme Royal (seven-line stanzas with ABABBCC rhyme scheme)",
+      "explanation": "The content explicitly states the poem is written in Rhyme Royal, a stanzaic form consisting of seven-line stanzas in iambic pentameter with the rhyme scheme ABABBCC, which was famously used by Chaucer.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following best describes Sir Thomas Wyatt's relationship with the Petrarchan love lyric tradition?",
+      "type": "mcq",
+      "options": [
+        "He strictly followed Petrarchan conventions without modification",
+        "He rejected the tradition entirely and created a new poetic form",
+        "He belonged to the tradition but significantly subverted its conventions",
+        "He only translated Petrarchan sonnets without adding original work"
+      ],
+      "correctAnswer": "He belonged to the tradition but significantly subverted its conventions",
+      "explanation": "The content states that Wyatt's poem 'belongs to the tradition of the Petrarchan love lyric, but subverts it significantly,' particularly by presenting a speaker who is embittered and sardonic rather than humbly idealising an unattainable woman.",
+      "points": 1
+    },
+    {
+      "question": "What does the phrase 'with naked foot stalking in my chamber' most likely suggest about the women in the poem?",
+      "type": "mcq",
+      "options": [
+        "They were servants who worked barefoot in the speaker's house",
+        "They came to his chamber barefoot, implying stealth, intimacy, and sexual familiarity",
+        "They were wild animals that wandered freely through his rooms",
+        "They were peasants who could not afford proper footwear"
+      ],
+      "correctAnswer": "They came to his chamber barefoot, implying stealth, intimacy, and sexual familiarity",
+      "explanation": "The content explains that 'naked foot' can be read literally as stealth and intimacy, and is 'widely interpreted as a reference to sexual intimacy,' indicating undressed and willing women visiting his chamber.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following historical figures is believed to have inspired 'They Flee from Me'?",
+      "type": "mcq",
+      "options": [
+        "Catherine of Aragon, Henry VIII's first wife",
+        "Anne Boleyn, Henry VIII's second wife",
+        "Jane Seymour, Henry VIII's third wife",
+        "Elizabeth I, Henry VIII's daughter"
+      ],
+      "correctAnswer": "Anne Boleyn, Henry VIII's second wife",
+      "explanation": "The content states that Wyatt is 'widely believed to have had a romantic connection with Anne Boleyn before she became the king's second wife,' and the poem is thought to be autobiographical, reflecting his own courtly experiences, possibly including with Anne Boleyn.",
+      "points": 1
+    },
+    {
+      "question": "Sir Thomas Wyatt received his education at St John's College, Cambridge.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states: 'Wyatt was educated at St John's College, Cambridge,' confirming this biographical fact about the poet.",
+      "points": 1
+    },
+    {
+      "question": "In 'They Flee from Me,' the use of the plural pronoun 'they' instead of 'she' refers to a single specific woman the speaker loved.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explains that the plural 'they' is significant because it 'suggests multiple lovers or the speaker's generalisation of a pattern of abandonment,' rather than referring to one specific woman.",
+      "points": 1
+    }
+  ]
+}

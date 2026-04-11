@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Part 2 of 'The Lady of Shalott' by Alfred Tennyson, focusing on the curse, weaving, mirror imagery, and the Lady's isolation.",
+  "questions": [
+    {
+      "question": "What is the Lady of Shalott forbidden to do under her curse?",
+      "type": "mcq",
+      "options": [
+        "Look directly at Camelot",
+        "Weave on her loom",
+        "Leave the island of Shalott",
+        "Speak to anyone outside her tower"
+      ],
+      "correctAnswer": "Look directly at Camelot",
+      "explanation": "The text explicitly states that the Lady is under a mysterious curse where she must weave constantly and if she looks directly at Camelot, the curse will fall on her.",
+      "points": 1
+    },
+    {
+      "question": "What does the Lady use to observe the outside world?",
+      "type": "mcq",
+      "options": [
+        "A window facing Camelot",
+        "A magic mirror in her room",
+        "A tower balcony overlooking the river",
+        "Direct observation from the road"
+      ],
+      "correctAnswer": "A magic mirror in her room",
+      "explanation": "The text explains that because the Lady cannot look directly out of her window, she uses a large mirror in her room to see the outside world through reflections.",
+      "points": 1
+    },
+    {
+      "question": "What phrase does Tennyson use to describe the world the Lady sees in the mirror?",
+      "type": "mcq",
+      "options": [
+        "Bright and colourful visions",
+        "Shadows of the world",
+        "Ripples and eddies",
+        "The highway to Camelot"
+      ],
+      "correctAnswer": "Shadows of the world",
+      "explanation": "The content explicitly states: 'she sees only \"shadows of the world.\" The mirror gives her images, reflections, not reality,' emphasizing that what she sees is filtered and indirect.",
+      "points": 1
+    },
+    {
+      "question": "What does the phrase 'colours gay' refer to in Part 2?",
+      "type": "mcq",
+      "options": [
+        "The bright appearance of people on the road",
+        "The reflections in the magic mirror",
+        "The bright and colourful fabric she weaves on her loom",
+        "The vibrant scenery of the river and Camelot"
+      ],
+      "correctAnswer": "The bright and colourful fabric she weaves on her loom",
+      "explanation": "The text states: 'The phrase \"with colours gay\" tells us that her weaving is bright and colourful. She weaves a magical, richly coloured web on her loom.'",
+      "points": 1
+    },
+    {
+      "question": "Alfred Lord Tennyson wrote 'The Lady of Shalott' in 1832 and revised it significantly in 1842.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text clearly states: 'Tennyson wrote \"The Lady of Shalott\" in 1832 and revised it significantly in 1842.'",
+      "points": 1
+    },
+    {
+      "question": "According to the content, the Lady of Shalott questions the curse warning and investigates what it truly means.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The text explains that because the Lady does not know what the curse actually is, 'she simply keeps weaving and does not investigate' and 'focuses only on her colourful web and does not question the warning.'",
+      "points": 1
+    }
+  ]
+}

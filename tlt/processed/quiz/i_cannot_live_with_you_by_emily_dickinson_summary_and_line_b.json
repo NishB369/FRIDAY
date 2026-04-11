@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Emily Dickinson's 'I Cannot Live With You' - summary, themes, historical context, and analysis",
+  "questions": [
+    {
+      "question": "In what year was 'I Cannot Live With You' written by Emily Dickinson?",
+      "type": "mcq",
+      "options": [
+        "1830",
+        "1862",
+        "1886",
+        "1900"
+      ],
+      "correctAnswer": "1862",
+      "explanation": "The content explicitly states the poem was written around 1862 during Dickinson's most prolific creative period.",
+      "points": 1
+    },
+    {
+      "question": "What does the speaker mean when she says 'Life' is kept behind a shelf?",
+      "type": "mcq",
+      "options": [
+        "Life is something beautiful that should be displayed",
+        "The speaker does not have control over her own life, which is managed by someone else",
+        "Life is stored safely for the future use of the speaker",
+        "The speaker is afraid of heights and cannot reach the shelf"
+      ],
+      "correctAnswer": "The speaker does not have control over her own life, which is managed by someone else",
+      "explanation": "The explanation in the content clarifies that the shelf suggests something locked up and inaccessible, indicating the speaker lacks control over her own life.",
+      "points": 1
+    },
+    {
+      "question": "Who is the Sexton in the poem, and what does this character symbolize?",
+      "type": "mcq",
+      "options": [
+        "The lover whom the speaker refuses to marry",
+        "A person in charge of the church and churchyard who symbolizes control over the speaker's life, like God",
+        "A doctor who treats people buried alive",
+        "A relative of the speaker who controls her inheritance"
+      ],
+      "correctAnswer": "A person in charge of the church and churchyard who symbolizes control over the speaker's life, like God",
+      "explanation": "The content explains that the sexton was the person in charge of the church and churchyard, and the speaker uses this figure as a symbol for whoever keeps her life in storage, comparable to God.",
+      "points": 1
+    },
+    {
+      "question": "What was one real historical fear in 19th century America that the poem references?",
+      "type": "mcq",
+      "options": [
+        "Fear of losing one's possessions through marriage",
+        "Fear of dying alone without a spouse",
+        "Fear of being buried alive and the need for safety coffins with bells",
+        "Fear of religious persecution for refusing marriage"
+      ],
+      "correctAnswer": "Fear of being buried alive and the need for safety coffins with bells",
+      "explanation": "The content describes how people were sometimes mistakenly buried alive, leading to the invention of safety coffins with bells attached to strings so buried people could alert graveyard watchmen if they awoke.",
+      "points": 1
+    },
+    {
+      "question": "Emily Dickinson was a published and celebrated poet during her lifetime.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that Dickinson published very little during her lifetime, and most of her nearly 1,800 poems were discovered after her death.",
+      "points": 1
+    },
+    {
+      "question": "The poem 'I Cannot Live With You' is part of the BA English Honours, 5th Semester curriculum for American Poetry.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly identifies this poem as part of the BA English Honours, Semester 5 curriculum in the background section.",
+      "points": 1
+    }
+  ]
+}

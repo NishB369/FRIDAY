@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Salman Rushdie's narrative style and techniques in the short story 'The Free Radio'",
+  "questions": [
+    {
+      "question": "From which collection of short stories by Salman Rushdie is 'The Free Radio' drawn?",
+      "type": "mcq",
+      "options": [
+        "East, West (1994)",
+        "Midnight's Children (1981)",
+        "Shame (1983)",
+        "The Satanic Verses (1988)"
+      ],
+      "correctAnswer": "East, West (1994)",
+      "explanation": "The content explicitly states that 'The Free Radio' is from Rushdie's short story collection East, West (1994), appearing in the 'East' section of the book.",
+      "points": 1
+    },
+    {
+      "question": "What historical period is 'The Free Radio' set during?",
+      "type": "mcq",
+      "options": [
+        "The Partition of India in 1947",
+        "The Indian Emergency from 1975-1977",
+        "The independence movement of the 1940s",
+        "The post-Partition communal riots"
+      ],
+      "correctAnswer": "The Indian Emergency from 1975-1977",
+      "explanation": "The content clearly states that the story is set during the Indian Emergency (1975-1977), when Prime Minister Indira Gandhi suspended democratic rights.",
+      "points": 1
+    },
+    {
+      "question": "What does the title 'The Free Radio' directly refer to in the story's historical context?",
+      "type": "mcq",
+      "options": [
+        "A radio station broadcasting news during the Emergency",
+        "An incentive offered to men who underwent forced sterilisation",
+        "A symbol of free speech suppressed during the Emergency",
+        "A gift given by Ramani to the widow"
+      ],
+      "correctAnswer": "An incentive offered to men who underwent forced sterilisation",
+      "explanation": "The content explains that the title refers to transistor radios and other goods offered as incentives to poor and marginalised men in exchange for voluntary sterilisation during the government's family planning initiative.",
+      "points": 1
+    },
+    {
+      "question": "What is the primary occupation of the narrator in 'The Free Radio'?",
+      "type": "mcq",
+      "options": [
+        "A politician working for the government",
+        "A retired school teacher",
+        "A local journalist documenting the Emergency",
+        "A doctor performing sterilisation procedures"
+      ],
+      "correctAnswer": "A retired school teacher",
+      "explanation": "The content states that the story is narrated by a retired school teacher who knew the protagonist Ramani as his student and also knew Ramani's parents.",
+      "points": 1
+    },
+    {
+      "question": "The narrator in 'The Free Radio' is a reliable narrator who provides an objective account of events.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explains that the narrator is unreliable\u2014he is biased, opinionated, emotionally invested, and his perspective is coloured by disapproval of the widow and paternalistic affection for Ramani, making his judgements unreliable.",
+      "points": 1
+    },
+    {
+      "question": "Rushdie uses collective pronouns like 'we' in the narrative to represent the voice of the entire community rather than only the individual narrator.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that one of the most distinctive features of Rushdie's narrative technique is the narrator's use of collective pronouns, particularly 'we,' to speak on behalf of the entire community, which mirrors oral storytelling traditions of the Indian subcontinent.",
+      "points": 1
+    }
+  ]
+}

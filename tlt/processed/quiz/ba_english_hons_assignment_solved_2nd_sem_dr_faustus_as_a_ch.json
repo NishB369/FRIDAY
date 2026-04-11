@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of Dr. Faustus as a Christian play, including playwright background, Christian elements, and moral themes.",
+  "questions": [
+    {
+      "question": "Which Elizabethan playwright wrote Dr. Faustus and is credited with establishing blank verse as the standard form for English dramatic writing?",
+      "type": "mcq",
+      "options": [
+        "William Shakespeare",
+        "Christopher Marlowe",
+        "Ben Jonson",
+        "Thomas Kyd"
+      ],
+      "correctAnswer": "Christopher Marlowe",
+      "explanation": "Christopher Marlowe (1564\u20131593) was the playwright of Dr. Faustus and is widely credited with establishing blank verse (unrhymed iambic pentameter) as the standard form for English dramatic writing, which Shakespeare would later perfect.",
+      "points": 1
+    },
+    {
+      "question": "What is the primary historical source that Marlowe used for the legend of Faust in Dr. Faustus?",
+      "type": "mcq",
+      "options": [
+        "The Divine Comedy by Dante",
+        "Historia von D. Johann Fausten (1587), a German prose narrative",
+        "The Bible's Book of Revelation",
+        "Tamburlaine the Great by Marlowe himself"
+      ],
+      "correctAnswer": "Historia von D. Johann Fausten (1587), a German prose narrative",
+      "explanation": "Marlowe based Dr. Faustus on the German legend of Faust, which was compiled into a prose narrative titled Historia von D. Johann Fausten (1587), which served as his primary source.",
+      "points": 1
+    },
+    {
+      "question": "According to the video, what is the central sin that Faustus commits in the play?",
+      "type": "mcq",
+      "options": [
+        "Greed and the desire for wealth",
+        "Lust and sexual temptation",
+        "Pride (hubris) and excessive arrogance",
+        "Sloth and idleness"
+      ],
+      "correctAnswer": "Pride (hubris) and excessive arrogance",
+      "explanation": "The video identifies pride (hubris) as Faustus's primary transgression. His excessive pride and arrogance connect directly to Christian teaching, as pride is the deadliest of the Seven Deadly Sins and was the sin of Lucifer himself.",
+      "points": 1
+    },
+    {
+      "question": "Which two allegorical figures engage in a battle for Faustus's soul throughout the play, reflecting the Christian morality play tradition?",
+      "type": "mcq",
+      "options": [
+        "God and the Devil",
+        "The Good Angel and the Evil Angel",
+        "Mephistopheles and Lucifer",
+        "Heaven and Hell"
+      ],
+      "correctAnswer": "The Good Angel and the Evil Angel",
+      "explanation": "The Good Angel and Evil Angel appear at key moments to pull Faustus in opposite directions. The Good Angel urges repentance while the Evil Angel encourages sin, externalizing Faustus's internal moral struggle.",
+      "points": 1
+    },
+    {
+      "question": "In Dr. Faustus, the cosmic framework of the play operates entirely within a Christian theological environment where souls are destined for either Heaven or Hell.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The play is set within a Christian cosmological environment where God judges every soul, and after death souls are destined for either Heaven or Hell, with devils tempting humans to damnation and good angels guiding them toward salvation.",
+      "points": 1
+    },
+    {
+      "question": "Christopher Marlowe lived a long and peaceful life, dying peacefully in his sleep at an advanced age.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Marlowe's life was shadowed by controversy; he was suspected of atheism, worked as a government spy, and died under mysterious circumstances at the age of 29, not peacefully or at an advanced age.",
+      "points": 1
+    }
+  ]
+}

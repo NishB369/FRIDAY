@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Meena Kandasamy's poem 'Touch' and its themes of caste discrimination and untouchability",
+  "questions": [
+    {
+      "question": "What is the central theme that Meena Kandasamy's poem 'Touch' addresses?",
+      "type": "mcq",
+      "options": [
+        "The five senses and their spiritual significance",
+        "The sense of touch being systematically taken away from Dalit communities through the concept of untouchability",
+        "The benefits of meditation and Kundalini awakening",
+        "The history of the Indian caste system and its economic impacts"
+      ],
+      "correctAnswer": "The sense of touch being systematically taken away from Dalit communities through the concept of untouchability",
+      "explanation": "The poem's central point, as explained in the content, is that the one thing taken away from the 'untouchable' is the sense of touch itself, challenging the caste-based concept of untouchability.",
+      "points": 1
+    },
+    {
+      "question": "According to the explanation, why does the poem begin by asking upper-caste people about meditation?",
+      "type": "mcq",
+      "options": [
+        "To encourage them to practice spiritual techniques",
+        "To show that meditation requires physical discipline and training",
+        "To make the point that if they had truly meditated, they would have felt touch first, and would recognize their own sensual thinking controls them",
+        "To demonstrate that upper-caste people are naturally more spiritual than others"
+      ],
+      "correctAnswer": "To make the point that if they had truly meditated, they would have felt touch first, and would recognize their own sensual thinking controls them",
+      "explanation": "The stanza explanation clarifies that the meditation question is meant to show the irony that those claiming spiritual purity are actually most controlled by physical and sensual thinking.",
+      "points": 1
+    },
+    {
+      "question": "What does the concept of Kundalini represent in the context of this poem?",
+      "type": "mcq",
+      "options": [
+        "A traditional Indian dance form used in spiritual rituals",
+        "A dormant energy that rises through the body to connect physical to spiritual levels, which upper-caste people's prejudices interrupt",
+        "The first stage of meditation that all spiritual practitioners must master",
+        "An ancient weapon used in Indian warfare and conquest"
+      ],
+      "correctAnswer": "A dormant energy that rises through the body to connect physical to spiritual levels, which upper-caste people's prejudices interrupt",
+      "explanation": "The content explains that Kundalini refers to dormant energy at the spine's base that rises through meditation, and the poet uses it to show how upper-caste prejudices prevent spiritual ascension.",
+      "points": 1
+    },
+    {
+      "question": "According to the poem's explanation, when was the first time any human being experienced touch?",
+      "type": "mcq",
+      "options": [
+        "When they learned to speak their first words",
+        "When they formed their first memory as a child",
+        "When they felt their own skin for the first time at birth",
+        "When they were taught social and cultural customs"
+      ],
+      "correctAnswer": "When they felt their own skin for the first time at birth",
+      "explanation": "The content states that touch is the first sense experienced when born, and the first thing any person ever felt was their own skin, making it the original human experience.",
+      "points": 1
+    },
+    {
+      "question": "True or False: According to Meena Kandasamy's poem, touch is a privilege that belongs only to spiritually pure people.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The poem makes clear that touch is not a privilege but a universal human right and the very way through which every human being experiences life, not something belonging only to certain people.",
+      "points": 1
+    },
+    {
+      "question": "True or False: Meena Kandasamy argues that untouchability was a divinely ordained rule in Indian society.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The final stanza explanation clarifies that untouchability was not a divine rule but a human-made system and social prejudice created by upper castes to maintain control.",
+      "points": 1
+    }
+  ]
+}

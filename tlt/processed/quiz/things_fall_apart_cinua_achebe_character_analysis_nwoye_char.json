@@ -1,0 +1,79 @@
+{
+  "description": "Comprehension quiz on Nwoye's character analysis in Things Fall Apart by Chinua Achebe",
+  "questions": [
+    {
+      "question": "What is the primary reason for Nwoye's low confidence according to the character analysis?",
+      "type": "mcq",
+      "options": [
+        "His gentle and peaceful nature makes him unsuited for village life",
+        "The way his father Okonkwo treats him with intimidation and violence rather than patient teaching",
+        "His preference for women's stories over warrior tales",
+        "His moral opposition to Igbo village customs"
+      ],
+      "correctAnswer": "The way his father Okonkwo treats him with intimidation and violence rather than patient teaching",
+      "explanation": "The video explicitly identifies that Okonkwo uses intimidation and beating rather than patient correction, which creates Nwoye's low confidence and constant fear of making mistakes.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following best describes what disturbs Nwoye morally in the novel?",
+      "type": "mcq",
+      "options": [
+        "The harsh treatment he receives from his father Okonkwo",
+        "The expectation that he should enjoy violent warrior tales",
+        "The custom of abandoning twin babies in the forest to die",
+        "The arrival of Ikemefuna in his household"
+      ],
+      "correctAnswer": "The custom of abandoning twin babies in the forest to die",
+      "explanation": "The analysis clearly states that when Nwoye hears the cries of abandoned twins, he is disturbed deeply and cannot accept this practice as right, planting seeds of spiritual and moral restlessness in him.",
+      "points": 1
+    },
+    {
+      "question": "What role does Ikemefuna play in Nwoye's life?",
+      "type": "mcq",
+      "options": [
+        "He teaches Nwoye traditional warrior skills and battle stories",
+        "He fills a role that Okonkwo could not, offering companionship, warmth, and a sense of family",
+        "He punishes Nwoye when he makes mistakes",
+        "He convinces Nwoye to accept village customs without question"
+      ],
+      "correctAnswer": "He fills a role that Okonkwo could not, offering companionship, warmth, and a sense of family",
+      "explanation": "The video analysis explains that Ikemefuna becomes an important presence for Nwoye, offering companionship and warmth, making Nwoye more confident and settled in his company.",
+      "points": 1
+    },
+    {
+      "question": "Why does Nwoye pretend to enjoy men's battle stories despite preferring women's folk tales?",
+      "type": "mcq",
+      "options": [
+        "Because he wants to become a respected warrior in the village",
+        "Because he is afraid of Ikemefuna's judgment",
+        "To avoid his father's punishment and perform the version of masculinity his society expects",
+        "Because women's stories are not valued in any African culture"
+      ],
+      "correctAnswer": "To avoid his father's punishment and perform the version of masculinity his society expects",
+      "explanation": "The analysis explains that Nwoye knows Igbo society would disapprove of his preference for women's stories, so he performs masculinity to avoid his father's punishment while his inner self remains different.",
+      "points": 1
+    },
+    {
+      "question": "Chinua Achebe wrote Things Fall Apart as a response to Western colonial depictions of Africa.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Achebe wrote the novel as a response to colonial depictions of Africa in European fiction, particularly to challenge works like Joseph Conrad's Heart of Darkness.",
+      "points": 1
+    },
+    {
+      "question": "Nwoye's character demonstrates a conflict between his gentle, peaceful nature and the violent masculine values that Igbo society celebrates.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The analysis clearly shows that Nwoye is gentle and peaceful by nature but lives in a society that values masculinity, physical strength, and warrior status, creating a fundamental tension in his character.",
+      "points": 1
+    }
+  ]
+}
