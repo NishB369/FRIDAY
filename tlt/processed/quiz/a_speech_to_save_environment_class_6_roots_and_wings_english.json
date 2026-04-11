@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Severn Cullis-Suzuki's environmental speech and its context from Class 6 Roots and Wings",
+  "questions": [
+    {
+      "question": "At what age did Severn Cullis-Suzuki deliver her famous speech at the Earth Summit?",
+      "type": "mcq",
+      "options": [
+        "Nine years old",
+        "Twelve years old",
+        "Fifteen years old",
+        "Ten years old"
+      ],
+      "correctAnswer": "Twelve years old",
+      "explanation": "The content explicitly states that Severn delivered this speech at the age of twelve at the 1992 Earth Summit in Rio de Janeiro.",
+      "points": 1
+    },
+    {
+      "question": "What does ECO stand for, the organization founded by Severn and her friends?",
+      "type": "mcq",
+      "options": [
+        "Environmental Conservation Organization",
+        "Environmental Children's Organization",
+        "Earth Care Organization",
+        "Ecological Conservation Organization"
+      ],
+      "correctAnswer": "Environmental Children's Organization",
+      "explanation": "The content clearly states that ECO stands for Environmental Children's Organization, which Severn founded with her friends when she was nine years old.",
+      "points": 1
+    },
+    {
+      "question": "In which city and country was the Earth Summit held where Severn delivered her speech?",
+      "type": "mcq",
+      "options": [
+        "Geneva, Switzerland",
+        "New York, United States",
+        "Rio de Janeiro, Brazil",
+        "Toronto, Canada"
+      ],
+      "correctAnswer": "Rio de Janeiro, Brazil",
+      "explanation": "The content states that the United Nations Conference on Environment and Development (Earth Summit) was held in Rio de Janeiro, Brazil, in June 1992.",
+      "points": 1
+    },
+    {
+      "question": "According to the speech content, what was one of Severn's personal fears about the environment?",
+      "type": "mcq",
+      "options": [
+        "She was afraid of wild animals attacking her",
+        "She was afraid to go out in the sun because of holes in the ozone layer",
+        "She was afraid of traveling to other countries",
+        "She was afraid of speaking in public to adults"
+      ],
+      "correctAnswer": "She was afraid to go out in the sun because of holes in the ozone layer",
+      "explanation": "The content explicitly mentions that Severn described her fear of going out in the sun because holes in the ozone layer make the sun's rays dangerous.",
+      "points": 1
+    },
+    {
+      "question": "Severn Cullis-Suzuki is the daughter of David Suzuki, a well-known Canadian scientist and environmentalist.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content clearly states that Severn is the daughter of David Suzuki, a well-known Canadian scientist and environmentalist, and that she grew up in a family deeply concerned about nature and the environment.",
+      "points": 1
+    },
+    {
+      "question": "Severn Cullis-Suzuki studied medicine at Yale University and became a physician.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that Severn studied biology at Yale University, not medicine, and she continued her work as an environmental activist, author, and speaker, not as a physician.",
+      "points": 1
+    }
+  ]
+}

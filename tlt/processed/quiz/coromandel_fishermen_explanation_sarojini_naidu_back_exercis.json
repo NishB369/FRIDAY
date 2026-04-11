@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Sarojini Naidu's 'Coromandel Fishers' poem, its context, and literary elements.",
+  "questions": [
+    {
+      "question": "What was Sarojini Naidu's nickname and why was she given this title?",
+      "type": "mcq",
+      "options": [
+        "She was called the 'Nightingale of India' because of the musical quality and lyrical beauty of her poems",
+        "She was called the 'Nightingale of India' because she was a famous freedom fighter",
+        "She was called the 'Nightingale of India' because she wrote about birds in nature",
+        "She was called the 'Nightingale of India' because she was the Governor of Uttar Pradesh"
+      ],
+      "correctAnswer": "She was called the 'Nightingale of India' because of the musical quality and lyrical beauty of her poems",
+      "explanation": "The content explicitly states that Sarojini Naidu was called the 'Nightingale of India' specifically because of the musical quality and lyrical beauty of her poems, not for other reasons.",
+      "points": 1
+    },
+    {
+      "question": "What do the fishermen's boats in the poem refer to?",
+      "type": "mcq",
+      "options": [
+        "Large wooden ships used for trade",
+        "Catamarans, flat-bottomed boats made of planks tied together, traditionally used by South Indian fishermen",
+        "Canoes used in deep sea fishing",
+        "Modern fishing vessels with engines"
+      ],
+      "correctAnswer": "Catamarans, flat-bottomed boats made of planks tied together, traditionally used by South Indian fishermen",
+      "explanation": "The content defines catamarans as flat-bottomed boats made of planks tied together, traditionally used by fishermen in South India, which is what the fishermen use in the poem.",
+      "points": 1
+    },
+    {
+      "question": "Which geographical region does the Coromandel Coast refer to in the poem?",
+      "type": "mcq",
+      "options": [
+        "The western coast of India along Maharashtra",
+        "The northern coast of India along the Bay of Bengal",
+        "The southeastern coast of India running through Tamil Nadu and part of Andhra Pradesh",
+        "The southwestern coast of India along Kerala"
+      ],
+      "correctAnswer": "The southeastern coast of India running through Tamil Nadu and part of Andhra Pradesh",
+      "explanation": "The content clearly states that the Coromandel Coast is a stretch of coastline along the southeastern coast of India that runs through present-day Tamil Nadu and part of Andhra Pradesh.",
+      "points": 1
+    },
+    {
+      "question": "What is the deeper political meaning of the poem 'Coromandel Fishers'?",
+      "type": "mcq",
+      "options": [
+        "It is purely about the daily lives of fishermen and has no political meaning",
+        "While appearing to be about fishermen going to sea, it is a call for Indians to rise up against British colonial rule during the freedom struggle",
+        "It is a protest against overfishing and environmental destruction",
+        "It celebrates the economic prosperity of fishing communities in South India"
+      ],
+      "correctAnswer": "While appearing to be about fishermen going to sea, it is a call for Indians to rise up against British colonial rule during the freedom struggle",
+      "explanation": "The content explicitly explains that while on the surface the poem appears to be about fishermen, it carries a deeper political meaning as a call for Indians to rise against colonial rule during the freedom struggle.",
+      "points": 1
+    },
+    {
+      "question": "Sarojini Naidu was the first woman to serve as the Governor of Uttar Pradesh in independent India.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that Sarojini Naidu 'later became the first woman to serve as the Governor of a state in independent India (Uttar Pradesh).'",
+      "points": 1
+    },
+    {
+      "question": "The rhyme scheme of 'Coromandel Fishers' is ABAB.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clearly states that the rhyme scheme of the poem is AABB, not ABAB. This rhyme scheme gives the poem a rhythmic, chant-like quality suitable for its role as a call to action.",
+      "points": 1
+    }
+  ]
+}

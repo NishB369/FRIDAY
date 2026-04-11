@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Langston Hughes's 'The South' \u2014 poem summary, historical context, and literary analysis.",
+  "questions": [
+    {
+      "question": "During which period did Langston Hughes live and write as a major figure of the Harlem Renaissance?",
+      "type": "mcq",
+      "options": [
+        "1890s\u20131910s",
+        "1920s\u20131930s",
+        "1940s\u20131950s",
+        "1960s\u20131970s"
+      ],
+      "correctAnswer": "1920s\u20131930s",
+      "explanation": "The Harlem Renaissance was an African-American cultural movement that flourished in New York City during the 1920s and 1930s, and Langston Hughes was one of its most celebrated figures during this period.",
+      "points": 1
+    },
+    {
+      "question": "What literary technique does Hughes use in the opening line 'The lazy, laughing South / With blood on its mouth'?",
+      "type": "mcq",
+      "options": [
+        "Alliteration",
+        "Personification",
+        "Hyperbole",
+        "Metaphor"
+      ],
+      "correctAnswer": "Personification",
+      "explanation": "The South is presented as a living entity with human qualities \u2014 it is lazy, laughs, and has blood on its mouth \u2014 which is the defining characteristic of personification.",
+      "points": 1
+    },
+    {
+      "question": "Which amendment formally abolished slavery in the United States?",
+      "type": "mcq",
+      "options": [
+        "Tenth Amendment",
+        "Thirteenth Amendment",
+        "Fifteenth Amendment",
+        "Nineteenth Amendment"
+      ],
+      "correctAnswer": "Thirteenth Amendment",
+      "explanation": "The Thirteenth Amendment, ratified in 1865 following the Union's victory in the Civil War, formally abolished slavery throughout the United States.",
+      "points": 1
+    },
+    {
+      "question": "What was the primary reason African Americans participated in the Great Migration (1910\u20131970)?",
+      "type": "mcq",
+      "options": [
+        "To escape Southern natural disasters and climate",
+        "To seek better opportunities, freedom, and dignity in industrialised Northern cities",
+        "To follow government-sponsored relocation programs",
+        "To participate in religious revival movements"
+      ],
+      "correctAnswer": "To seek better opportunities, freedom, and dignity in industrialised Northern cities",
+      "explanation": "Millions of African Americans left the South in search of higher wages, legal protections, relative freedom from overt violence, and greater economic and social mobility in Northern cities like Chicago, Detroit, New York, and Pittsburgh.",
+      "points": 1
+    },
+    {
+      "question": "True or False: Langston Hughes was born in Harlem, New York.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Hughes was born in Joplin, Missouri, and grew up moving between several cities before eventually settling in Harlem, which became the centre of his literary life.",
+      "points": 1
+    },
+    {
+      "question": "True or False: According to the poem's opening, the South's leisure and laughter are built directly on the labour and suffering of enslaved African Americans.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The personification of the South as lazy and laughing while having blood on its mouth reveals that white landowners reclined in leisure because African-American slaves performed all the labour; the South's ease was built on Black suffering.",
+      "points": 1
+    }
+  ]
+}

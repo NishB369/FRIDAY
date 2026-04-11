@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Anita Desai's 'In Custody' \u2014 plot, characters, themes, and literary context",
+  "questions": [
+    {
+      "question": "What is Deven Sharma's profession in the novel 'In Custody'?",
+      "type": "mcq",
+      "options": [
+        "A lecturer of Hindi at a small college in Mirpur",
+        "An Urdu poet living in Old Delhi",
+        "A journalist working for a literary magazine in Delhi",
+        "A university professor at Miranda House, Delhi"
+      ],
+      "correctAnswer": "A lecturer of Hindi at a small college in Mirpur",
+      "explanation": "The text explicitly states that Deven Sharma is 'a lecturer of Hindi at a small college in the fictional town of Mirpur,' though his real passion is Urdu poetry.",
+      "points": 1
+    },
+    {
+      "question": "Who asks Deven to travel to Delhi to interview Nur the poet?",
+      "type": "mcq",
+      "options": [
+        "Imtiyaz Begum, Nur's second wife",
+        "Murad Ali, who runs a struggling Urdu literary journal",
+        "Sarla, Deven's wife",
+        "The principal of Deven's college"
+      ],
+      "correctAnswer": "Murad Ali, who runs a struggling Urdu literary journal",
+      "explanation": "According to the text, 'His old friend Murad Ali runs a small, struggling Urdu literary journal from Delhi. Murad contacts Deven and asks him to travel to Delhi to interview Nur for a special feature in the magazine.'",
+      "points": 1
+    },
+    {
+      "question": "What major historical event contributed to the marginalisation of Urdu in post-independence India?",
+      "type": "mcq",
+      "options": [
+        "The British colonial period",
+        "The rise of Hindi nationalism",
+        "The Partition of 1947",
+        "The decline of Mughal rule"
+      ],
+      "correctAnswer": "The Partition of 1947",
+      "explanation": "The text states that 'The Partition of 1947 created a deep rupture in North Indian culture: Urdu...became associated primarily with Pakistan, leaving its practitioners in India increasingly marginalised.'",
+      "points": 1
+    },
+    {
+      "question": "When Deven meets Nur in his house in Old Delhi, what does the poet's actual living situation reveal?",
+      "type": "mcq",
+      "options": [
+        "Nur lives a life of luxury surrounded by devoted students of poetry",
+        "Nur lives in a dilapidated house, ignored and bullied, surrounded by sycophants who come for food and entertainment rather than poetry",
+        "Nur lives in solitary contemplation, dedicating himself entirely to writing poetry",
+        "Nur lives in a grand mansion befitting his status as the greatest living poet"
+      ],
+      "correctAnswer": "Nur lives in a dilapidated house, ignored and bullied, surrounded by sycophants who come for food and entertainment rather than poetry",
+      "explanation": "The text describes that 'Nur lives in a dilapidated, chaotic house surrounded by sycophants and hangers-on who come not for his poetry but for the food, drink, and entertainment his household provides' and that 'Nur, the great poet, is reduced to a corner of his own home, ignored and bullied.'",
+      "points": 1
+    },
+    {
+      "question": "Anita Desai was born in Mussoorie, India, to a German mother and a Bengali father.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text clearly states 'Anita Desai (born 1937, Mussoorie, India)...Born to a German mother and a Bengali father,' confirming both her birthplace and parental background.",
+      "points": 1
+    },
+    {
+      "question": "'In Custody' was adapted into a film by Ismail Merchant in 1993.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text explicitly mentions that 'In Custody' (1984) was 'later adapted into a film by Ismail Merchant (1993),' confirming both the filmmaker and the year of adaptation.",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of 'Seventeen Oranges' by Bill Naughton, including plot details, character background, and story context",
+  "questions": [
+    {
+      "question": "What was Bill Naughton's birthplace?",
+      "type": "mcq",
+      "options": [
+        "Bolton, Lancashire, England",
+        "Ballyhaunis, County Mayo, Ireland",
+        "A port town in northern England",
+        "London, England"
+      ],
+      "correctAnswer": "Ballyhaunis, County Mayo, Ireland",
+      "explanation": "The content explicitly states that Bill Naughton was born in Ballyhaunis, County Mayo, Ireland, though his family later moved to England when he was young.",
+      "points": 1
+    },
+    {
+      "question": "What is the narrator's job in 'Seventeen Oranges'?",
+      "type": "mcq",
+      "options": [
+        "A dock officer",
+        "A policeman at the gate",
+        "A delivery boy who uses a pony cart",
+        "A cargo loader at the docks"
+      ],
+      "correctAnswer": "A delivery boy who uses a pony cart",
+      "explanation": "The story clearly identifies the narrator as a delivery boy who uses a small pony cart to transport goods from the docks to different locations.",
+      "points": 1
+    },
+    {
+      "question": "What excuse does the narrator give to Clem when asked about the box?",
+      "type": "mcq",
+      "options": [
+        "He says the box contains bananas",
+        "He says there is a cat inside the box",
+        "He says it belongs to another worker",
+        "He says it contains sugar from the warehouse"
+      ],
+      "correctAnswer": "He says there is a cat inside the box",
+      "explanation": "The narrator quickly comes up with a clever excuse, telling Clem that there is a cat in the box and asking him not to open it because the cat will escape.",
+      "points": 1
+    },
+    {
+      "question": "What did the narrator conceal under his 'brest' (sleeveless jacket)?",
+      "type": "mcq",
+      "options": [
+        "Only oranges",
+        "Stolen goods from the warehouse",
+        "Accidentally fallen fruit like bananas and oranges",
+        "Money from selling cargo"
+      ],
+      "correctAnswer": "Accidentally fallen fruit like bananas and oranges",
+      "explanation": "The narrator explains that he would pick up fruit that accidentally fell out of cargo boxes while being unloaded and hide them under his brest, considering fallen fruit as fair game rather than theft.",
+      "points": 1
+    },
+    {
+      "question": "Bill Naughton's most famous work is the play 'Alfie,' which was later adapted into a film.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Naughton's most famous work is the play 'Alfie' (1963), which was later adapted into a popular film.",
+      "points": 1
+    },
+    {
+      "question": "When Clem searches the narrator's pocket, he finds exactly seventeen oranges.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content clearly states that when Clem takes the boy into his cabin and searches his pocket, he finds seventeen oranges, which he lays out carefully on the table.",
+      "points": 1
+    }
+  ]
+}

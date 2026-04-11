@@ -1,0 +1,79 @@
+{
+  "description": "Comprehension and analysis quiz on Langston Hughes's 'Aunt Sue's Stories' covering biography, context, and poem interpretation.",
+  "questions": [
+    {
+      "question": "Which magazine first published 'Aunt Sue's Stories' in 1921?",
+      "type": "mcq",
+      "options": [
+        "The Crisis",
+        "The Harlem Review",
+        "African American Quarterly",
+        "The Negro World"
+      ],
+      "correctAnswer": "The Crisis",
+      "explanation": "The poem was first published in The Crisis, the magazine of the NAACP edited by W.E.B. Du Bois, before being included in Hughes's 1926 collection The Weary Blues.",
+      "points": 1
+    },
+    {
+      "question": "Langston Hughes was born in which city?",
+      "type": "mcq",
+      "options": [
+        "Harlem, New York",
+        "Joplin, Missouri",
+        "Atlanta, Georgia",
+        "New Orleans, Louisiana"
+      ],
+      "correctAnswer": "Joplin, Missouri",
+      "explanation": "According to the content, James Mercer Langston Hughes was born in Joplin, Missouri in 1901, though he spent much of his childhood moving between relatives.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following best describes the literary form of 'Aunt Sue's Stories'?",
+      "type": "mcq",
+      "options": [
+        "Formal rhyming verse with strict meter",
+        "Free verse lyric poem",
+        "Narrative epic with classical structure",
+        "Dramatic monologue in blank verse"
+      ],
+      "correctAnswer": "Free verse lyric poem",
+      "explanation": "The poem is explicitly identified in the content as a free verse lyric poem, which allows Hughes to focus on emotional expression and the rhythms of oral storytelling without adhering to strict formal constraints.",
+      "points": 1
+    },
+    {
+      "question": "According to the content, what is the primary purpose of the opening anaphoric repetition 'Aunt Sue has a head full of stories / Aunt Sue has a whole heart full of stories'?",
+      "type": "mcq",
+      "options": [
+        "To create a humorous tone and satirize elderly storytellers",
+        "To show that Aunt Sue is mentally confused and forgetful",
+        "To mimic the rhythm of oral storytelling and emphasize that stories are both intellectual and emotional",
+        "To contrast Aunt Sue's intelligence with her lack of formal education"
+      ],
+      "correctAnswer": "To mimic the rhythm of oral storytelling and emphasize that stories are both intellectual and emotional",
+      "explanation": "The content explains that the repetition is deliberate and mimics oral storytelling rhythm, while also establishing that stories are stored in both the mind and emotional core, making them inseparable from Aunt Sue's identity.",
+      "points": 1
+    },
+    {
+      "question": "Langston Hughes's maternal grandmother, Mary Langston, is widely believed to have been the inspiration for the character of Aunt Sue in this poem.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Hughes's maternal grandmother Mary Langston, who shaped his political consciousness and literary imagination, is widely believed to have been the inspiration for Aunt Sue.",
+      "points": 1
+    },
+    {
+      "question": "The setting of the opening stanza takes place indoors in a bedroom where Aunt Sue tells stories to the child.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clearly describes the setting as a summer night on the front porch, an intimate outdoor domestic space, not indoors in a bedroom.",
+      "points": 1
+    }
+  ]
+}

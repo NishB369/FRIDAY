@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of Sarojini Naidu's 'Coromandel Fishers' poem, its context, literary devices, and symbolic meanings",
+  "questions": [
+    {
+      "question": "What was Sarojini Naidu's most famous title?",
+      "type": "mcq",
+      "options": [
+        "Mother of India",
+        "Nightingale of India",
+        "Queen of Indian Poetry",
+        "Voice of Freedom"
+      ],
+      "correctAnswer": "Nightingale of India",
+      "explanation": "The content explicitly states that Sarojini Naidu earned the title 'Nightingale of India' for the lyrical beauty of her verse.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT one of Sarojini Naidu's major poetry collections?",
+      "type": "mcq",
+      "options": [
+        "The Golden Threshold",
+        "The Bird of Time",
+        "The Broken Wing",
+        "The Wings of Fire"
+      ],
+      "correctAnswer": "The Wings of Fire",
+      "explanation": "The content lists three major collections: The Golden Threshold (1905), The Bird of Time (1912), and The Broken Wing (1917). 'The Wings of Fire' is not mentioned as her work.",
+      "points": 1
+    },
+    {
+      "question": "What does the rhyme scheme AABB in 'Coromandel Fishers' mean?",
+      "type": "mcq",
+      "options": [
+        "All four lines rhyme with each other",
+        "The first two lines rhyme, and the last two lines rhyme",
+        "The first and third lines rhyme, and the second and fourth lines rhyme",
+        "No lines rhyme with each other"
+      ],
+      "correctAnswer": "The first two lines rhyme, and the last two lines rhyme",
+      "explanation": "The content explicitly defines AABB as 'the first two lines rhyme, and the last two lines rhyme,' which is the standard rhyme scheme used in each stanza of the poem.",
+      "points": 1
+    },
+    {
+      "question": "In the first stanza, what does the 'leaping wealth of the tide' primarily refer to?",
+      "type": "mcq",
+      "options": [
+        "Precious jewels and gold found in the sea",
+        "Fish and shells brought in by the tide overnight",
+        "The freedom fighters' weapons and supplies",
+        "The British colonial treasures"
+      ],
+      "correctAnswer": "Fish and shells brought in by the tide overnight",
+      "explanation": "The content states that the tide brought in fish and shells overnight, and the morning is the perfect time to catch this 'leaping wealth.' This is the literal meaning in the first reading of the poem.",
+      "points": 1
+    },
+    {
+      "question": "Sarojini Naidu was the first Indian woman to become the President of the Indian National Congress.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Sarojini Naidu 'was the first Indian woman to become the President of the Indian National Congress and later the first woman to serve as Governor of an Indian state.'",
+      "points": 1
+    },
+    {
+      "question": "'Coromandel Fishers' works on only one level\u2014as a literal description of fishermen going to sea, without any deeper symbolic meaning.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clearly states that the poem 'works on two levels at the same time: as a literal description of fishermen going to sea, and as a metaphorical call to the people of India to rise up and fight for their independence.'",
+      "points": 1
+    }
+  ]
+}

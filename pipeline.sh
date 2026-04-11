@@ -1,5 +1,5 @@
 #!/bin/bash
-# pipeline.sh — Automates: Excel → yt-data-extractor → Claude summary
+# pipeline.sh — Automates: Excel → extract.py → Claude summary
 # TRACKER.md is the source of truth — processed video IDs are read from it
 # and it is updated automatically after each successful run.
 #
@@ -14,13 +14,11 @@ set -euo pipefail
 # ── Paths ──────────────────────────────────────────────────────────────────
 BASE="$(cd "$(dirname "$0")" && pwd)"
 TLT="$BASE/tlt"
-EXTRACTOR="$BASE/yt-data-extractor"
 XLSX="$BASE/sheets-data/The_Literature_Talks_Videos.xlsx"
 JSON_DIR="$TLT/json-res"
 SUMMARIES_DIR="$TLT/processed/summaries"
 TRACKER="$TLT/TRACKER.md"
-EXTRACTOR_PORT=3000
-EXTRACTOR_URL="http://localhost:$EXTRACTOR_PORT"
+EXTRACT_SCRIPT="$TLT/scripts/extract.py"
 
 # ── Args ───────────────────────────────────────────────────────────────────
 SKIP_EXISTING=true
@@ -48,11 +46,18 @@ echo "  The Literature Talks — Video Processing Pipeline"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo ""
 
-for cmd in python3 curl claude npm; do
+for cmd in python3 claude; do
   if ! command -v "$cmd" &>/dev/null; then
     err "Required command not found: $cmd"; exit 1
   fi
 done
+
+# Check youtube-transcript-api is installed
+if ! python3 -c "import youtube_transcript_api" 2>/dev/null; then
+  err "youtube-transcript-api not installed — run: pip3 install youtube-transcript-api"
+  exit 1
+fi
+
 ok "All dependencies found"
 
 # ── 2. Read TRACKER.md — build done-set and next row number ───────────────
@@ -83,46 +88,7 @@ is_done() {
   echo "$DONE_IDS" | grep -qx "$1"
 }
 
-# ── 3. Start yt-data-extractor if not running ──────────────────────────────
-SERVER_STARTED=false
-SERVER_PID=""
-
-check_server() {
-  curl -sf --max-time 3 "$EXTRACTOR_URL" &>/dev/null
-}
-
-if check_server; then
-  ok "yt-data-extractor already running on port $EXTRACTOR_PORT"
-else
-  echo "Starting yt-data-extractor server..."
-  cd "$EXTRACTOR"
-  npm run dev > /tmp/yt-extractor.log 2>&1 &
-  SERVER_PID=$!
-  SERVER_STARTED=true
-  cd "$BASE"
-
-  echo -n "Waiting for server to be ready"
-  for i in $(seq 1 30); do
-    sleep 2
-    if check_server; then
-      echo ""; ok "Server ready"; break
-    fi
-    echo -n "."
-    if [ "$i" -eq 30 ]; then
-      echo ""; err "Server failed to start after 60s — check /tmp/yt-extractor.log"; exit 1
-    fi
-  done
-fi
-
-cleanup() {
-  if [ "$SERVER_STARTED" = true ] && [ -n "$SERVER_PID" ]; then
-    echo ""; echo "Stopping yt-data-extractor (PID $SERVER_PID)..."
-    kill "$SERVER_PID" 2>/dev/null || true
-  fi
-}
-trap cleanup EXIT
-
-# ── 4. Read URLs from Excel ────────────────────────────────────────────────
+# ── 3. Read URLs from Excel ────────────────────────────────────────────────
 echo ""
 echo "Reading video list from Excel..."
 
@@ -239,19 +205,15 @@ process_video() {
     ok "JSON already exists"
   else
     echo "  Fetching metadata + transcript..."
-    HTTP_CODE=$(curl -s -o "$json_file" -w "%{http_code}" \
-      "$EXTRACTOR_URL/api/extract" \
-      -X POST -H "Content-Type: application/json" \
-      -d "{\"url\":\"$url\"}")
-
-    if [ "$HTTP_CODE" != "200" ]; then
-      err "Extract API returned HTTP $HTTP_CODE"
+    if ! python3 "$EXTRACT_SCRIPT" "$url" "$json_file" 2>/tmp/extract_error.log; then
+      err "Extract failed — see /tmp/extract_error.log"
+      cat /tmp/extract_error.log 2>/dev/null || true
       rm -f "$json_file"
       FAILED=$((FAILED + 1)); return
     fi
 
     if ! python3 -c "import json; d=json.load(open('$json_file')); assert 'video_id' in d" 2>/dev/null; then
-      err "Invalid/unexpected JSON response"
+      err "Invalid/unexpected JSON output"
       FAILED=$((FAILED + 1)); return
     fi
     ok "JSON saved: $json_filename"

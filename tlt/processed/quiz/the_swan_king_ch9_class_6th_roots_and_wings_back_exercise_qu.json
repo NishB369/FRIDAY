@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'The Swan King' Chapter 9 from Class 6 Roots and Wings literature reader, including plot, characters, and language skills.",
+  "questions": [
+    {
+      "question": "Who was the golden swan king that led the flock in 'The Swan King'?",
+      "type": "mcq",
+      "options": [
+        "Dhritarashtra",
+        "Sumukha",
+        "Sakula",
+        "Mahimsak"
+      ],
+      "correctAnswer": "Sakula",
+      "explanation": "Sakula was the golden swan king who led the entire flock with wisdom and nobility.",
+      "points": 1
+    },
+    {
+      "question": "Why did the swans want to travel to the Lotus Lake?",
+      "type": "mcq",
+      "options": [
+        "To escape from a hunter",
+        "Because they heard it was a beautiful place with abundant grass",
+        "To find a new king",
+        "To learn wisdom from a human king"
+      ],
+      "correctAnswer": "Because they heard it was a beautiful place with abundant grass",
+      "explanation": "The swans were attracted to the Lotus Lake in Chitrakoot because they had heard it was a beautiful and peaceful place with plenty of food.",
+      "points": 1
+    },
+    {
+      "question": "Which swan refused to leave his trapped companion and stayed behind?",
+      "type": "mcq",
+      "options": [
+        "Sakula",
+        "Sumukha",
+        "Dhritarashtra",
+        "The hunter"
+      ],
+      "correctAnswer": "Sumukha",
+      "explanation": "Sumukha was the chief of the swan army who remained loyal and refused to abandon Dhritarashtra when he was caught in the net.",
+      "points": 1
+    },
+    {
+      "question": "According to the story, what is the most powerful way to win over another person?",
+      "type": "mcq",
+      "options": [
+        "By using punishment and force",
+        "By creating fear and threats",
+        "By love and respect",
+        "By keeping them trapped"
+      ],
+      "correctAnswer": "By love and respect",
+      "explanation": "The central lesson of 'The Swan King' teaches that a person can be won over through love and respect rather than through punishment or fear.",
+      "points": 1
+    },
+    {
+      "question": "True or False: Dhritarashtra was the swan king who led the entire flock.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Sakula was the swan king who led the flock. Dhritarashtra was a swan who got caught in the hunter's trap.",
+      "points": 1
+    },
+    {
+      "question": "True or False: The hunter stayed silent while the swans were feeding so they would not get frightened and fly away hungry.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The hunter remained silent during the swans' meal time to prevent them from panicking and flying away before eating, ensuring they would be weak and unable to fly far.",
+      "points": 1
+    }
+  ]
+}

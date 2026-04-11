@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Walt Whitman's 'O Captain! My Captain!' poem, its historical context, and literary analysis.",
+  "questions": [
+    {
+      "question": "What historical event prompted Walt Whitman to write 'O Captain! My Captain!'?",
+      "type": "mcq",
+      "options": [
+        "The end of the American Civil War",
+        "The assassination of President Abraham Lincoln",
+        "The Battle of Gettysburg",
+        "The issuance of the Emancipation Proclamation"
+      ],
+      "correctAnswer": "The assassination of President Abraham Lincoln",
+      "explanation": "Whitman wrote the poem in 1865 shortly after Lincoln was assassinated on April 14, 1865, at Ford's Theatre. While the Civil War had ended, it was Lincoln's death that directly inspired this elegy.",
+      "points": 1
+    },
+    {
+      "question": "What literary device does Whitman use to represent the Union's victory and Lincoln's death in 'O Captain! My Captain!'?",
+      "type": "mcq",
+      "options": [
+        "A metaphor of a ship returning to port",
+        "A comparison between two historical figures",
+        "A flashback to wartime battles",
+        "A dialogue between soldiers"
+      ],
+      "correctAnswer": "A metaphor of a ship returning to port",
+      "explanation": "Whitman uses an extended metaphor of a ship returning to port to capture both the relief of the war's end and the grief of Lincoln's death, combining victory and loss simultaneously.",
+      "points": 1
+    },
+    {
+      "question": "What is Walt Whitman known as in American literary history?",
+      "type": "mcq",
+      "options": [
+        "The father of American Romanticism",
+        "The father of free verse",
+        "The founder of transcendentalism",
+        "The first American playwright"
+      ],
+      "correctAnswer": "The father of free verse",
+      "explanation": "Whitman is widely regarded as 'the father of free verse' because he deliberately avoided regular metre and rhyme scheme in favour of natural rhythms and long rolling lines, transforming American poetry.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT mentioned as one of Walt Whitman's major works?",
+      "type": "mcq",
+      "options": [
+        "Leaves of Grass",
+        "Song of Myself",
+        "When Lilacs Last in the Dooryard Bloom'd",
+        "The Raven"
+      ],
+      "correctAnswer": "The Raven",
+      "explanation": "'The Raven' was written by Edgar Allan Poe, not Walt Whitman. The other three works are explicitly mentioned as Whitman's major works in the content provided.",
+      "points": 1
+    },
+    {
+      "question": "Walt Whitman served as a volunteer nurse during the American Civil War.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that 'Whitman served as a volunteer nurse during the American Civil War, an experience that profoundly shaped his poetry and his views on mortality, sacrifice, and national identity.'",
+      "points": 1
+    },
+    {
+      "question": "'O Captain! My Captain!' is written entirely in Whitman's characteristic free verse style without regular metre or rhyme scheme.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Unlike Whitman's typical free verse, 'O Captain! My Captain!' follows a regular metre with an AABBCDED rhyme scheme. This departure from his usual style reflects the solemnity of the subject, resembling a funeral march.",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Things Fall Apart, its title justification, and cultural conflict themes in Chinua Achebe's postcolonial novel.",
+  "questions": [
+    {
+      "question": "From which W.B. Yeats poem is the title 'Things Fall Apart' taken?",
+      "type": "mcq",
+      "options": [
+        "The Second Coming",
+        "Sailing to Byzantium",
+        "Among School Children",
+        "Leda and the Swan"
+      ],
+      "correctAnswer": "The Second Coming",
+      "explanation": "The content explicitly states that the title is taken from a line in W.B. Yeats' poem 'The Second Coming' (1919): 'Things fall apart; the centre cannot hold.'",
+      "points": 1
+    },
+    {
+      "question": "In which region of Nigeria is the novel Things Fall Apart primarily set?",
+      "type": "mcq",
+      "options": [
+        "Northern Nigeria",
+        "Southeastern Nigeria",
+        "Western Nigeria",
+        "Central Nigeria"
+      ],
+      "correctAnswer": "Southeastern Nigeria",
+      "explanation": "The content states that Things Fall Apart is set in Umuofia, a cluster of nine Igbo villages in southeastern Nigeria, during the late 1890s.",
+      "points": 1
+    },
+    {
+      "question": "Approximately how many languages has Things Fall Apart been translated into?",
+      "type": "mcq",
+      "options": [
+        "More than 30 languages",
+        "More than 50 languages",
+        "More than 70 languages",
+        "More than 100 languages"
+      ],
+      "correctAnswer": "More than 50 languages",
+      "explanation": "According to the content, Things Fall Apart has been translated into more than 50 languages and has sold over 20 million copies worldwide.",
+      "points": 1
+    },
+    {
+      "question": "What was Chinua Achebe's primary goal as a writer?",
+      "type": "mcq",
+      "options": [
+        "To entertain European audiences with African stories",
+        "To present African society from an African perspective and counter distorted colonial images",
+        "To document British colonial achievements in Africa",
+        "To promote Christian missionary work in Nigeria"
+      ],
+      "correctAnswer": "To present African society from an African perspective and counter distorted colonial images",
+      "explanation": "The content explicitly states that Achebe's primary goal was 'to present African society from an African perspective, countering the distorted images produced by European colonial literature.'",
+      "points": 1
+    },
+    {
+      "question": "Things Fall Apart is considered a landmark of postcolonial literature because it was one of the first major works to tell the story of colonialism from the colonised perspective rather than the coloniser's perspective.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states: 'The novel is considered a landmark of postcolonial literature because it was one of the first major works by an African writer to tell the story of colonialism from the colonised perspective, not the coloniser's.'",
+      "points": 1
+    },
+    {
+      "question": "Chinua Achebe wrote the essay 'An Image of Africa' to praise Joseph Conrad's portrayal of Africa in Heart of Darkness.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that in his essay 'An Image of Africa' (1975), Achebe 'challenged the racist portrayal of Africa in Joseph Conrad's Heart of Darkness,' not praised it.",
+      "points": 1
+    }
+  ]
+}

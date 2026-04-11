@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Abou Ben Adhem poem, its themes, and key details from the Class 6 Roots and Wings literature lesson.",
+  "questions": [
+    {
+      "question": "Who is the poet of 'Abou Ben Adhem'?",
+      "type": "mcq",
+      "options": [
+        "James Henry Leigh Hunt",
+        "William Shakespeare",
+        "Samuel Taylor Coleridge",
+        "John Keats"
+      ],
+      "correctAnswer": "James Henry Leigh Hunt",
+      "explanation": "The poem 'Abou Ben Adhem' was written by James Henry Leigh Hunt (1784-1859), an English poet and essayist of the Romantic period.",
+      "points": 1
+    },
+    {
+      "question": "What was Abou Ben Adhem doing when he saw the angel?",
+      "type": "mcq",
+      "options": [
+        "He was praying to God",
+        "He awoke one night",
+        "He was writing in a golden book",
+        "He was walking in the moonlight"
+      ],
+      "correctAnswer": "He awoke one night",
+      "explanation": "The poem states that Abou Ben Adhem awoke one night to find his room filled with a bright glow, and that is when he discovered the angel sitting in his room writing names in a golden book.",
+      "points": 1
+    },
+    {
+      "question": "What was the source of Abou Ben Adhem's boldness when speaking to the angel?",
+      "type": "mcq",
+      "options": [
+        "His fear of God",
+        "His exceeding peace",
+        "His knowledge of the angel",
+        "His desire for fame"
+      ],
+      "correctAnswer": "His exceeding peace",
+      "explanation": "According to the poem and the video content, Abou Ben Adhem was bold because of his exceeding inner peace, which gave him the confidence to speak to the angel without fear.",
+      "points": 1
+    },
+    {
+      "question": "Why did Abou Ben Adhem's name appear at the top of God's list on the second night?",
+      "type": "mcq",
+      "options": [
+        "Because he prayed the most",
+        "Because he loved his fellow men",
+        "Because he feared God the most",
+        "Because he wrote in the golden book"
+      ],
+      "correctAnswer": "Because he loved his fellow men",
+      "explanation": "Abou's name was at the top of the list of those whom the love of God had blessed because his love for humanity was itself a form of loving God, as people are God's creation.",
+      "points": 1
+    },
+    {
+      "question": "The central message of 'Abou Ben Adhem' is that loving one's fellow human beings is the greatest form of love for God.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The poem's central message is that you do not need to directly declare love for God to earn His favour; when you love the people around you, you are already loving God because people are God's creation.",
+      "points": 1
+    },
+    {
+      "question": "When the angel first came to Abou Ben Adhem, his name was already written in the golden book of those who love God.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The angel told Abou that his name was not in the list of those who love God on the first night. It was only on the second night, when the angel returned, that Abou's name appeared at the top of the new list of those whom the love of God had blessed.",
+      "points": 1
+    }
+  ]
+}

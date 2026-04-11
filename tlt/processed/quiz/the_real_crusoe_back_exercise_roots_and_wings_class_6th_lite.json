@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'The Real Crusoe' chapter about Alexander Selkirk and the origins of Robinson Crusoe for Class 6 students.",
+  "questions": [
+    {
+      "question": "Who was the real person whose story inspired Daniel Defoe to write Robinson Crusoe?",
+      "type": "mcq",
+      "options": [
+        "William Dampier",
+        "Alexander Selkirk",
+        "Woodes Rogers",
+        "Daniel Defoe"
+      ],
+      "correctAnswer": "Alexander Selkirk",
+      "explanation": "Alexander Selkirk was a Scottish sailor whose true story of survival on Juan Fernandez Island directly inspired Daniel Defoe to create the fictional novel Robinson Crusoe.",
+      "points": 1
+    },
+    {
+      "question": "Why did Alexander Selkirk choose to land on Juan Fernandez Island?",
+      "type": "mcq",
+      "options": [
+        "He wanted to find treasure on the island",
+        "He had a disagreement with Captain William Dampier about the ship's safety and voyage conditions",
+        "He was searching for new land to colonize",
+        "He accidentally fell overboard and swam to the island"
+      ],
+      "correctAnswer": "He had a disagreement with Captain William Dampier about the ship's safety and voyage conditions",
+      "explanation": "Selkirk had a heated argument with Captain William Dampier regarding the safety of the vessel and the conditions of the journey, which led him to decide to be put ashore on the island.",
+      "points": 1
+    },
+    {
+      "question": "Which captain rescued Alexander Selkirk from the island?",
+      "type": "mcq",
+      "options": [
+        "Captain William Dampier",
+        "Captain Daniel Defoe",
+        "Captain Woodes Rogers",
+        "Captain Alexander Rogers"
+      ],
+      "correctAnswer": "Captain Woodes Rogers",
+      "explanation": "Captain Woodes Rogers rescued Selkirk from Juan Fernandez Island during one of his voyages and later wrote about Selkirk's adventure in his book 'A Cruising Voyage Round the World.'",
+      "points": 1
+    },
+    {
+      "question": "In what year was the novel Robinson Crusoe published?",
+      "type": "mcq",
+      "options": [
+        "1700",
+        "1709",
+        "1719",
+        "1729"
+      ],
+      "correctAnswer": "1719",
+      "explanation": "Daniel Defoe published the fictional novel Robinson Crusoe in 1719, based on the real-life story of Alexander Selkirk.",
+      "points": 1
+    },
+    {
+      "question": "Alexander Selkirk spent approximately four years and four months alone on Juan Fernandez Island.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "According to the chapter content, Selkirk lived alone on the deserted Juan Fernandez Island for about four years and four months before being rescued.",
+      "points": 1
+    },
+    {
+      "question": "Robinson Crusoe is a work of fiction based on the real-life story of Alexander Selkirk.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "While Robinson Crusoe was inspired by Selkirk's true story, the novel itself is fictional, with the character Robinson Crusoe and the events in the story created by Daniel Defoe's imagination.",
+      "points": 1
+    }
+  ]
+}

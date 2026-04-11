@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of William Blake's 'Introduction to the Songs of Innocence,' including biographical context, poem structure, and thematic elements.",
+  "questions": [
+    {
+      "question": "In what year was 'Songs of Innocence' by William Blake published?",
+      "type": "mcq",
+      "options": [
+        "1789",
+        "1794",
+        "1757",
+        "1827"
+      ],
+      "correctAnswer": "1789",
+      "explanation": "The content explicitly states that 'Songs of Innocence' was published in 1789, making it the earlier of Blake's two celebrated collections.",
+      "points": 1
+    },
+    {
+      "question": "What does the child sitting on the cloud symbolize in the 'Introduction' poem?",
+      "type": "mcq",
+      "options": [
+        "An ordinary child from the Industrial Revolution",
+        "Divine or angelic inspiration",
+        "The piper's son",
+        "A lost soul in need of salvation"
+      ],
+      "correctAnswer": "Divine or angelic inspiration",
+      "explanation": "The content states that the child sitting on a cloud represents divine or angelic inspiration, and is a symbol of the divine voice that poets receive from a higher realm.",
+      "points": 1
+    },
+    {
+      "question": "What does the Lamb symbolize in Stanza 2 of the poem?",
+      "type": "mcq",
+      "options": [
+        "An actual farm animal that Blake raised",
+        "Industrial machinery that Blake opposed",
+        "Jesus Christ; also innocence, goodness, and divine love",
+        "The piper's companion on his journey"
+      ],
+      "correctAnswer": "Jesus Christ; also innocence, goodness, and divine love",
+      "explanation": "The content explicitly explains that 'The Lamb here is a symbol for Jesus Christ' and also represents 'innocence, goodness, and divine love.'",
+      "points": 1
+    },
+    {
+      "question": "What was William Blake's profession before becoming a famous poet?",
+      "type": "mcq",
+      "options": [
+        "A teacher in London schools",
+        "A professional engraver",
+        "A factory worker during the Industrial Revolution",
+        "A painter for the English royal court"
+      ],
+      "correctAnswer": "A professional engraver",
+      "explanation": "The content states that 'Blake worked as a professional engraver and produced his poems as illustrated books, combining images with text.'",
+      "points": 1
+    },
+    {
+      "question": "William Blake claimed to have visions, including seeing angels in trees and God's face at a window, from his childhood onwards.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states: 'From childhood, Blake claimed to have visions, including seeing angels in trees and God's face at a window. These mystical experiences shaped his poetry and art throughout his life.'",
+      "points": 1
+    },
+    {
+      "question": "The 'Introduction to the Songs of Innocence' serves as the concluding poem in Blake's 1789 collection.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content clearly states that this poem is 'the very first poem in Blake's collection Songs of Innocence' and 'serves as a preface or prologue to the entire collection,' not the concluding poem.",
+      "points": 1
+    }
+  ]
+}

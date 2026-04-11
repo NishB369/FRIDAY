@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of The Color Purple by Alice Walker, its author, themes, and major plot elements",
+  "questions": [
+    {
+      "question": "In what year was The Color Purple by Alice Walker published?",
+      "type": "mcq",
+      "options": [
+        "1980",
+        "1982",
+        "1985",
+        "1983"
+      ],
+      "correctAnswer": "1982",
+      "explanation": "The Color Purple was published in 1982 and won the Pulitzer Prize for Fiction in 1983, making Alice Walker the first Black woman to win this award for fiction.",
+      "points": 1
+    },
+    {
+      "question": "What literary form is The Color Purple written in?",
+      "type": "mcq",
+      "options": [
+        "First-person narrative",
+        "Epistolary fiction",
+        "Stream of consciousness",
+        "Third-person omniscient"
+      ],
+      "correctAnswer": "Epistolary fiction",
+      "explanation": "The Color Purple is written entirely through letters, with Celie writing first to God and later to her sister Nettie, making it epistolary fiction, which is a powerful choice as writing itself becomes an act of resistance for Celie.",
+      "points": 1
+    },
+    {
+      "question": "Which director adapted The Color Purple into an Oscar-winning film in 1985?",
+      "type": "mcq",
+      "options": [
+        "Martin Scorsese",
+        "Stanley Kubrick",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "correctAnswer": "Steven Spielberg",
+      "explanation": "In 1985, director Steven Spielberg adapted The Color Purple into an Oscar-winning film, bringing Walker's story to a wider global audience.",
+      "points": 1
+    },
+    {
+      "question": "In what time period and location is The Color Purple primarily set?",
+      "type": "mcq",
+      "options": [
+        "Urban New York in the 1920s",
+        "Rural Georgia in the 1930s under Jim Crow",
+        "Urban Atlanta in the 1940s",
+        "Rural Mississippi in the 1950s"
+      ],
+      "correctAnswer": "Rural Georgia in the 1930s under Jim Crow",
+      "explanation": "The novel is set primarily in rural Georgia in the 1930s during the period of Jim Crow racial segregation, which provides the oppressive social context for the characters' experiences.",
+      "points": 1
+    },
+    {
+      "question": "Alice Walker coined the term 'womanism' to describe a type of feminism rooted in the experiences of women of colour.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "Walker coined the term 'womanism' to describe a feminism rooted in the experiences of women of colour, distinguishing it from mainstream feminist movements that often centred white women's perspectives.",
+      "points": 1
+    },
+    {
+      "question": "Celie's first letters in The Color Purple are written to her sister Nettie.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Celie's letters are first written to God, not to her sister Nettie. She only begins writing to Nettie later in the novel when Nettie is no longer present in her life.",
+      "points": 1
+    }
+  ]
+}

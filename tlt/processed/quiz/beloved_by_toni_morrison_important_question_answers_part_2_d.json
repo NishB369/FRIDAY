@@ -1,0 +1,79 @@
+{
+  "description": "Test comprehension of growth and change themes in Toni Morrison's Beloved, focusing on character development and novel context.",
+  "questions": [
+    {
+      "question": "What is the significance of the 'tobacco tin' metaphor used to describe Paul D in Beloved?",
+      "type": "mcq",
+      "options": [
+        "It represents Paul D's addiction to tobacco as a coping mechanism",
+        "It symbolizes how Paul D has sealed off his emotions and feelings to survive trauma",
+        "It illustrates Paul D's work as a plantation laborer before becoming free",
+        "It shows Paul D's wealth and material possessions accumulated after slavery"
+      ],
+      "correctAnswer": "It symbolizes how Paul D has sealed off his emotions and feelings to survive trauma",
+      "explanation": "The tobacco tin is a metaphor for emotional suppression; Morrison uses it to show how Paul D buried his grief, rage, and longing deep inside himself as a survival mechanism during and after slavery.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following best describes Paul D's growth and change by the end of Beloved?",
+      "type": "mcq",
+      "options": [
+        "He completely forgets his traumatic past and starts a new life",
+        "He becomes able to feel, connect emotionally, and offer genuine human tenderness to Sethe",
+        "He leaves Cincinnati to travel and escape his memories forever",
+        "He returns to Sweet Home plantation to confront his enslavers"
+      ],
+      "correctAnswer": "He becomes able to feel, connect emotionally, and offer genuine human tenderness to Sethe",
+      "explanation": "Paul D's transformation involves cracking open his emotional defences and being able to return to Sethe, sit with her grief, and tell her 'You your best thing, Sethe,' demonstrating his capacity for genuine human connection.",
+      "points": 1
+    },
+    {
+      "question": "Beloved belongs to which literary genre?",
+      "type": "mcq",
+      "options": [
+        "Gothic Romance",
+        "Neo-Slave Narrative",
+        "Historical Biography",
+        "Science Fiction"
+      ],
+      "correctAnswer": "Neo-Slave Narrative",
+      "explanation": "The content explicitly states that Beloved belongs to the genre of Neo-Slave Narrative, which is twentieth-century fiction that imagines or reconstructs the experience of slavery.",
+      "points": 1
+    },
+    {
+      "question": "In what year was Beloved by Toni Morrison published, and which major prize did it win?",
+      "type": "mcq",
+      "options": [
+        "Published in 1985 and won the Nobel Prize in Literature",
+        "Published in 1987 and won the Pulitzer Prize for Fiction in 1988",
+        "Published in 1993 and won the National Book Award",
+        "Published in 1970 and won the Booker Prize"
+      ],
+      "correctAnswer": "Published in 1987 and won the Pulitzer Prize for Fiction in 1988",
+      "explanation": "According to the content, Beloved was published in 1987 and won the Pulitzer Prize for Fiction in 1988, establishing it as one of the greatest American novels ever written.",
+      "points": 1
+    },
+    {
+      "question": "Toni Morrison was the first African American woman to receive the Nobel Prize in Literature.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Toni Morrison received the Nobel Prize in Literature in 1993 and was the first African American woman to receive this honour.",
+      "points": 1
+    },
+    {
+      "question": "The novel Beloved is set during the period of slavery and contains no flashbacks to earlier time periods.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that Beloved is set in Cincinnati, Ohio around 1873 (after the Civil War) but includes extensive flashbacks to the period of slavery, making this statement false.",
+      "points": 1
+    }
+  ]
+}

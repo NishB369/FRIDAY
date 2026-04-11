@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Sonnet 1 by William Shakespeare, including its themes, structure, historical context, and line-by-line meaning.",
+  "questions": [
+    {
+      "question": "What is the primary argument of the Procreation Sonnets (Sonnets 1\u201317)?",
+      "type": "mcq",
+      "options": [
+        "A beautiful young man should marry and have children to preserve his beauty through offspring",
+        "The Fair Youth should remain unmarried to focus on his poetry",
+        "Beauty should be celebrated only through art and literature, not reproduction",
+        "Time is the greatest enemy and cannot be defeated by any means"
+      ],
+      "correctAnswer": "A beautiful young man should marry and have children to preserve his beauty through offspring",
+      "explanation": "The video explicitly states that the Procreation Sonnets form a sustained argument urging a beautiful young man to marry and have children, with reproduction serving as a triumph over time and death.",
+      "points": 1
+    },
+    {
+      "question": "What is the rhyme scheme of a Shakespearean sonnet?",
+      "type": "mcq",
+      "options": [
+        "ABAB BCBC CDCD EE",
+        "ABAB CDCD EFEF GG",
+        "ABBA ABBA CDDC EE",
+        "AABB CCDD EEFF GG"
+      ],
+      "correctAnswer": "ABAB CDCD EFEF GG",
+      "explanation": "The content explicitly defines the Shakespearean (or English) sonnet as having the rhyme scheme ABAB CDCD EFEF GG, consisting of three quatrains and a concluding couplet.",
+      "points": 1
+    },
+    {
+      "question": "In line 2 of Sonnet 1, what does the image of 'beauty's rose' primarily represent?",
+      "type": "mcq",
+      "options": [
+        "The young man's romantic love interests and affairs",
+        "Beauty that is inherently perishable but can be preserved through reproduction and offspring",
+        "The natural aging process that cannot be stopped",
+        "The decorative ornaments worn by noblemen in the Renaissance"
+      ],
+      "correctAnswer": "Beauty that is inherently perishable but can be preserved through reproduction and offspring",
+      "explanation": "The explanation states that the rose is beautiful but perishable, and reproduction is the means by which beauty's essence can be preserved across time, introducing the theme of immortality through procreation.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a possible identity of the Fair Youth in Sonnet 1?",
+      "type": "mcq",
+      "options": [
+        "Henry Wriothesley (Earl of Southampton)",
+        "William Herbert (Earl of Pembroke)",
+        "Christopher Marlowe",
+        "An unnamed patron of Shakespeare"
+      ],
+      "correctAnswer": "Christopher Marlowe",
+      "explanation": "The content identifies only Henry Wriothesley and William Herbert as the two most popular candidates for the identity of the Fair Youth; Christopher Marlowe is not mentioned as a possibility.",
+      "points": 1
+    },
+    {
+      "question": "True or False: Shakespeare's 154 sonnets were all published simultaneously in 1609, and the exact dates of composition are well-documented.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that the sonnets were 'first published in 1609' but notes that 'the exact dates of composition for the sonnets remain unknown,' indicating they were not composed all at once or with clear documentation.",
+      "points": 1
+    },
+    {
+      "question": "True or False: In Sonnet 1, the speaker criticizes the young man for being self-absorbed and making 'a famine where abundance lies' by focusing only on his own beauty rather than reproducing.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The sonnet explicitly contains the lines 'Feed'st thy light's flame with self-substantial fuel, / Making a famine where abundance lies,' which directly criticizes the young man for being contracted to his own beauty and self-focused rather than producing offspring.",
+      "points": 1
+    }
+  ]
+}

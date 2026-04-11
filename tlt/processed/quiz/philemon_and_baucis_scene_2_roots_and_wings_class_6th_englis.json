@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Philemon and Baucis Scene 2 from Class 6th Roots and Wings literature curriculum",
+  "questions": [
+    {
+      "question": "What simple meal did Philemon and Baucis offer to their two guests?",
+      "type": "mcq",
+      "options": [
+        "A half brown loaf of bread with cheese and honey, grapes, and milk from a pitcher",
+        "Fresh vegetables, meat, and wine",
+        "Only bread and water",
+        "A full feast with multiple dishes"
+      ],
+      "correctAnswer": "A half brown loaf of bread with cheese and honey, grapes, and milk from a pitcher",
+      "explanation": "The text explicitly describes the meal as 'a half brown loaf of bread, with cheese on one side and honey on the other, a few grapes for each guest, and bowls of milk, poured from a pitcher.'",
+      "points": 1
+    },
+    {
+      "question": "In the story, what is the name of the sacred duty of hospitality toward guests and strangers in Greek and Roman tradition?",
+      "type": "mcq",
+      "options": [
+        "Philanthropia",
+        "Xenia",
+        "Virtus",
+        "Caritas"
+      ],
+      "correctAnswer": "Xenia",
+      "explanation": "The content states: 'In Greek and Roman tradition, this idea was called xenia, the sacred duty of hospitality toward guests and strangers.'",
+      "points": 1
+    },
+    {
+      "question": "Who were the two disguised travelers in the story?",
+      "type": "mcq",
+      "options": [
+        "Two wealthy merchants from a distant land",
+        "Jupiter (king of the gods) and Mercury (messenger of the gods)",
+        "Two poor villagers seeking help",
+        "Two philosophers testing people's wisdom"
+      ],
+      "correctAnswer": "Jupiter (king of the gods) and Mercury (messenger of the gods)",
+      "explanation": "The text explicitly states: 'In the myth, the two disguised gods are Jupiter (king of the gods, equivalent to the Greek Zeus) and Mercury (messenger of the gods, equivalent to the Greek Hermes).'",
+      "points": 1
+    },
+    {
+      "question": "What miraculous event occurred with the pitcher of milk during the meal?",
+      "type": "mcq",
+      "options": [
+        "The pitcher turned into gold",
+        "The pitcher refilled itself even though Baucis thought it was nearly empty",
+        "The milk turned into wine",
+        "The pitcher disappeared and reappeared"
+      ],
+      "correctAnswer": "The pitcher refilled itself even though Baucis thought it was nearly empty",
+      "explanation": "The text describes how Baucis thought the pitcher was empty, but the younger traveler said there was more milk than she thought, and later 'the pitcher continues to refill on its own' as it miraculously refilled itself.",
+      "points": 1
+    },
+    {
+      "question": "The story of Philemon and Baucis comes from Ovid's famous work called the Metamorphoses, which was written around 8 AD.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states: 'The story is from the Metamorphoses, a famous Latin poem written by the Roman poet Ovid around 8 AD.'",
+      "points": 1
+    },
+    {
+      "question": "When Baucis stepped out of the cottage to bring more food, the bare and ordinary area around it transformed into a beautiful garden full of flowers and plants.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text describes: 'As Baucis steps out to bring the food, something miraculous happens. The area outside the cottage, which was bare and ordinary before, is now like a beautiful garden full of flowers and plants.'",
+      "points": 1
+    }
+  ]
+}

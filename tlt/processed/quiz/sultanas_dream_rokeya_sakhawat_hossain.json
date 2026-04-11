@@ -1,0 +1,79 @@
+{
+  "description": "Comprehension quiz on Sultana's Dream by Rokeya Sakhawat Hossain, testing understanding of the story's plot, themes, and satirical content.",
+  "questions": [
+    {
+      "question": "In what year was Sultana's Dream first published?",
+      "type": "mcq",
+      "options": [
+        "1900",
+        "1905",
+        "1910",
+        "1915"
+      ],
+      "correctAnswer": "1905",
+      "explanation": "The text explicitly states that Sultana's Dream was published in 1905 in The Indian Ladies Magazine, Madras.",
+      "points": 1
+    },
+    {
+      "question": "What is the name of the fictional utopian place where the story is set?",
+      "type": "mcq",
+      "options": [
+        "Zenana City",
+        "Ladyland",
+        "Sister Sara's Kingdom",
+        "Dream Land"
+      ],
+      "correctAnswer": "Ladyland",
+      "explanation": "The story clearly identifies the utopian setting as Ladyland, where social roles are completely reversed from colonial Indian society.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a scientific achievement in Ladyland?",
+      "type": "mcq",
+      "options": [
+        "Solar cooking using captured sunlight",
+        "Weather control using balloon systems",
+        "Electric lighting in all homes",
+        "Flying cars using hydrogen valves"
+      ],
+      "correctAnswer": "Electric lighting in all homes",
+      "explanation": "The text describes solar cooking, weather control balloons, solar heat weapons, and flying cars, but never mentions electric lighting as an achievement in Ladyland.",
+      "points": 1
+    },
+    {
+      "question": "According to Sister Sara's argument, why should men not roam free in society?",
+      "type": "mcq",
+      "options": [
+        "Because they are physically weaker than women",
+        "Because they are dangerous like escaped asylum patients and cause harm",
+        "Because they lack the intelligence to make decisions",
+        "Because they were not educated properly"
+      ],
+      "correctAnswer": "Because they are dangerous like escaped asylum patients and cause harm",
+      "explanation": "Sister Sara uses the analogy that if a dangerous person escapes from an asylum and causes harm, we lock them back up, so why does Indian society lock up innocent women and let men who cause violence roam free.",
+      "points": 1
+    },
+    {
+      "question": "Sultana's Dream is written in the form of a poem rather than a short story.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The text explicitly states that Sultana's Dream is a short story, not a poem, though it is often mistakenly called one.",
+      "points": 1
+    },
+    {
+      "question": "In Ladyland, the workday became only two hours long because men had previously wasted six hours every day smoking.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text clearly explains that after women took over society, the workday became just two hours long, since men had earlier wasted six hours every day smoking.",
+      "points": 1
+    }
+  ]
+}

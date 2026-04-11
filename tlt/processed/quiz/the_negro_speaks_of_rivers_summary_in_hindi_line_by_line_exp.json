@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Langston Hughes's 'The Negro Speaks of Rivers' and its historical context",
+  "questions": [
+    {
+      "question": "At what age did Langston Hughes write 'The Negro Speaks of Rivers'?",
+      "type": "mcq",
+      "options": [
+        "Fifteen years old",
+        "Seventeen years old",
+        "Twenty years old",
+        "Twenty-five years old"
+      ],
+      "correctAnswer": "Seventeen years old",
+      "explanation": "The content explicitly states that Hughes wrote the poem in 1920 when he was just seventeen years old, while traveling by train across the Mississippi River.",
+      "points": 1
+    },
+    {
+      "question": "Which journal first published 'The Negro Speaks of Rivers' in 1921?",
+      "type": "mcq",
+      "options": [
+        "The Chicago Defender",
+        "The Harlem Review",
+        "The Crisis",
+        "The New Negro"
+      ],
+      "correctAnswer": "The Crisis",
+      "explanation": "The poem was first published in 1921 in The Crisis, the journal of the NAACP edited by W.E.B. Du Bois, which launched Hughes's literary career.",
+      "points": 1
+    },
+    {
+      "question": "What literary technique is central to the emotional power of 'The Negro Speaks of Rivers'?",
+      "type": "mcq",
+      "options": [
+        "Metaphor and simile",
+        "Anaphora",
+        "Alliteration",
+        "Personification"
+      ],
+      "correctAnswer": "Anaphora",
+      "explanation": "The content identifies anaphora \u2014 the deliberate repetition of words or phrases at the beginning of successive lines \u2014 as a recurring feature of Hughes's style and as central to this poem's emotional power.",
+      "points": 1
+    },
+    {
+      "question": "Which ancient river does the speaker claim to have bathed in 'when dawns were young'?",
+      "type": "mcq",
+      "options": [
+        "The Nile River",
+        "The Mississippi River",
+        "The Euphrates",
+        "The Congo River"
+      ],
+      "correctAnswer": "The Euphrates",
+      "explanation": "Line 4 of the poem states 'I bathed in the Euphrates when dawns were young,' referring to the river in ancient Mesopotamia, one of the earliest cradles of human civilization.",
+      "points": 1
+    },
+    {
+      "question": "Langston Hughes composed 'The Negro Speaks of Rivers' while traveling on a train across the Mississippi River to visit his father in Mexico.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content confirms that Hughes wrote the poem in 1920 while traveling by train across the Mississippi River on his way to visit his father in Mexico, inspired by the sight of the great river.",
+      "points": 1
+    },
+    {
+      "question": "'The Negro Speaks of Rivers' was read aloud at Langston Hughes's funeral, the same poem he had written as a teenager.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that 'The Negro Speaks of Rivers' was read aloud at Hughes's funeral in 1967, the same poem he had written as a seventeen-year-old boy, testament to its enduring power.",
+      "points": 1
+    }
+  ]
+}

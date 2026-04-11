@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Thomas Gray's 'Elegy Written in a Country Churchyard' including poet biography, poem background, and textual analysis.",
+  "questions": [
+    {
+      "question": "In which year was 'Elegy Written in a Country Churchyard' published?",
+      "type": "mcq",
+      "options": [
+        "1742",
+        "1751",
+        "1747",
+        "1757"
+      ],
+      "correctAnswer": "1751",
+      "explanation": "The poem was completed in 1750 and published in February 1751, becoming an immediate success and one of the most anthologized poems in English literature.",
+      "points": 1
+    },
+    {
+      "question": "What specific event partly inspired Thomas Gray to write the 'Elegy'?",
+      "type": "mcq",
+      "options": [
+        "The publication of Alexander Pope's works",
+        "His appointment as a professor at Cambridge University",
+        "The death of his close friend, the poet Richard West, in 1742",
+        "His visit to Eton College"
+      ],
+      "correctAnswer": "The death of his close friend, the poet Richard West, in 1742",
+      "explanation": "The poem was partly inspired by the death of his close friend Richard West in 1742, which combined with Gray's reflections on mortality and social inequality to shape the poem's melancholy and philosophical tone.",
+      "points": 1
+    },
+    {
+      "question": "What is the rhyme scheme and meter of the heroic quatrain form used in this poem?",
+      "type": "mcq",
+      "options": [
+        "AABB in iambic tetrameter",
+        "ABAB in iambic pentameter",
+        "ABBA in dactylic hexameter",
+        "AABB in iambic pentameter"
+      ],
+      "correctAnswer": "ABAB in iambic pentameter",
+      "explanation": "The poem is written in the heroic quatrain form with an ABAB rhyme scheme in iambic pentameter, a formal and dignified structure appropriate for meditation on death and memory.",
+      "points": 1
+    },
+    {
+      "question": "Which of the following best describes the class of people mourned in Gray's 'Elegy'?",
+      "type": "mcq",
+      "options": [
+        "Famous historical figures and political leaders",
+        "The poor, uneducated, rural labourers buried in an ordinary country churchyard",
+        "Wealthy merchants and nobility of England",
+        "Scholars and academics from Cambridge University"
+      ],
+      "correctAnswer": "The poor, uneducated, rural labourers buried in an ordinary country churchyard",
+      "explanation": "The poem is unique because it does not mourn a specific named individual but rather mourns a whole class of people: the poor, rural labourers who lived and died without fame, recognition, or memorial.",
+      "points": 1
+    },
+    {
+      "question": "Thomas Gray belonged to the Pre-Romantic period and moved away from the polished wit and formal heroism of the Neo-Classical era.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "Gray belongs to the transitional period between Neo-Classicism and Romanticism, moving away from the polished wit of Alexander Pope's era toward quieter subjects like rural life, nature, and the dignity of common human experience.",
+      "points": 1
+    },
+    {
+      "question": "The opening line 'The curfew tolls the knell of parting day' uses the word 'knell' to refer to the evening bell that marks the end of the working day.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "'Knell' is the slow tolling of a bell usually rung at funerals, not simply a marking of the day's end. Gray deliberately uses this funeral bell imagery to signal from the first line that the poem is about endings and death.",
+      "points": 1
+    }
+  ]
+}

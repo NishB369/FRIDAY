@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of The Swan King Chapter 9 from Roots and Wings Class 6, a Jataka Tale about the golden swan king Sakula and his loyal chief Sumukha.",
+  "questions": [
+    {
+      "question": "What is the primary source and origin of 'The Swan King' story?",
+      "type": "mcq",
+      "options": [
+        "It is a Jataka Tale, an ancient Buddhist story originally written in Pali about previous lives of Buddha",
+        "It is a modern fable written by a contemporary author for Class 6 students",
+        "It is adapted from Aesop's Fables and translated into English",
+        "It is a Hindu mythological text from the Vedas"
+      ],
+      "correctAnswer": "It is a Jataka Tale, an ancient Buddhist story originally written in Pali about previous lives of Buddha",
+      "explanation": "The content explicitly states that Jataka Tales are ancient Buddhist stories written in Pali about the previous lives of Buddha, and that 'The Swan King' is based on a Jataka Tale.",
+      "points": 1
+    },
+    {
+      "question": "Who are the two central characters in 'The Swan King' and what virtues do they represent?",
+      "type": "mcq",
+      "options": [
+        "Sakula the swan represents courage, and Mahimsak the hunter represents strength",
+        "Sakula the golden swan king represents wisdom and compassion, while Sumukha his chief represents loyalty",
+        "Dhritarashtra the swan represents beauty, and the human king represents justice",
+        "Sumukha represents wisdom, and Sakula represents courage in battle"
+      ],
+      "correctAnswer": "Sakula the golden swan king represents wisdom and compassion, while Sumukha his chief represents loyalty",
+      "explanation": "The content directly states that 'The golden swan king, Sakula, embodies compassion and wisdom' and that 'his chief of army, Sumukha, demonstrates extraordinary loyalty.'",
+      "points": 1
+    },
+    {
+      "question": "In which ancient geographical location is 'The Swan King' story set?",
+      "type": "mcq",
+      "options": [
+        "The forests of ancient China",
+        "The Chitrakoot mountain region, which appears in Hindu and Buddhist texts",
+        "The banks of the River Ganges in medieval India",
+        "The coastal regions of ancient Sri Lanka"
+      ],
+      "correctAnswer": "The Chitrakoot mountain region, which appears in Hindu and Buddhist texts",
+      "explanation": "The content explicitly mentions that 'The Swan King' is set in Chitrakoot, a mountain region that appears in Hindu and Buddhist texts, and that the swans live on the beautiful Chitrakoot mountain.",
+      "points": 1
+    },
+    {
+      "question": "What does the word 'Jataka' mean in Pali?",
+      "type": "mcq",
+      "options": [
+        "It means 'animal story' or 'beast fable'",
+        "It means 'birth' and refers to previous lives of Buddha",
+        "It means 'moral lesson' or 'teaching'",
+        "It means 'ancient kingdom' or 'sacred place'"
+      ],
+      "correctAnswer": "It means 'birth' and refers to previous lives of Buddha",
+      "explanation": "The content states that 'jataka' in Pali means 'birth' and Jataka Tales are stories about the previous lives of Buddha.",
+      "points": 1
+    },
+    {
+      "question": "Jataka Tales were originally written in Pali and are thousands of years old.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Jataka Tales 'were originally written in Pali and are thousands of years old.'",
+      "points": 1
+    },
+    {
+      "question": "In 'The Swan King,' Sumukha is described as the chief of the swans' army and is noted for his beauty, responsibility, and deep devotion to King Sakula.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states that 'Sumukha is described as beautiful, responsible, dutiful, and deeply devoted to his king. He is always by the king's side in both good and difficult times.'",
+      "points": 1
+    }
+  ]
+}

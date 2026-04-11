@@ -1,0 +1,79 @@
+{
+  "description": "A quiz testing comprehension of the problematic comic ending in Shakespeare's Twelfth Night and the characters excluded from resolution.",
+  "questions": [
+    {
+      "question": "Which of the following is NOT mentioned as a character whose exclusion from the comic resolution problematizes the ending of Twelfth Night?",
+      "type": "mcq",
+      "options": [
+        "Antonio",
+        "Malvolio",
+        "Feste",
+        "Olivia"
+      ],
+      "correctAnswer": "Olivia",
+      "explanation": "The video explicitly identifies three central characters \u2014 Antonio, Malvolio, and Feste \u2014 as being excluded from or left outside the comic resolution. Olivia, by contrast, achieves a marriage with Sebastian as part of the ending.",
+      "points": 1
+    },
+    {
+      "question": "According to the content, what is Antonio's primary relationship to Sebastian in Twelfth Night?",
+      "type": "mcq",
+      "options": [
+        "He is Sebastian's father figure and mentor",
+        "He is a sea captain and devoted protector who has risked his life for Sebastian multiple times",
+        "He is a rival for Olivia's affections",
+        "He is a court jester who entertains Sebastian"
+      ],
+      "correctAnswer": "He is a sea captain and devoted protector who has risked his life for Sebastian multiple times",
+      "explanation": "The content explicitly describes Antonio as a sea captain who is steadfast and patient, has risked his life for Sebastian on multiple occasions, and has a deep and selfless love for him.",
+      "points": 1
+    },
+    {
+      "question": "What is the title 'Twelfth Night' a reference to?",
+      "type": "mcq",
+      "options": [
+        "The twelfth day of the year when the play was first performed",
+        "The twelfth night of Christmas (Epiphany), a period traditionally associated with merrymaking and licensed disorder",
+        "The twelve main characters in the play",
+        "A festival celebrated on the twelfth month of the year"
+      ],
+      "correctAnswer": "The twelfth night of Christmas (Epiphany), a period traditionally associated with merrymaking and licensed disorder",
+      "explanation": "The content states that the title references the twelfth night of Christmas (Epiphany), a period traditionally associated with merrymaking and licensed disorder, despite the play itself being tinged with persistent sadness.",
+      "points": 1
+    },
+    {
+      "question": "According to the video, why is Orsino's declaration of love for Viola at the end problematic?",
+      "type": "mcq",
+      "options": [
+        "Because Orsino was in love with Olivia throughout the play",
+        "Because Orsino refuses to acknowledge Viola's true identity until the very final moment, clouding the romance",
+        "Because Viola rejects his proposal",
+        "Because Orsino was already married to another woman"
+      ],
+      "correctAnswer": "Because Orsino refuses to acknowledge Viola's true identity until the very final moment, clouding the romance",
+      "explanation": "The content notes that even the principal romantic pairing of Viola and Orsino is clouded by Orsino's refusal to acknowledge Viola's true identity until the very final moment.",
+      "points": 1
+    },
+    {
+      "question": "True or False: According to the content, all of the marriages in Twelfth Night are entirely satisfying and without complication.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explicitly states that none of the marriages in the play is entirely satisfying or without complication, as they are underpinned by transaction, deception, and an unstable sense of identity.",
+      "points": 1
+    },
+    {
+      "question": "True or False: William Shakespeare wrote approximately 37 plays, 154 sonnets, and several long poems during his lifetime.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content states in the section 'About the Playwright' that Shakespeare wrote approximately 37 plays, 154 sonnets, and several long poems.",
+      "points": 1
+    }
+  ]
+}

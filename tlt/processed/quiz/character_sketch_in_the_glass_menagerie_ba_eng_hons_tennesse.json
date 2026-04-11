@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of character analysis and context in Tennessee Williams' The Glass Menagerie",
+  "questions": [
+    {
+      "question": "Which of the following is NOT mentioned as one of Tennessee Williams' major works?",
+      "type": "mcq",
+      "options": [
+        "The Glass Menagerie",
+        "A Streetcar Named Desire",
+        "Cat on a Hot Tin Roof",
+        "The Rose Tattoo and Beyond"
+      ],
+      "correctAnswer": "The Rose Tattoo and Beyond",
+      "explanation": "The content explicitly states Williams is best known for The Glass Menagerie (1944), A Streetcar Named Desire (1947), and Cat on a Hot Tin Roof (1955), but does not mention 'The Rose Tattoo and Beyond' as one of his major works.",
+      "points": 1
+    },
+    {
+      "question": "What is the setting and time period of The Glass Menagerie?",
+      "type": "mcq",
+      "options": [
+        "New Orleans, Louisiana in the 1920s",
+        "St. Louis, Missouri in the late 1930s",
+        "Memphis, Tennessee in the 1940s",
+        "Jackson, Mississippi in the 1930s"
+      ],
+      "correctAnswer": "St. Louis, Missouri in the late 1930s",
+      "explanation": "The content explicitly states that The Glass Menagerie is set in St. Louis, Missouri, in the late 1930s, during the Great Depression.",
+      "points": 1
+    },
+    {
+      "question": "Which family member provided the inspiration for the character of Laura in The Glass Menagerie?",
+      "type": "mcq",
+      "options": [
+        "Tennessee Williams' mother",
+        "Tennessee Williams' wife",
+        "Tennessee Williams' sister Rose",
+        "Tennessee Williams' cousin"
+      ],
+      "correctAnswer": "Tennessee Williams' sister Rose",
+      "explanation": "The content states that the play is largely autobiographical, with Laura being modeled after Tennessee Williams' sister Rose, who suffered from mental illness.",
+      "points": 1
+    },
+    {
+      "question": "What pressuring tactic does Amanda use to manipulate Tom into bringing home a gentleman caller for Laura?",
+      "type": "mcq",
+      "options": [
+        "She threatens to throw him out of the house",
+        "She uses Tom's guilt and love for the family to pressure him into action",
+        "She promises to increase his allowance",
+        "She enrolls him in a secretarial course like Laura"
+      ],
+      "correctAnswer": "She uses Tom's guilt and love for the family to pressure him into action",
+      "explanation": "The content explicitly explains that Amanda 'uses Tom's guilt and love for the family to pressure him into action,' revealing both her love and her manipulative nature.",
+      "points": 1
+    },
+    {
+      "question": "The Glass Menagerie is classified as a memory play, which means the events presented are objective and factually accurate.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that as a memory play, the events on stage are 'subjective and emotionally coloured rather than strictly factual' because they are filtered through Tom's memory and emotion.",
+      "points": 1
+    },
+    {
+      "question": "Amanda Wingfield's anxiety about Laura's future stems partly from her fear that without a husband or career, Laura will have no safety net.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content clearly states that Amanda's anxiety about Laura is tied to her fear of the future, knowing that Laura is fragile and that without a husband or career, Laura will have no safety net.",
+      "points": 1
+    }
+  ]
+}

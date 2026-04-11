@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Shakespeare's Sonnet 60, its structure, themes, and line-by-line meaning",
+  "questions": [
+    {
+      "question": "Which sequence of Shakespeare's sonnets does Sonnet 60 belong to?",
+      "type": "mcq",
+      "options": [
+        "The Dark Lady sequence",
+        "The Fair Youth sequence",
+        "The Love and Beauty sequence",
+        "The Mortality sequence"
+      ],
+      "correctAnswer": "The Fair Youth sequence",
+      "explanation": "The content explicitly states that Sonnet 60 belongs to the Fair Youth sequence (Sonnets 1-126), which is addressed to a beautiful young man whose identity remains unknown.",
+      "points": 1
+    },
+    {
+      "question": "What is the central concern or theme of Sonnet 60?",
+      "type": "mcq",
+      "options": [
+        "The power of romantic love between two people",
+        "How time gives us beauty and youth but also takes them away",
+        "The superiority of the English Renaissance over other periods",
+        "The importance of traveling to the seashore"
+      ],
+      "correctAnswer": "How time gives us beauty and youth but also takes them away",
+      "explanation": "The content states: 'In this sonnet, Shakespeare does not focus on love directly. Instead, he thinks deeply about time and how time affects human life. The central concern of the poem is this: time gives us beauty and youth, but it also takes these things away.'",
+      "points": 1
+    },
+    {
+      "question": "In the first quatrain, what metaphor does Shakespeare use to represent the passing of time?",
+      "type": "mcq",
+      "options": [
+        "A river flowing downstream",
+        "A bird flying across the sky",
+        "Ocean waves rolling toward the pebbled shore",
+        "A candle slowly burning down"
+      ],
+      "correctAnswer": "Ocean waves rolling toward the pebbled shore",
+      "explanation": "The explanation clearly shows that the first quatrain opens with a simile comparing life's minutes to waves: 'Like as the waves make towards the pebbled shore, / So do our minutes hasten to their end.'",
+      "points": 1
+    },
+    {
+      "question": "What does the phrase 'Time that gave doth now his gift confound' mean in the second quatrain?",
+      "type": "mcq",
+      "options": [
+        "Time gives us wisdom as we age",
+        "Time is confused about whether to help or harm us",
+        "The same Time that gave us youth and beauty now takes it away and destroys it",
+        "Time rewards those who are patient and kind"
+      ],
+      "correctAnswer": "The same Time that gave us youth and beauty now takes it away and destroys it",
+      "explanation": "The content explains: 'This means that the same Time that gave us the gift of youth and beauty now takes that gift away and destroys it. Time is both the giver and the destroyer.'",
+      "points": 1
+    },
+    {
+      "question": "Shakespeare's sonnets were first published in 1609, though many were likely written in the 1590s.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states: 'His sonnets were first published in 1609, though many were likely written in the 1590s.'",
+      "points": 1
+    },
+    {
+      "question": "According to the content, poetry and great art can immortalize the beloved and defeat death by preserving their beauty forever.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content notes that the poet argues 'only his verses, his poetry, can keep the beloved's beauty alive forever' and mentions 'the idea that great art can defeat death and make the beloved immortal.'",
+      "points": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'The Ones Who Walk Away from Omelas' by Ursula K. Le Guin, covering author background, story context, and narrative elements.",
+  "questions": [
+    {
+      "question": "In what year was 'The Ones Who Walk Away from Omelas' published?",
+      "type": "mcq",
+      "options": [
+        "1969",
+        "1973",
+        "1974",
+        "1978"
+      ],
+      "correctAnswer": "1973",
+      "explanation": "The story was published in 1973 in a collection called New Dimensions 3, and it won the Hugo Award for Best Short Story in 1974.",
+      "points": 1
+    },
+    {
+      "question": "What did Le Guin describe 'The Ones Who Walk Away from Omelas' as, rather than calling it a traditional story?",
+      "type": "mcq",
+      "options": [
+        "A science fiction narrative",
+        "A utopian novel",
+        "A psychomyth or thought experiment in the form of fiction",
+        "A philosophical essay"
+      ],
+      "correctAnswer": "A psychomyth or thought experiment in the form of fiction",
+      "explanation": "Le Guin specifically described the work as a 'psychomyth' or a thought experiment in fiction form, emphasizing its philosophical rather than purely narrative nature.",
+      "points": 1
+    },
+    {
+      "question": "Which philosopher's idea inspired Le Guin to write this story?",
+      "type": "mcq",
+      "options": [
+        "Jean-Paul Sartre",
+        "William James",
+        "Michel Foucault",
+        "Ludwig Wittgenstein"
+      ],
+      "correctAnswer": "William James",
+      "explanation": "Le Guin was inspired by philosopher William James, who wrote about a scenario where a society's happiness depended on the secret suffering of one person.",
+      "points": 1
+    },
+    {
+      "question": "According to the story, the city of Omelas during the Festival of Summer is characterized by all of the following EXCEPT:",
+      "type": "mcq",
+      "options": [
+        "Decorated boats sailing along the harbour",
+        "Strict rulers and kings enforcing order",
+        "Children running through streets calling each other's names",
+        "Music, dancing, and laughter everywhere"
+      ],
+      "correctAnswer": "Strict rulers and kings enforcing order",
+      "explanation": "The story explicitly states that there is no king or ruler watching over the people, no slaves, and no soldiers enforcing peace in Omelas.",
+      "points": 1
+    },
+    {
+      "question": "Ursula K. Le Guin's family background in anthropology and literature significantly influenced her interest in how societies are organized and how cultures function.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "Le Guin's father was the anthropologist Alfred Kroeber and her mother was writer Theodora Kroeber, and this intellectual background gave her a deep interest in societal organization and cultural function.",
+      "points": 1
+    },
+    {
+      "question": "The story deliberately describes Omelas with a specific, fixed geographical location to help readers understand where the city is situated in the real world.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The narrator deliberately leaves the setting vague and universal, allowing readers to imagine Omelas as it could be anywhere, so the city could feel like their own world.",
+      "points": 1
+    }
+  ]
+}

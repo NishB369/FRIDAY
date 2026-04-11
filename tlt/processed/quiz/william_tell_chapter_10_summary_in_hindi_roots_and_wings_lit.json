@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of William Tell Chapter 10 from Roots and Wings Class 6 Literature Reader",
+  "questions": [
+    {
+      "question": "In which century is the legend of William Tell set?",
+      "type": "mcq",
+      "options": [
+        "Early 12th century",
+        "Early 13th century",
+        "Early 14th century",
+        "Early 15th century"
+      ],
+      "correctAnswer": "Early 14th century",
+      "explanation": "The text explicitly states that the legend of William Tell is set in the early 14th century in the Swiss Canton of Uri.",
+      "points": 1
+    },
+    {
+      "question": "What was the name of the cruel governor in the Canton of Uri?",
+      "type": "mcq",
+      "options": [
+        "Albrecht",
+        "Gessler",
+        "Hans",
+        "Friedrich Schiller"
+      ],
+      "correctAnswer": "Gessler",
+      "explanation": "The text clearly identifies Gessler as the governor of the Canton of Uri who was known for his arrogance and cruelty.",
+      "points": 1
+    },
+    {
+      "question": "What humiliating order did Gessler give to the Swiss people?",
+      "type": "mcq",
+      "options": [
+        "They had to pay extra taxes to the Austrian Empire",
+        "They had to bow to his hat placed on a tall pole in the market square",
+        "They had to salute Austrian soldiers every morning",
+        "They had to wear Austrian clothing to show obedience"
+      ],
+      "correctAnswer": "They had to bow to his hat placed on a tall pole in the market square",
+      "explanation": "The text describes how Gessler placed his hat on a pole in the central market square and commanded every Swiss person passing through to bow to it as a sign of submission to Austrian authority.",
+      "points": 1
+    },
+    {
+      "question": "What was William Tell's profession?",
+      "type": "mcq",
+      "options": [
+        "He was a soldier in the Austrian army",
+        "He was a farmer and landowner",
+        "He was a hunter and skilled archer",
+        "He was a merchant and trader"
+      ],
+      "correctAnswer": "He was a hunter and skilled archer",
+      "explanation": "The text explicitly states that William Tell was a skilled hunter and archer known throughout the region for his extraordinary skill with a bow and arrow.",
+      "points": 1
+    },
+    {
+      "question": "William Tell intentionally avoided the market square where Gessler's hat stood because he did not want to face the choice of saluting the hat or being punished.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The text states that Tell usually took a different route to avoid the market square so he would not have to face the choice of saluting the hat or being punished.",
+      "points": 1
+    },
+    {
+      "question": "William Tell's son Walter was angry and refused to go on the walk with his father that morning.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The text clearly states that Walter asked to come along, his mother gave permission, and he was very excited and happily set off with his father, chatting and laughing throughout the walk.",
+      "points": 1
+    }
+  ]
+}

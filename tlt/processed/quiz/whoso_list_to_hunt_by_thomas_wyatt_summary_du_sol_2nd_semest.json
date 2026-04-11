@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Thomas Wyatt's 'Whoso List to Hunt' including poet biography, poem analysis, and historical context.",
+  "questions": [
+    {
+      "question": "Which Italian poet's work directly inspired Thomas Wyatt's 'Whoso List to Hunt'?",
+      "type": "mcq",
+      "options": [
+        "Dante Alighieri",
+        "Francesco Petrarch",
+        "Ludovico Ariosto",
+        "Torquato Tasso"
+      ],
+      "correctAnswer": "Francesco Petrarch",
+      "explanation": "The content explicitly states that 'Whoso List to Hunt' is a partial translation and free adaptation of Petrarch's Sonnet 190 ('Una candida cerva'), and that Wyatt's diplomatic travels to Italy exposed him to Petrarch's works.",
+      "points": 1
+    },
+    {
+      "question": "What form of sonnet did Thomas Wyatt help introduce to English literature?",
+      "type": "mcq",
+      "options": [
+        "Shakespearean sonnet",
+        "Spenserian sonnet",
+        "Petrarchan (Italian) sonnet",
+        "Free verse sonnet"
+      ],
+      "correctAnswer": "Petrarchan (Italian) sonnet",
+      "explanation": "The content states that Wyatt, alongside Henry Howard, is credited with introducing the Petrarchan sonnet form into English literature through works like 'Whoso List to Hunt.'",
+      "points": 1
+    },
+    {
+      "question": "According to the content, who is believed to be the woman represented by the deer in 'Whoso List to Hunt'?",
+      "type": "mcq",
+      "options": [
+        "Catherine of Aragon",
+        "Anne Boleyn",
+        "Jane Seymour",
+        "Katherine Howard"
+      ],
+      "correctAnswer": "Anne Boleyn",
+      "explanation": "The content states: 'It is strongly believed that the woman figured as the deer is Anne Boleyn \u2014 a woman Wyatt admired before she became the queen of Henry VIII.'",
+      "points": 1
+    },
+    {
+      "question": "In the opening lines of the poem, what does the speaker's use of 'h\u00e9las' indicate about his emotional state?",
+      "type": "mcq",
+      "options": [
+        "He is joyfully optimistic about the hunt",
+        "He is confident he will capture the deer",
+        "He is weary and resigned to his failure",
+        "He is angry at his rivals"
+      ],
+      "correctAnswer": "He is weary and resigned to his failure",
+      "explanation": "The content explains that 'h\u00e9las' is a French exclamation meaning 'alas' that 'signals his weariness and resignation,' and the speaker immediately distances himself from the hunt after uttering it.",
+      "points": 1
+    },
+    {
+      "question": "Thomas Wyatt's 'Whoso List to Hunt' departs from Petrarch's original sonnet by shifting the emotional register from adoration to resignation.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states: 'Wyatt's poem departs from Petrarch's idealism in a significant way... Wyatt's speaker is exhausted, frustrated, and world-weary... The emotional register shifts from adoration to resignation.'",
+      "points": 1
+    },
+    {
+      "question": "According to the content, the 'Caesar' mentioned in the final lines of the poem is believed to represent Anne Boleyn.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that 'Caesar' in the poem's final lines is understood to represent Henry VIII himself, not Anne Boleyn. This biographical reading transforms the poem into a politically charged statement about royal power.",
+      "points": 1
+    }
+  ]
+}

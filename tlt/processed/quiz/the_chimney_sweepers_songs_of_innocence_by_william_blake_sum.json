@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of William Blake's 'The Chimney Sweeper' from Songs of Innocence, including biographical context, themes, and textual analysis.",
+  "questions": [
+    {
+      "question": "In what year was 'The Chimney Sweeper' first published as part of Songs of Innocence?",
+      "type": "mcq",
+      "options": [
+        "1789",
+        "1794",
+        "1827",
+        "1757"
+      ],
+      "correctAnswer": "1789",
+      "explanation": "According to the content, 'The Chimney Sweeper' was first published in Songs of Innocence in 1789, while its companion poem in Songs of Experience was published in 1794.",
+      "points": 1
+    },
+    {
+      "question": "What does the word 'weep' represent in the first stanza?",
+      "type": "mcq",
+      "options": [
+        "Only a mispronunciation of 'sweep' by the child",
+        "A mispronunciation of 'sweep' and a literal cry of grief\u2014a deliberate double meaning",
+        "Only a cry of sadness for his mother",
+        "A standard pronunciation of the sweeping trade"
+      ],
+      "correctAnswer": "A mispronunciation of 'sweep' and a literal cry of grief\u2014a deliberate double meaning",
+      "explanation": "The content explicitly states that 'weep' is both a mispronunciation of 'sweep' and a literal cry of grief, and emphasizes that this double meaning is 'very deliberate' on Blake's part.",
+      "points": 1
+    },
+    {
+      "question": "What was the primary reason young children were used as chimney sweeps in 18th and 19th century England?",
+      "type": "mcq",
+      "options": [
+        "They were more intelligent at cleaning chimneys",
+        "Their small bodies allowed them to climb inside narrow chimney flues",
+        "They were willing to work without payment",
+        "They had better health and stamina than adults"
+      ],
+      "correctAnswer": "Their small bodies allowed them to climb inside narrow chimney flues",
+      "explanation": "The content explicitly states that boys as young as four or five were used as chimney sweeps because 'their small bodies made it possible for them to climb inside narrow chimney flues and clean out the soot.'",
+      "points": 1
+    },
+    {
+      "question": "What was Blake's primary purpose in writing 'The Chimney Sweeper' in Songs of Innocence?",
+      "type": "mcq",
+      "options": [
+        "To celebrate the efficiency of the chimney sweeping industry",
+        "To expose the hypocrisy of child labour practices through the innocent voice of a young sweeper",
+        "To entertain wealthy families with stories about their servants",
+        "To provide instructions on how to properly clean chimneys"
+      ],
+      "correctAnswer": "To expose the hypocrisy of child labour practices through the innocent voice of a young sweeper",
+      "explanation": "The content states that Blake wrote the poem 'to expose that hypocrisy' of how the Church, government, and wealthy families benefited from cheap child labour, and he does this 'through the innocent voice of a young chimney sweeper, which makes the injustice even more striking.'",
+      "points": 1
+    },
+    {
+      "question": "William Blake was widely recognized and celebrated during his lifetime.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explicitly states that Blake 'was largely unrecognised during his lifetime but is now considered a major poet in the English literary tradition.'",
+      "points": 1
+    },
+    {
+      "question": "Songs of Innocence and Songs of Experience were meant to be read together as contrasting views of the world.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content clearly states that 'These two books are meant to be read together as contrasting views of the world,' with Innocence presenting a world of faith and hope seen through children's eyes, while Experience shows the harsh reality of adult life.",
+      "points": 1
+    }
+  ]
+}

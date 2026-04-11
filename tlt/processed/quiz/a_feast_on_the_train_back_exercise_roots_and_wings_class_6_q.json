@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of 'A Feast on the Train' story, characters, plot, and vocabulary from the Class 6 Roots and Wings textbook.",
+  "questions": [
+    {
+      "question": "What was the real name of the old man traveling on the train?",
+      "type": "mcq",
+      "options": [
+        "Umashankar",
+        "Jhali Kumar Tarka Alankar",
+        "New Pandit",
+        "Kumar Tarka"
+      ],
+      "correctAnswer": "Jhali Kumar Tarka Alankar",
+      "explanation": "The old man's actual name was Jhali Kumar Tarka Alankar, though the boys called him 'New Pandit' as a nickname without knowing who he really was.",
+      "points": 1
+    },
+    {
+      "question": "What was the boys' main intention when they invited the old man to tell a story?",
+      "type": "mcq",
+      "options": [
+        "To learn from his wisdom and experience",
+        "To trick and make fun of him",
+        "To help pass the time on the train",
+        "To test his storytelling abilities"
+      ],
+      "correctAnswer": "To trick and make fun of him",
+      "explanation": "The boys were mischievous and their real intention was to deceive and mock the old man, though they pretended to be interested in his story.",
+      "points": 1
+    },
+    {
+      "question": "Which word correctly completes the sentence: 'I have an _______ plan in case we cannot go swimming today'?",
+      "type": "mcq",
+      "options": [
+        "alternate",
+        "alternative",
+        "alternate's",
+        "alternating"
+      ],
+      "correctAnswer": "alternative",
+      "explanation": "The word 'alternative' means another option or choice, which is the correct meaning in this context where a backup plan is being referenced.",
+      "points": 1
+    },
+    {
+      "question": "What surprising truth is revealed about the old man at the end of the story?",
+      "type": "mcq",
+      "options": [
+        "He was a retired railway officer",
+        "He was their incoming teacher, the 'New Pandit'",
+        "He was a famous storyteller traveling across India",
+        "He was a friend of their school principal"
+      ],
+      "correctAnswer": "He was their incoming teacher, the 'New Pandit'",
+      "explanation": "The central irony of the story is that the old man whom the boys mocked and tried to trick was actually their new teacher about to join their school.",
+      "points": 1
+    },
+    {
+      "question": "True or False: The word 'alternate' and 'alternative' mean exactly the same thing.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "These words have different meanings: 'alternate' refers to something happening in turns or every other time, while 'alternative' means another option or choice.",
+      "points": 1
+    },
+    {
+      "question": "True or False: 'Pandit' is a term that refers to a learned teacher or scholar.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "In Bengali and Hindi, 'Pandit' is indeed a term used to refer to a learned teacher, scholar, or educated person, which is why the boys used it as a nickname for their incoming teacher.",
+      "points": 1
+    }
+  ]
+}

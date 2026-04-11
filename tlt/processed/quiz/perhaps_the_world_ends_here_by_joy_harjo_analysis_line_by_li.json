@@ -1,0 +1,79 @@
+{
+  "description": "Tests comprehension of Joy Harjo's 'Perhaps the World Ends Here' poem, its themes, symbolism, and the poet's background.",
+  "questions": [
+    {
+      "question": "What Indigenous nation does Joy Harjo belong to?",
+      "type": "mcq",
+      "options": [
+        "Muscogee (Creek) Nation",
+        "Cherokee Nation",
+        "Navajo Nation",
+        "Sioux Nation"
+      ],
+      "correctAnswer": "Muscogee (Creek) Nation",
+      "explanation": "The content explicitly states that Joy Harjo belongs to the Muscogee (Creek) Nation, one of the Indigenous nations of North America.",
+      "points": 1
+    },
+    {
+      "question": "In what year was 'Perhaps the World Ends Here' published?",
+      "type": "mcq",
+      "options": [
+        "1992",
+        "1994",
+        "1996",
+        "2000"
+      ],
+      "correctAnswer": "1994",
+      "explanation": "The content clearly states that 'Perhaps the World Ends Here' was published in 1994 as part of Harjo's collection 'The Woman Who Fell from the Sky.'",
+      "points": 1
+    },
+    {
+      "question": "What literary form does 'Perhaps the World Ends Here' use?",
+      "type": "mcq",
+      "options": [
+        "Sonnet with regular rhyme scheme",
+        "Free verse with no fixed stanza structure",
+        "Ballad form with repeated chorus",
+        "Haiku sequence"
+      ],
+      "correctAnswer": "Free verse with no fixed stanza structure",
+      "explanation": "The content explains that the poem is written in free verse, meaning line lengths vary and there is no regular pattern of rhythm or fixed stanza structure.",
+      "points": 1
+    },
+    {
+      "question": "What central symbol does Harjo use to discuss the full range of human experience?",
+      "type": "mcq",
+      "options": [
+        "A river",
+        "A house",
+        "A kitchen table",
+        "A fire"
+      ],
+      "correctAnswer": "A kitchen table",
+      "explanation": "The content states that Harjo uses the kitchen table as the central image of the poem, deliberately choosing this ordinary object to represent all aspects of human experience from birth to death.",
+      "points": 1
+    },
+    {
+      "question": "Joy Harjo has served as the United States Poet Laureate beginning in 2019.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content explicitly states that Harjo has served as the United States Poet Laureate, a position she held beginning in 2019 for multiple terms.",
+      "points": 1
+    },
+    {
+      "question": "According to the poem's opening lines, the world begins at a kitchen table because eating is the only basic human need.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explains that Harjo says the kitchen table is where life starts symbolically, not literally because eating is the only need; rather, the table is where families gather and where the basic human act of eating\u2014which all humans must do to survive\u2014takes place.",
+      "points": 1
+    }
+  ]
+}

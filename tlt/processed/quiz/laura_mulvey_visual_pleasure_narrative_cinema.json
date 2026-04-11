@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Laura Mulvey's 'Visual Pleasure and Narrative Cinema' and the concept of male gaze in feminist film theory",
+  "questions": [
+    {
+      "question": "In what year was Laura Mulvey's essay 'Visual Pleasure and Narrative Cinema' published?",
+      "type": "mcq",
+      "options": [
+        "1970",
+        "1975",
+        "1980",
+        "1985"
+      ],
+      "correctAnswer": "1975",
+      "explanation": "The content explicitly states that the essay was published in 1975 and continues to be studied widely in English literature and film theory courses.",
+      "points": 1
+    },
+    {
+      "question": "According to Laura Mulvey, what does the male gaze in cinema primarily do?",
+      "type": "mcq",
+      "options": [
+        "Encourages women to become filmmakers",
+        "Presents women as objects for male viewer's pleasure rather than as full human beings",
+        "Gives women equal representation in narrative roles",
+        "Focuses on male characters exclusively"
+      ],
+      "correctAnswer": "Presents women as objects for male viewer's pleasure rather than as full human beings",
+      "explanation": "The content explains that the male gaze refers to how women are shown through a male viewer's perspective and are treated as objects rather than full human beings, with the camera focusing on their body and appearance.",
+      "points": 1
+    },
+    {
+      "question": "Which two psychologists' ideas did Laura Mulvey use to explain the male gaze theory?",
+      "type": "mcq",
+      "options": [
+        "Carl Jung and Alfred Adler",
+        "Sigmund Freud and Jacques Lacan",
+        "B.F. Skinner and Albert Bandura",
+        "Erik Erikson and Abraham Maslow"
+      ],
+      "correctAnswer": "Sigmund Freud and Jacques Lacan",
+      "explanation": "The content clearly states that Mulvey used ideas from Sigmund Freud (about desire and pleasure) and Jacques Lacan (about the mirror stage and the gaze) as tools to explain the hidden meanings behind what we see on screen.",
+      "points": 1
+    },
+    {
+      "question": "Laura Mulvey's essay is part of which academic curriculum?",
+      "type": "mcq",
+      "options": [
+        "BA Fine Arts, Delhi University",
+        "BA English Honours, Delhi University, School of Open Learning",
+        "MA Journalism, Delhi University",
+        "BA History, Delhi University"
+      ],
+      "correctAnswer": "BA English Honours, Delhi University, School of Open Learning",
+      "explanation": "The content explicitly mentions that the essay is an important part of the BA English Honours syllabus at Delhi University's School of Open Learning.",
+      "points": 1
+    },
+    {
+      "question": "True or False: According to Mulvey's theory, the male gaze in cinema encourages viewers to see women as active agents who drive the narrative.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that women in films are treated as objects rather than full human beings, and the woman exists in the film to be watched, not to take action, which contradicts the idea of women as active agents.",
+      "points": 1
+    },
+    {
+      "question": "True or False: Laura Mulvey's work on the male gaze is relevant only to cinema and has no connection to how gender roles are created in everyday life.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content explicitly states that Mulvey's ideas go beyond cinema and help us understand how gender roles are created and reinforced in everyday life, not just in movies.",
+      "points": 1
+    }
+  ]
+}

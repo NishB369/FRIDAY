@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Severn Suzuki's speech and environmental issues from Class 6 Roots and Wings Chapter 7",
+  "questions": [
+    {
+      "question": "At what age did Severn Suzuki deliver her famous speech at the United Nations Earth Summit?",
+      "type": "mcq",
+      "options": [
+        "10 years old",
+        "12 years old",
+        "14 years old",
+        "16 years old"
+      ],
+      "correctAnswer": "12 years old",
+      "explanation": "Severn Cullis-Suzuki was only 12 years old when she gave her speech at the 1992 Earth Summit in Rio de Janeiro, making it a remarkable feat for such a young activist.",
+      "points": 1
+    },
+    {
+      "question": "Which organization did Severn Suzuki represent when she gave her speech?",
+      "type": "mcq",
+      "options": [
+        "FAO (Food and Agriculture Organization)",
+        "WHO (World Health Organization)",
+        "ECO (Environmental Children's Organization)",
+        "UNICEF (United Nations Children's Fund)"
+      ],
+      "correctAnswer": "ECO (Environmental Children's Organization)",
+      "explanation": "Severn Suzuki represented ECO, the Environmental Children's Organization, which she co-founded with her friends to raise awareness about environmental destruction.",
+      "points": 1
+    },
+    {
+      "question": "According to the speech, what is one of the three main environmental problems mentioned?",
+      "type": "mcq",
+      "options": [
+        "Increased food production",
+        "Children dying of hunger",
+        "Too many factories being built",
+        "Rising ocean temperatures"
+      ],
+      "correctAnswer": "Children dying of hunger",
+      "explanation": "The speech specifically mentions that children are dying of hunger as one of the critical environmental and social problems, pointing out that resources exist but are not distributed fairly.",
+      "points": 1
+    },
+    {
+      "question": "According to Severn's speech, how can waste material be better utilized?",
+      "type": "mcq",
+      "options": [
+        "By burying it in landfills",
+        "By burning it for energy",
+        "Through recycling",
+        "By exporting it to other countries"
+      ],
+      "correctAnswer": "Through recycling",
+      "explanation": "The speech emphasizes recycling as the solution to utilize waste material, where waste can be processed and turned back into usable products rather than being discarded.",
+      "points": 1
+    },
+    {
+      "question": "Severn Suzuki delivered her speech at the United Nations Earth Summit in Rio de Janeiro in 1992.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "This is a factual statement confirmed in the content. Severn Cullis-Suzuki gave her famous speech at the 1992 Earth Summit in Rio de Janeiro when she was 12 years old.",
+      "points": 1
+    },
+    {
+      "question": "According to Severn's speech, if adults do not know how to fix what they have broken, they should continue breaking it.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "Severn challenges world leaders by saying if adults do not know how to fix what they have broken, they should STOP breaking it, not continue. This is a call for immediate action and restraint.",
+      "points": 1
+    }
+  ]
+}
