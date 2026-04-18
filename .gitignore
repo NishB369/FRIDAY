@@ -6,3 +6,5 @@ node_modules/
 yt-data-extractor/node_modules/
 *.log
 .claude/settings.local.json
+tlt/client_secrets.json
+tlt/.yt_token.json
