@@ -1,0 +1,398 @@
+{
+  "words": [
+    {
+      "word": "Hello",
+      "startSec": 0.0,
+      "endSec": 0.3
+    },
+    {
+      "word": "everyone",
+      "startSec": 0.3,
+      "endSec": 0.64
+    },
+    {
+      "word": "and",
+      "startSec": 0.64,
+      "endSec": 0.82
+    },
+    {
+      "word": "welcome",
+      "startSec": 0.82,
+      "endSec": 0.98
+    },
+    {
+      "word": "back",
+      "startSec": 0.98,
+      "endSec": 1.2
+    },
+    {
+      "word": "to",
+      "startSec": 1.2,
+      "endSec": 1.3
+    },
+    {
+      "word": "my",
+      "startSec": 1.3,
+      "endSec": 1.42
+    },
+    {
+      "word": "YouTube",
+      "startSec": 1.42,
+      "endSec": 1.66
+    },
+    {
+      "word": "channel",
+      "startSec": 1.66,
+      "endSec": 2.0
+    },
+    {
+      "word": "The",
+      "startSec": 2.0,
+      "endSec": 2.26
+    },
+    {
+      "word": "Literature",
+      "startSec": 2.26,
+      "endSec": 2.66
+    },
+    {
+      "word": "Talks",
+      "startSec": 2.66,
+      "endSec": 3.06
+    },
+    {
+      "word": "and",
+      "startSec": 2.72,
+      "endSec": 3.28
+    },
+    {
+      "word": "I",
+      "startSec": 3.28,
+      "endSec": 3.52
+    },
+    {
+      "word": "hope",
+      "startSec": 3.52,
+      "endSec": 3.66
+    },
+    {
+      "word": "you",
+      "startSec": 3.66,
+      "endSec": 3.96
+    },
+    {
+      "word": "all",
+      "startSec": 3.96,
+      "endSec": 4.1
+    },
+    {
+      "word": "will",
+      "startSec": 4.1,
+      "endSec": 4.2
+    },
+    {
+      "word": "be",
+      "startSec": 4.2,
+      "endSec": 4.22
+    },
+    {
+      "word": "fine.",
+      "startSec": 4.22,
+      "endSec": 4.82
+    },
+    {
+      "word": "In",
+      "startSec": 4.96,
+      "endSec": 5.04
+    },
+    {
+      "word": "today's",
+      "startSec": 5.04,
+      "endSec": 5.28
+    },
+    {
+      "word": "video,",
+      "startSec": 5.28,
+      "endSec": 6.32
+    },
+    {
+      "word": "we",
+      "startSec": 6.32,
+      "endSec": 6.34
+    },
+    {
+      "word": "are",
+      "startSec": 6.34,
+      "endSec": 6.5
+    },
+    {
+      "word": "going",
+      "startSec": 6.5,
+      "endSec": 6.52
+    },
+    {
+      "word": "to",
+      "startSec": 6.52,
+      "endSec": 6.54
+    },
+    {
+      "word": "discuss",
+      "startSec": 6.54,
+      "endSec": 6.56
+    },
+    {
+      "word": "about",
+      "startSec": 6.56,
+      "endSec": 8.36
+    },
+    {
+      "word": "the",
+      "startSec": 8.36,
+      "endSec": 8.38
+    },
+    {
+      "word": "poem",
+      "startSec": 8.38,
+      "endSec": 8.4
+    },
+    {
+      "word": "which",
+      "startSec": 9.18,
+      "endSec": 9.28
+    },
+    {
+      "word": "is",
+      "startSec": 9.28,
+      "endSec": 9.74
+    },
+    {
+      "word": "called",
+      "startSec": 9.74,
+      "endSec": 9.88
+    },
+    {
+      "word": "Sultan's",
+      "startSec": 9.88,
+      "endSec": 10.54
+    },
+    {
+      "word": "Dream.",
+      "startSec": 10.54,
+      "endSec": 10.76
+    },
+    {
+      "word": "This",
+      "startSec": 11.56,
+      "endSec": 11.58
+    },
+    {
+      "word": "poem",
+      "startSec": 11.58,
+      "endSec": 11.84
+    },
+    {
+      "word": "is",
+      "startSec": 11.84,
+      "endSec": 11.92
+    },
+    {
+      "word": "written",
+      "startSec": 11.92,
+      "endSec": 11.94
+    },
+    {
+      "word": "by",
+      "startSec": 11.94,
+      "endSec": 11.96
+    },
+    {
+      "word": "Rukhya",
+      "startSec": 11.96,
+      "endSec": 12.3
+    },
+    {
+      "word": "Sakhawat",
+      "startSec": 12.3,
+      "endSec": 12.72
+    },
+    {
+      "word": "Hossein.",
+      "startSec": 12.72,
+      "endSec": 13.62
+    },
+    {
+      "word": "Sultan's",
+      "startSec": 14.06,
+      "endSec": 14.64
+    },
+    {
+      "word": "Dream",
+      "startSec": 14.64,
+      "endSec": 14.82
+    },
+    {
+      "word": "poem",
+      "startSec": 14.82,
+      "endSec": 15.32
+    },
+    {
+      "word": "was",
+      "startSec": 15.32,
+      "endSec": 15.74
+    },
+    {
+      "word": "published",
+      "startSec": 15.74,
+      "endSec": 16.06
+    },
+    {
+      "word": "in",
+      "startSec": 16.06,
+      "endSec": 16.64
+    },
+    {
+      "word": "Indian",
+      "startSec": 16.64,
+      "endSec": 16.96
+    },
+    {
+      "word": "Ladies",
+      "startSec": 16.96,
+      "endSec": 17.38
+    },
+    {
+      "word": "Magazine",
+      "startSec": 17.38,
+      "endSec": 17.8
+    },
+    {
+      "word": "in",
+      "startSec": 17.96,
+      "endSec": 18.22
+    },
+    {
+      "word": "Madras",
+      "startSec": 18.22,
+      "endSec": 18.66
+    },
+    {
+      "word": "in",
+      "startSec": 18.66,
+      "endSec": 18.86
+    },
+    {
+      "word": "1905",
+      "startSec": 18.86,
+      "endSec": 19.74
+    },
+    {
+      "word": "in",
+      "startSec": 19.74,
+      "endSec": 20.36
+    },
+    {
+      "word": "English",
+      "startSec": 20.36,
+      "endSec": 20.78
+    },
+    {
+      "word": "language.",
+      "startSec": 20.78,
+      "endSec": 21.26
+    },
+    {
+      "word": "And",
+      "startSec": 22.36,
+      "endSec": 22.54
+    },
+    {
+      "word": "it",
+      "startSec": 22.54,
+      "endSec": 22.92
+    },
+    {
+      "word": "was",
+      "startSec": 22.92,
+      "endSec": 23.18
+    },
+    {
+      "word": "later",
+      "startSec": 23.18,
+      "endSec": 23.3
+    },
+    {
+      "word": "translated",
+      "startSec": 23.3,
+      "endSec": 23.58
+    },
+    {
+      "word": "in",
+      "startSec": 23.58,
+      "endSec": 23.62
+    },
+    {
+      "word": "2005",
+      "startSec": 23.62,
+      "endSec": 24.22
+    },
+    {
+      "word": "because",
+      "startSec": 26.24,
+      "endSec": 26.52
+    },
+    {
+      "word": "it",
+      "startSec": 26.52,
+      "endSec": 26.92
+    },
+    {
+      "word": "also",
+      "startSec": 26.92,
+      "endSec": 26.94
+    },
+    {
+      "word": "had",
+      "startSec": 26.94,
+      "endSec": 26.96
+    },
+    {
+      "word": "a",
+      "startSec": 26.96,
+      "endSec": 27.12
+    },
+    {
+      "word": "lot",
+      "startSec": 27.12,
+      "endSec": 27.14
+    },
+    {
+      "word": "of",
+      "startSec": 27.14,
+      "endSec": 27.58
+    },
+    {
+      "word": "Urdu",
+      "startSec": 27.58,
+      "endSec": 28.26
+    },
+    {
+      "word": "words.",
+      "startSec": 28.26,
+      "endSec": 29.3
+    },
+    {
+      "word": "झाल",
+      "startSec": 30.0,
+      "endSec": 30.52
+    }
+  ],
+  "totalDurationSec": 30.52,
+  "fps": 30,
+  "wordsPerScreen": 18,
+  "bgColor": "#F5F4F0",
+  "textActive": "#1A1A1A",
+  "textPast": "#AAAAAA",
+  "textFuture": "#CCCCCC",
+  "fontSize": 52,
+  "fontFamily": "Georgia, 'Times New Roman', serif"
+}

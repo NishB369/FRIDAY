@@ -1,0 +1,447 @@
+{
+  "words": [
+    {
+      "word": "hello",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "word": "everyone",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "word": "aur",
+      "start": 0.64,
+      "end": 0.82
+    },
+    {
+      "word": "welcome",
+      "start": 0.82,
+      "end": 1.0
+    },
+    {
+      "word": "vector",
+      "start": 1.0,
+      "end": 1.24
+    },
+    {
+      "word": "my",
+      "start": 1.24,
+      "end": 1.4
+    },
+    {
+      "word": "YouTube",
+      "start": 1.4,
+      "end": 1.68
+    },
+    {
+      "word": "channel",
+      "start": 1.68,
+      "end": 2.04
+    },
+    {
+      "word": "the",
+      "start": 2.04,
+      "end": 2.22
+    },
+    {
+      "word": "literature",
+      "start": 2.22,
+      "end": 2.6
+    },
+    {
+      "word": "talks",
+      "start": 2.6,
+      "end": 3.04
+    },
+    {
+      "word": "aur",
+      "start": 3.04,
+      "end": 3.26
+    },
+    {
+      "word": "I",
+      "start": 3.26,
+      "end": 3.52
+    },
+    {
+      "word": "hope",
+      "start": 3.52,
+      "end": 3.66
+    },
+    {
+      "word": "aap",
+      "start": 3.66,
+      "end": 3.82
+    },
+    {
+      "word": "sab",
+      "start": 3.82,
+      "end": 3.98
+    },
+    {
+      "word": "log",
+      "start": 3.98,
+      "end": 4.12
+    },
+    {
+      "word": "theek",
+      "start": 4.12,
+      "end": 4.26
+    },
+    {
+      "word": "honge",
+      "start": 4.26,
+      "end": 4.62
+    },
+    {
+      "word": "aaj",
+      "start": 4.94,
+      "end": 5.16
+    },
+    {
+      "word": "ki",
+      "start": 5.16,
+      "end": 5.28
+    },
+    {
+      "word": "is",
+      "start": 5.28,
+      "end": 5.48
+    },
+    {
+      "word": "video",
+      "start": 5.48,
+      "end": 5.78
+    },
+    {
+      "word": "mein",
+      "start": 5.78,
+      "end": 5.96
+    },
+    {
+      "word": "ham",
+      "start": 5.96,
+      "end": 6.34
+    },
+    {
+      "word": "log",
+      "start": 6.34,
+      "end": 6.46
+    },
+    {
+      "word": "is",
+      "start": 6.46,
+      "end": 6.64
+    },
+    {
+      "word": "poem",
+      "start": 6.64,
+      "end": 6.92
+    },
+    {
+      "word": "ke",
+      "start": 6.92,
+      "end": 7.22
+    },
+    {
+      "word": "bare",
+      "start": 7.22,
+      "end": 7.42
+    },
+    {
+      "word": "mein",
+      "start": 7.42,
+      "end": 7.48
+    },
+    {
+      "word": "discuss",
+      "start": 7.48,
+      "end": 7.84
+    },
+    {
+      "word": "karne",
+      "start": 7.84,
+      "end": 8.16
+    },
+    {
+      "word": "ja",
+      "start": 8.16,
+      "end": 8.3
+    },
+    {
+      "word": "rahe",
+      "start": 8.3,
+      "end": 8.52
+    },
+    {
+      "word": "hain",
+      "start": 8.52,
+      "end": 8.74
+    },
+    {
+      "word": "uska",
+      "start": 8.74,
+      "end": 9.4
+    },
+    {
+      "word": "naam",
+      "start": 9.4,
+      "end": 9.66
+    },
+    {
+      "word": "hai",
+      "start": 9.66,
+      "end": 9.82
+    },
+    {
+      "word": "Sultana",
+      "start": 9.82,
+      "end": 10.46
+    },
+    {
+      "word": "Green",
+      "start": 10.46,
+      "end": 11.14
+    },
+    {
+      "word": "yah",
+      "start": 11.0,
+      "end": 11.58
+    },
+    {
+      "word": "poem",
+      "start": 11.58,
+      "end": 11.84
+    },
+    {
+      "word": "Rokeya",
+      "start": 11.84,
+      "end": 12.3
+    },
+    {
+      "word": "Sakhawat",
+      "start": 12.3,
+      "end": 12.72
+    },
+    {
+      "word": "Hossain",
+      "start": 12.72,
+      "end": 13.08
+    },
+    {
+      "word": "ne",
+      "start": 13.08,
+      "end": 13.22
+    },
+    {
+      "word": "likhi",
+      "start": 13.22,
+      "end": 13.52
+    },
+    {
+      "word": "hai",
+      "start": 13.52,
+      "end": 13.82
+    },
+    {
+      "word": "Sultana's",
+      "start": 13.82,
+      "end": 14.64
+    },
+    {
+      "word": "Dream",
+      "start": 14.64,
+      "end": 14.84
+    },
+    {
+      "word": "jo",
+      "start": 14.84,
+      "end": 14.98
+    },
+    {
+      "word": "poem",
+      "start": 14.98,
+      "end": 15.26
+    },
+    {
+      "word": "hai",
+      "start": 15.26,
+      "end": 15.46
+    },
+    {
+      "word": "yah",
+      "start": 15.46,
+      "end": 15.66
+    },
+    {
+      "word": "publish",
+      "start": 15.66,
+      "end": 16.06
+    },
+    {
+      "word": "ki",
+      "start": 16.06,
+      "end": 16.3
+    },
+    {
+      "word": "gai",
+      "start": 16.3,
+      "end": 16.46
+    },
+    {
+      "word": "thi",
+      "start": 16.46,
+      "end": 16.64
+    },
+    {
+      "word": "Indian",
+      "start": 16.64,
+      "end": 16.94
+    },
+    {
+      "word": "Ladies",
+      "start": 16.94,
+      "end": 17.32
+    },
+    {
+      "word": "Magazine",
+      "start": 17.32,
+      "end": 17.8
+    },
+    {
+      "word": "mein",
+      "start": 17.8,
+      "end": 18.22
+    },
+    {
+      "word": "Madras",
+      "start": 18.22,
+      "end": 18.68
+    },
+    {
+      "word": "mein",
+      "start": 18.68,
+      "end": 18.84
+    },
+    {
+      "word": "1905",
+      "start": 18.84,
+      "end": 19.74
+    },
+    {
+      "word": "mein",
+      "start": 19.74,
+      "end": 20.44
+    },
+    {
+      "word": "English",
+      "start": 20.44,
+      "end": 20.76
+    },
+    {
+      "word": "language",
+      "start": 20.76,
+      "end": 21.28
+    },
+    {
+      "word": "mein",
+      "start": 21.28,
+      "end": 21.52
+    },
+    {
+      "word": "aur",
+      "start": 21.52,
+      "end": 22.54
+    },
+    {
+      "word": "ise",
+      "start": 22.54,
+      "end": 23.0
+    },
+    {
+      "word": "baad",
+      "start": 23.0,
+      "end": 23.4
+    },
+    {
+      "word": "mein",
+      "start": 23.4,
+      "end": 23.58
+    },
+    {
+      "word": "2005",
+      "start": 23.58,
+      "end": 24.2
+    },
+    {
+      "word": "mein",
+      "start": 24.2,
+      "end": 24.58
+    },
+    {
+      "word": "translate",
+      "start": 24.58,
+      "end": 25.14
+    },
+    {
+      "word": "kiya",
+      "start": 25.14,
+      "end": 25.58
+    },
+    {
+      "word": "gaya",
+      "start": 25.58,
+      "end": 25.78
+    },
+    {
+      "word": "kyonki",
+      "start": 25.78,
+      "end": 26.62
+    },
+    {
+      "word": "isme",
+      "start": 26.62,
+      "end": 27.0
+    },
+    {
+      "word": "bahut",
+      "start": 27.0,
+      "end": 27.22
+    },
+    {
+      "word": "sare",
+      "start": 27.22,
+      "end": 27.58
+    },
+    {
+      "word": "Urdu",
+      "start": 27.58,
+      "end": 28.32
+    },
+    {
+      "word": "words",
+      "start": 28.32,
+      "end": 28.82
+    },
+    {
+      "word": "bhi",
+      "start": 28.82,
+      "end": 29.0
+    },
+    {
+      "word": "the",
+      "start": 29.0,
+      "end": 29.52
+    }
+  ],
+  "text": "hello everyone aur welcome vector my YouTube channel the literature talks aur I hope aap sab log theek honge aaj ki is video mein ham log is poem ke bare mein discuss karne ja rahe hain uska naam hai Sultana Green yah poem Rokeya Sakhawat Hossain ne likhi hai Sultana's Dream jo poem hai yah publish ki gai thi Indian Ladies Magazine mein Madras mein 1905 mein English language mein aur ise baad mein 2005 mein translate kiya gaya kyonki isme bahut sare Urdu words bhi the",
+  "context": {
+    "slug": "sultanas_dream",
+    "title": "Sultana's Dream",
+    "author": "Rokeya Sakhawat Hossain",
+    "form": "poem",
+    "nouns": "Bernita Bagchi, Ladyland, Zanana, Indian Ladies Magazine, Madras"
+  }
+}
