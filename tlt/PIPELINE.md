@@ -84,9 +84,9 @@ overview, so a dedicated N3b is redundant.
 | N1   | `remotion/outputs/{slug}_full.mp4`, `tlt/transcripts/{slug}_merged.json` | skill: `audio-to-karaoke` (`full_audio_karaoke.py`) | ✓ |
 | N2   | `tlt/n2/{slug}_n2.json` | `normalize_to_n2.py` | ✓ |
 | N3a  | `tlt/processed/{overview,summary,notes}/` | `summarize_n2.py` (overview + auto-split) | ✓ |
-| N3c  | `tlt/processed/quiz/` | retarget `generate_quizzes.py` to N2 | pending |
-| N3d  | `tlt/processed/optimized_metadata/` | retarget existing optimizer; gate on `source=youtube` | pending |
-| N4-VIDEO | final `.mp4` (+ thumbnail, chapters) | `remotion/` (karaoke ✓; thumbnail + chapters TBD) | partial |
+| N3c  | `tlt/processed/quiz/` | `generate_quizzes.py` on N2 | ✓ |
+| N3d  | `tlt/processed/optimized_metadata/` | metadata optimizer on N2 (gated on `source=youtube`) | ✓ |
+| N4-VIDEO | final `.mp4` (+ thumbnail, chapters) | `remotion/` karaoke ✓; `generate_chapters_n2.py` ✓; thumbnail TBD | partial |
 | N4-WEB   | website post | TLT website repo (TBD) | pending |
 | N5   | YT upload + live page | manual / API | pending |
 | N6   | `tlt/TRACKER.md` sync | manual / sync script | pending |

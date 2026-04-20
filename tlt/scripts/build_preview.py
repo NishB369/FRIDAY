@@ -32,6 +32,8 @@ ARTIFACTS = [
     ("notes",    "md",    [(TLT / "processed/notes",   "{slug}_*_summary.md")]),
     ("quiz",     "json",  [(TLT / "processed/quiz",    "{slug}_*_quiz.json")]),
     ("yt-meta",  "json",  [(TLT / "processed/optimized_metadata", "{slug}_*.json")]),
+    ("chapters", "json",  [(TLT / "processed/chapters", "{slug}_*.json")]),
+    ("thumbnail","image", [(ROOT / "remotion/outputs", "{slug}_thumbnail.png")]),
 ]
 
 
@@ -165,6 +167,7 @@ async function showTab(k) {
   const pathLine = `<div class="pathline">${a.path}</div>`;
   if (a.kind === 'audio')      view.innerHTML = pathLine + `<audio src="${url}" controls></audio>`;
   else if (a.kind === 'video') view.innerHTML = pathLine + `<video src="${url}" controls></video>`;
+  else if (a.kind === 'image') view.innerHTML = pathLine + `<img src="${url}" style="max-width:100%;border-radius:6px;">`;
   else if (a.kind === 'json') {
     const txt = await (await fetch(url)).text();
     let pretty; try { pretty = JSON.stringify(JSON.parse(txt), null, 2); } catch { pretty = txt; }
