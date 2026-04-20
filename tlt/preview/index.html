@@ -89,6 +89,7 @@ async function showTab(k) {
   const pathLine = `<div class="pathline">${a.path}</div>`;
   if (a.kind === 'audio')      view.innerHTML = pathLine + `<audio src="${url}" controls></audio>`;
   else if (a.kind === 'video') view.innerHTML = pathLine + `<video src="${url}" controls></video>`;
+  else if (a.kind === 'image') view.innerHTML = pathLine + `<img src="${url}" style="max-width:100%;border-radius:6px;">`;
   else if (a.kind === 'json') {
     const txt = await (await fetch(url)).text();
     let pretty; try { pretty = JSON.stringify(JSON.parse(txt), null, 2); } catch { pretty = txt; }

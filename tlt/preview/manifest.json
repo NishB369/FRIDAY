@@ -7,7 +7,9 @@
     "summary",
     "notes",
     "quiz",
-    "yt-meta"
+    "yt-meta",
+    "chapters",
+    "thumbnail"
   ],
   "items": [
     {
@@ -49,6 +51,14 @@
         "yt-meta": {
           "kind": "json",
           "path": "tlt/processed/optimized_metadata/christopher_marlowe_doctor_faustus_intro_audio.json"
+        },
+        "chapters": {
+          "kind": "json",
+          "path": "tlt/processed/chapters/christopher_marlowe_doctor_faustus_intro_audio.json"
+        },
+        "thumbnail": {
+          "kind": "image",
+          "path": "remotion/outputs/christopher_marlowe_doctor_faustus_intro_thumbnail.png"
         }
       }
     },

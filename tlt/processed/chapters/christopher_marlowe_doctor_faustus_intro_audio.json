@@ -1,0 +1,31 @@
+{
+  "slug": "christopher_marlowe_doctor_faustus_intro",
+  "video_id": "audio",
+  "duration_seconds": 208,
+  "chapters": [
+    {
+      "start_seconds": 0,
+      "title": "Introduction & Channel Welcome"
+    },
+    {
+      "start_seconds": 15,
+      "title": "Christopher Marlowe's Life & Background"
+    },
+    {
+      "start_seconds": 50,
+      "title": "Marlowe's Literary Style & Legacy"
+    },
+    {
+      "start_seconds": 85,
+      "title": "Marlowe's Dramatic Life & Death"
+    },
+    {
+      "start_seconds": 130,
+      "title": "Doctor Faustus: Plot Summary"
+    },
+    {
+      "start_seconds": 175,
+      "title": "Themes: Ambition & Consequences"
+    }
+  ]
+}
