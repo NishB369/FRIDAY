@@ -1,0 +1,79 @@
+{
+  "description": "Quiz testing comprehension of Christopher Marlowe's life, career, and Doctor Faustus introduction",
+  "questions": [
+    {
+      "question": "What title is Christopher Marlowe honored with in English drama?",
+      "type": "mcq",
+      "options": [
+        "Father of English Theatre",
+        "Father of Blank Verse",
+        "Father of Elizabethan Comedy",
+        "Father of Poetic Drama"
+      ],
+      "correctAnswer": "Father of Blank Verse",
+      "explanation": "The content explicitly states that Marlowe is honored with the title 'Father of Blank Verse' because he perfected the dramatic use of unrhymed iambic pentameter in English drama.",
+      "points": 1
+    },
+    {
+      "question": "What did Doctor Faustus sell in exchange for unlimited power and knowledge?",
+      "type": "mcq",
+      "options": [
+        "His wealth and possessions",
+        "His family and loved ones",
+        "His soul to the Devil",
+        "His freedom for eternity"
+      ],
+      "correctAnswer": "His soul to the Devil",
+      "explanation": "The content clearly states that Faustus sells his soul to the Devil for 24 years in exchange for magical powers and unlimited knowledge.",
+      "points": 1
+    },
+    {
+      "question": "In what year did Christopher Marlowe die?",
+      "type": "mcq",
+      "options": [
+        "1564",
+        "1588",
+        "1593",
+        "1603"
+      ],
+      "correctAnswer": "1593",
+      "explanation": "The content states that Marlowe died in 1593 under mysterious circumstances in a tavern brawl in Deptford.",
+      "points": 1
+    },
+    {
+      "question": "Which universities did Christopher Marlowe graduate from?",
+      "type": "mcq",
+      "options": [
+        "Oxford University",
+        "Cambridge University",
+        "University of London",
+        "Trinity College"
+      ],
+      "correctAnswer": "Cambridge University",
+      "explanation": "The content explicitly mentions that Marlowe rose to academic distinction and graduated from Cambridge University, where he studied Latin, Greek, and Theology.",
+      "points": 1
+    },
+    {
+      "question": "Christopher Marlowe lived for 29 years, yet he completely transformed English drama.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True",
+      "explanation": "The content confirms that Marlowe lived only 29 years and within that span completely transformed English drama, demonstrating that drama was a serious medium for exploring philosophical and moral ideas.",
+      "points": 1
+    },
+    {
+      "question": "Doctor Faustus accepts his damnation at the end of the play without any regret about his bargain with the Devil.",
+      "type": "true-false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": "The content states that as the 24-year term nears its end, Faustus begins to regret having sold his soul, indicating he does have regrets about his bargain.",
+      "points": 1
+    }
+  ]
+}

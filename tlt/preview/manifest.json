@@ -1,0 +1,70 @@
+{
+  "artifact_order": [
+    "audio",
+    "video",
+    "n2",
+    "overview",
+    "summary",
+    "notes",
+    "quiz",
+    "yt-meta"
+  ],
+  "items": [
+    {
+      "slug": "christopher_marlowe_doctor_faustus_intro",
+      "title": "Christopher Marlowe & Doctor Faustus — Introduction",
+      "source": "audio",
+      "language": "mixed",
+      "duration_seconds": 208,
+      "word_count": 597,
+      "artifacts": {
+        "audio": {
+          "kind": "audio",
+          "path": "tlt/audios/christopher_marlowe_doctor_faustus_intro_full.mp3"
+        },
+        "video": {
+          "kind": "video",
+          "path": "remotion/outputs/christopher_marlowe_doctor_faustus_intro_full.mp4"
+        },
+        "n2": {
+          "kind": "json",
+          "path": "tlt/n2/christopher_marlowe_doctor_faustus_intro_n2.json"
+        },
+        "overview": {
+          "kind": "md",
+          "path": "tlt/processed/overview/christopher_marlowe_doctor_faustus_intro_audio_summary.md"
+        },
+        "summary": {
+          "kind": "md",
+          "path": "tlt/processed/summary/christopher_marlowe_doctor_faustus_intro_audio_summary.md"
+        },
+        "notes": {
+          "kind": "md",
+          "path": "tlt/processed/notes/christopher_marlowe_doctor_faustus_intro_audio_summary.md"
+        },
+        "quiz": {
+          "kind": "json",
+          "path": "tlt/processed/quiz/christopher_marlowe_doctor_faustus_intro_audio_quiz.json"
+        },
+        "yt-meta": {
+          "kind": "json",
+          "path": "tlt/processed/optimized_metadata/christopher_marlowe_doctor_faustus_intro_audio.json"
+        }
+      }
+    },
+    {
+      "slug": "touch_by_meena_kandasamy_explanation_summary_ba_eng_hons_2nd",
+      "title": "Touch by Meena Kandasamy | Explanation | Summary | Ba Eng Hons | 2nd semester",
+      "source": "youtube",
+      "language": "hi",
+      "duration_seconds": 0,
+      "word_count": 1742,
+      "artifacts": {
+        "n2": {
+          "kind": "json",
+          "path": "tlt/n2/touch_by_meena_kandasamy_explanation_summary_ba_eng_hons_2nd_n2.json"
+        }
+      }
+    }
+  ]
+}

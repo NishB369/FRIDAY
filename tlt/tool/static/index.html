@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>TVA CONSOLE // AUDIO → HINGLISH</title>
+<style>
+  :root {
+    --amber: #f6a01a; --amber-bright: #ffc85a; --amber-dim: #b86b04;
+    --cream: #f3e0b3; --ink: #1a0f02; --green: #8dff6e; --red: #ff4a3d;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--ink); color: var(--amber);
+    font-family: "VT323","Courier New",Menlo,monospace; font-size: 18px; line-height: 1.5; }
+  body::before { content: ""; position: fixed; inset: 0;
+    background: repeating-linear-gradient(0deg, rgba(0,0,0,0.25) 0 1px, transparent 1px 3px);
+    pointer-events: none; z-index: 99; }
+  body::after { content: ""; position: fixed; inset: 0;
+    background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.55) 100%);
+    pointer-events: none; z-index: 98; }
+  .wrap { max-width: 1150px; margin: 0 auto; padding: 28px 22px 60px; }
+
+  header { border: 3px double var(--amber); padding: 16px 22px; margin-bottom: 22px;
+    background: linear-gradient(180deg,#1e1202,#0f0801); position: relative; }
+  header h1 { margin: 0; font-family: "Courier New",monospace; font-weight: 900;
+    font-size: 30px; letter-spacing: 4px; color: var(--amber-bright);
+    text-shadow: 2px 2px 0 var(--amber-dim); }
+  header .sub { margin-top: 4px; font-size: 16px; letter-spacing: 2px; color: var(--cream); }
+  header .stamp { position: absolute; top: 12px; right: 18px; color: var(--red);
+    border: 2px solid var(--red); padding: 2px 10px; font-size: 13px;
+    letter-spacing: 2px; transform: rotate(-5deg); }
+  .clock { display: inline-flex; align-items: center; gap: 10px; margin-top: 8px; color: var(--amber-bright); font-size: 14px; letter-spacing: 2px; }
+  .dial { width: 34px; height: 34px; border: 2px solid var(--amber); border-radius: 50%;
+    position: relative; background: radial-gradient(circle,#301a03,#120801); }
+  .hand { position: absolute; left: 50%; top: 50%; transform-origin: 0 0;
+    width: 14px; height: 2px; background: var(--amber-bright); }
+  .hand.sec { width: 15px; height: 1px; background: var(--red); animation: spin 1.2s linear infinite; }
+  .hand.min { animation: spin 12s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  section { border: 2px solid var(--amber); padding: 18px 22px; margin-bottom: 20px;
+    background: rgba(40,20,4,0.45); position: relative; }
+  section h3 { margin: 0 0 10px; color: var(--amber-bright); font-family: "Courier New",monospace;
+    letter-spacing: 3px; font-size: 18px; border-bottom: 1px dashed var(--amber-dim); padding-bottom: 6px; }
+  section .corner { position: absolute; top: -11px; left: 18px; background: var(--ink);
+    padding: 0 10px; color: var(--amber); letter-spacing: 3px; font-size: 13px; }
+
+  form .row { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px 18px; }
+  form label { display: block; font-size: 14px; letter-spacing: 2px; color: var(--amber-dim); margin-bottom: 4px; }
+  form input, form select, form textarea {
+    width: 100%; padding: 8px 10px; background: #0b0500; color: var(--cream);
+    border: 1.5px solid var(--amber-dim); font-family: inherit; font-size: 17px;
+    outline: none;
+  }
+  form input:focus, form select:focus, form textarea:focus { border-color: var(--amber-bright); }
+  form .full { grid-column: 1 / -1; }
+  form button {
+    margin-top: 14px; padding: 12px 28px; background: var(--amber); color: var(--ink);
+    border: 2px solid var(--amber-bright); font-family: "Courier New",monospace;
+    font-size: 20px; font-weight: 900; letter-spacing: 5px; cursor: pointer;
+    box-shadow: 3px 3px 0 var(--amber-dim);
+  }
+  form button:hover { background: var(--amber-bright); }
+  form button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  .nodes { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px; }
+  .node { border: 2px solid var(--amber-dim); padding: 10px 12px;
+    background: linear-gradient(180deg,#2a1803,#180c01); position: relative; transition: all 0.2s; }
+  .node.running { border-color: var(--amber); box-shadow: 0 0 12px rgba(246,160,26,0.4); animation: pulse 1s ease-in-out infinite; }
+  .node.ok { border-color: var(--green); box-shadow: 0 0 10px rgba(141,255,110,0.3); }
+  .node.warn { border-color: var(--red); box-shadow: 0 0 10px rgba(255,74,61,0.3); }
+  @keyframes pulse { 50% { box-shadow: 0 0 22px rgba(246,160,26,0.7); } }
+  .node h4 { margin: 0 0 4px; color: var(--amber-bright); font-size: 17px; letter-spacing: 2px; }
+  .node .st { font-size: 12px; letter-spacing: 2px; color: var(--amber-dim); }
+  .node.ok .st { color: var(--green); }
+  .node.warn .st { color: var(--red); }
+  .node.running .st { color: var(--amber); }
+  .node p { margin: 4px 0 0; font-size: 14px; color: var(--cream); word-break: break-word; }
+
+  .log { background: #0b0500; border: 1px dashed var(--amber-dim); padding: 10px 14px;
+    max-height: 220px; overflow-y: auto; font-size: 14px; color: var(--cream); margin-top: 10px; }
+  .log .ts { color: var(--amber-dim); margin-right: 8px; }
+
+  .transcript { background: #0b0500; border: 2px solid var(--amber-dim); padding: 14px;
+    color: var(--cream); font-size: 17px; line-height: 1.7; margin-top: 10px; }
+
+  pre { font-family: "Courier New",monospace; background: #0b0500;
+    border: 1px dashed var(--amber-dim); padding: 10px 12px; color: var(--cream);
+    white-space: pre-wrap; word-break: break-word; font-size: 14px; }
+
+  .kv { display: grid; grid-template-columns: 180px 1fr; gap: 4px 14px; font-size: 14px; }
+  .kv dt { color: var(--amber-dim); letter-spacing: 1.5px; }
+  .kv dd { margin: 0; color: var(--cream); word-break: break-all; }
+
+  .hide { display: none; }
+  footer { margin-top: 24px; text-align: center; color: var(--amber-dim); font-size: 13px; letter-spacing: 2px; }
+  .blink { animation: blink 1s steps(2) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="stamp">CLASSIFIED</div>
+  <h1>TVA CONSOLE // AUDIO → HINGLISH</h1>
+  <div class="sub">PIPELINE: TRIM → GROQ WHISPER → CLAUDE HAIKU</div>
+  <div class="clock">
+    <div class="dial"><div class="hand min"></div><div class="hand sec"></div></div>
+    <span>TEMPORAL VARIANCE: <span class="blink">NOMINAL</span></span>
+  </div>
+</header>
+
+<section>
+  <div class="corner">01 // INTAKE</div>
+  <h3>CASE INPUTS</h3>
+  <form id="f">
+    <div class="row">
+      <div class="full">
+        <label>AUDIO FILE (mp3 / m4a / wav)</label>
+        <input type="file" name="audio" accept="audio/*" required>
+      </div>
+      <div><label>SLUG</label><input name="slug" value="sultanas_dream" required></div>
+      <div><label>FORM</label>
+        <select name="form" required>
+          <option>poem</option><option>novel</option><option>short story</option>
+          <option>essay</option><option>theory</option><option>play</option>
+        </select>
+      </div>
+      <div><label>TITLE</label><input name="title" value="Sultana's Dream" required></div>
+      <div><label>AUTHOR</label><input name="author" value="Rokeya Sakhawat Hossain" required></div>
+      <div><label>START SEC</label><input type="number" name="start" value="0" min="0"></div>
+      <div><label>DURATION SEC</label><input type="number" name="duration" value="60" min="5" max="600"></div>
+      <div class="full"><label>PROPER NOUNS / KEYWORDS (comma-sep)</label>
+        <input name="nouns" value="Bernita Bagchi, Ladyland, Zanana, Indian Ladies Magazine, Madras">
+      </div>
+      <div class="full" style="display:flex;gap:8px;align-items:center;">
+        <input type="checkbox" id="groq_only" name="groq_only" value="1" checked style="width:18px;height:18px;">
+        <label for="groq_only" style="margin:0;color:var(--amber-bright);letter-spacing:2px;">GROQ-ONLY MODE (skip Claude hinglish step)</label>
+      </div>
+    </div>
+    <button type="submit" id="go">ENGAGE</button>
+  </form>
+</section>
+
+<section id="flowSection" class="hide">
+  <div class="corner">02 // PIPELINE</div>
+  <h3>NODE FLOW</h3>
+  <div class="nodes" id="nodes">
+    <div class="node" data-id="N1"><h4>N1 · TRIM</h4><div class="st">PENDING</div><p>ffmpeg</p></div>
+    <div class="node" data-id="N2"><h4>N2 · GROQ</h4><div class="st">PENDING</div><p>whisper-large-v3</p></div>
+    <div class="node" data-id="N3"><h4>N3 · HINGLISH</h4><div class="st">PENDING</div><p>claude-haiku-4.5</p></div>
+  </div>
+  <h3 style="margin-top:18px;">LIVE LOG</h3>
+  <div class="log" id="log"></div>
+</section>
+
+<section id="promptSection" class="hide">
+  <div class="corner">03 // GROQ PROMPT</div>
+  <h3>CONTEXT PROMPT SENT TO WHISPER</h3>
+  <pre id="promptBox"></pre>
+  <dl class="kv" id="groqMeta"></dl>
+</section>
+
+<section id="transcriptSection" class="hide">
+  <div class="corner">04 // GROQ TRANSCRIPT</div>
+  <h3>DEVANAGARI + ENGLISH CODE-SWITCH</h3>
+  <div class="transcript" id="groqText"></div>
+</section>
+
+<section id="hinglishSection" class="hide">
+  <div class="corner">05 // HINGLISH</div>
+  <h3>LATIN-SCRIPT ROMANIZATION</h3>
+  <div class="transcript" id="hinglishText"></div>
+</section>
+
+<section id="filesSection" class="hide">
+  <div class="corner">06 // ARTIFACTS</div>
+  <h3>FILES WRITTEN</h3>
+  <dl class="kv" id="filesBox"></dl>
+</section>
+
+<footer>— TVA FORM 1.21-B — <span class="blink">█</span></footer>
+
+</div>
+
+<script>
+const f = document.getElementById('f');
+const go = document.getElementById('go');
+const logEl = document.getElementById('log');
+const nodes = document.querySelectorAll('.node');
+
+function setNode(id, status, detail) {
+  const el = document.querySelector(`.node[data-id="${id}"]`);
+  if (!el) return;
+  el.classList.remove('running','ok','warn');
+  el.classList.add(status);
+  el.querySelector('.st').textContent = status.toUpperCase();
+  if (detail) el.querySelector('p').textContent = detail;
+}
+
+function log(msg) {
+  const ts = new Date().toLocaleTimeString('en-GB');
+  logEl.innerHTML += `<div><span class="ts">[${ts}]</span>${msg}</div>`;
+  logEl.scrollTop = logEl.scrollHeight;
+}
+
+function show(id) { document.getElementById(id).classList.remove('hide'); }
+
+f.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  go.disabled = true; go.textContent = 'RUNNING...';
+  ['flowSection','promptSection','transcriptSection','hinglishSection','filesSection'].forEach(id=>{
+    document.getElementById(id).classList.add('hide');
+  });
+  logEl.innerHTML = '';
+  nodes.forEach(n => { n.classList.remove('running','ok','warn'); n.querySelector('.st').textContent='PENDING'; });
+  show('flowSection');
+
+  const fd = new FormData(f);
+  let job_id;
+  try {
+    const r = await fetch('/run', { method: 'POST', body: fd });
+    const j = await r.json();
+    job_id = j.job_id;
+    log(`job submitted: <b>${job_id}</b>`);
+  } catch (err) {
+    log(`<span style="color:var(--red)">submit failed: ${err.message}</span>`);
+    go.disabled = false; go.textContent = 'ENGAGE';
+    return;
+  }
+
+  const es = new EventSource(`/stream/${job_id}`);
+  es.addEventListener('hello', ev => log('stream open'));
+  es.addEventListener('log', ev => {
+    const d = JSON.parse(ev.data).data;
+    log(d.msg);
+  });
+  es.addEventListener('step', ev => {
+    const d = JSON.parse(ev.data).data;
+    setNode(d.id, d.status, d.detail || '');
+    if (d.status === 'running') log(`▶ ${d.id} · ${d.title || ''} starting`);
+    if (d.status === 'ok') log(`✓ ${d.id} ok · ${d.detail || ''}`);
+    if (d.status === 'warn') log(`⚠ ${d.id} warn · ${d.detail || ''}`);
+    if (d.id === 'N2' && d.prompt) {
+      show('promptSection');
+      document.getElementById('promptBox').textContent = d.prompt;
+    }
+    if (d.id === 'N2' && d.text) {
+      show('transcriptSection');
+      document.getElementById('groqText').textContent = d.text;
+    }
+    if (d.id === 'N3' && d.text) {
+      show('hinglishSection');
+      document.getElementById('hinglishText').textContent = d.text;
+    }
+  });
+  es.addEventListener('done', ev => {
+    const d = JSON.parse(ev.data).data;
+    log('<b style="color:var(--green)">PIPELINE COMPLETE</b>');
+    const r = d.result;
+    const meta = document.getElementById('groqMeta');
+    meta.innerHTML = '';
+    meta.innerHTML += `<dt>MODEL</dt><dd>whisper-large-v3</dd>`;
+    meta.innerHTML += `<dt>LANGUAGE</dt><dd>${r.groq.language}</dd>`;
+    meta.innerHTML += `<dt>DURATION</dt><dd>${r.groq.duration}s</dd>`;
+    meta.innerHTML += `<dt>WORDS</dt><dd>${r.groq.words.length}</dd>`;
+    meta.innerHTML += `<dt>DEVANAGARI</dt><dd>${(r.groq.validation.metrics.devanagari_ratio*100).toFixed(1)}%</dd>`;
+    meta.innerHTML += `<dt>VALIDATION</dt><dd>${r.groq.validation.ok ? 'OK' : 'ISSUES: ' + r.groq.validation.issues.join(', ')}</dd>`;
+    meta.innerHTML += `<dt>RETRIED</dt><dd>${r.groq.retry ? 'yes' : 'no'}</dd>`;
+
+    const fb = document.getElementById('filesBox');
+    fb.innerHTML = '';
+    Object.entries(r.files).forEach(([k,v]) => {
+      fb.innerHTML += `<dt>${k.toUpperCase()}</dt><dd>${v}</dd>`;
+    });
+    show('filesSection');
+    es.close();
+    go.disabled = false; go.textContent = 'ENGAGE';
+  });
+  es.addEventListener('error', ev => {
+    try {
+      const d = JSON.parse(ev.data).data;
+      log(`<span style="color:var(--red)">ERROR: ${d.message}</span>`);
+    } catch (_) {
+      log(`<span style="color:var(--red)">stream error</span>`);
+    }
+    es.close();
+    go.disabled = false; go.textContent = 'ENGAGE';
+  });
+});
+</script>
+</body>
+</html>

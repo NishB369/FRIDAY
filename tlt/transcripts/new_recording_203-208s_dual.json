@@ -1,0 +1,231 @@
+{
+  "transcript": "देन प्लीज मेक श्योर टू सब्सक्राइब माय यूट्यूब चैनल, तब तक के लिए बाय बाय।",
+  "duration": 5.0,
+  "words": [
+    {
+      "word": "देन",
+      "start": 0.0,
+      "end": 0.313
+    },
+    {
+      "word": "प्लीज",
+      "start": 0.313,
+      "end": 0.625
+    },
+    {
+      "word": "मेक",
+      "start": 0.625,
+      "end": 0.938
+    },
+    {
+      "word": "श्योर",
+      "start": 0.938,
+      "end": 1.251
+    },
+    {
+      "word": "टू",
+      "start": 1.251,
+      "end": 1.564
+    },
+    {
+      "word": "सब्सक्राइब",
+      "start": 1.564,
+      "end": 1.876
+    },
+    {
+      "word": "माय",
+      "start": 1.876,
+      "end": 2.189
+    },
+    {
+      "word": "यूट्यूब",
+      "start": 2.189,
+      "end": 2.502
+    },
+    {
+      "word": "चैनल,",
+      "start": 2.502,
+      "end": 2.815
+    },
+    {
+      "word": "तब",
+      "start": 2.815,
+      "end": 3.127
+    },
+    {
+      "word": "तक",
+      "start": 3.127,
+      "end": 3.44
+    },
+    {
+      "word": "के",
+      "start": 3.44,
+      "end": 3.805
+    },
+    {
+      "word": "लिए",
+      "start": 3.805,
+      "end": 4.17
+    },
+    {
+      "word": "बाय",
+      "start": 4.17,
+      "end": 4.535
+    },
+    {
+      "word": "बाय।",
+      "start": 4.535,
+      "end": 4.9
+    }
+  ],
+  "_sarvam_raw": {
+    "request_id": "20260420_a033f042-6153-40fd-af59-dbc55ac0dc5c",
+    "transcript": "देन प्लीज मेक श्योर टू सब्सक्राइब माय यूट्यूब चैनल, तब तक के लिए बाय बाय।",
+    "language_code": "hi-IN"
+  },
+  "_groq_raw": {
+    "text": " then please make sure to subscribe my YouTube channel तब तक के लिए बाबाई",
+    "task": "transcribe",
+    "language": "Hindi",
+    "duration": 5,
+    "words": [
+      {
+        "word": "then",
+        "start": 0.02,
+        "end": 0.62
+      },
+      {
+        "word": "please",
+        "start": 0.62,
+        "end": 1.24
+      },
+      {
+        "word": "make",
+        "start": 1.24,
+        "end": 1.5
+      },
+      {
+        "word": "sure",
+        "start": 1.5,
+        "end": 1.76
+      },
+      {
+        "word": "to",
+        "start": 1.76,
+        "end": 1.96
+      },
+      {
+        "word": "subscribe",
+        "start": 1.96,
+        "end": 2.32
+      },
+      {
+        "word": "my",
+        "start": 2.32,
+        "end": 2.6
+      },
+      {
+        "word": "YouTube",
+        "start": 2.6,
+        "end": 2.84
+      },
+      {
+        "word": "channel",
+        "start": 2.84,
+        "end": 3.36
+      },
+      {
+        "word": "तब",
+        "start": 3.9,
+        "end": 4.14
+      },
+      {
+        "word": "तक",
+        "start": 4.14,
+        "end": 4.28
+      },
+      {
+        "word": "के",
+        "start": 4.28,
+        "end": 4.4
+      },
+      {
+        "word": "लिए",
+        "start": 4.4,
+        "end": 4.42
+      },
+      {
+        "word": "बाबाई",
+        "start": 4.42,
+        "end": 4.88
+      }
+    ],
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0,
+        "end": 3.44,
+        "text": " then please make sure to subscribe my YouTube channel",
+        "tokens": [
+          50365,
+          550,
+          1767,
+          652,
+          988,
+          281,
+          3022,
+          452,
+          3088,
+          2269,
+          50537
+        ],
+        "temperature": 0,
+        "avg_logprob": -0.15874846,
+        "compression_ratio": 1.0869565,
+        "no_speech_prob": 0.0070525045
+      },
+      {
+        "id": 1,
+        "seek": 0,
+        "start": 3.44,
+        "end": 4.9,
+        "text": " तब तक के लिए बाबाई",
+        "tokens": [
+          50537,
+          8485,
+          97,
+          3941,
+          105,
+          8485,
+          97,
+          41858,
+          31970,
+          21981,
+          8485,
+          110,
+          33279,
+          3941,
+          237,
+          8485,
+          105,
+          17937,
+          3941,
+          105,
+          17937,
+          3941,
+          230,
+          50610
+        ],
+        "temperature": 0,
+        "avg_logprob": -0.15874846,
+        "compression_ratio": 1.0869565,
+        "no_speech_prob": 0.0070525045
+      }
+    ],
+    "x_groq": {
+      "id": "req_01kpmnzhf9fpvanafcgx6x0cdb"
+    }
+  },
+  "_audio_clip": "/Users/nishb/Desktop/FRIDAY/tlt/audios/new_recording_203-208s.mp3"
+}

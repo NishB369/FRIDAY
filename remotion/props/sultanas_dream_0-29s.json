@@ -1,0 +1,448 @@
+{
+  "words": [
+    {
+      "word": "hello",
+      "startSec": 0.2,
+      "endSec": 0.385
+    },
+    {
+      "word": "everyone",
+      "startSec": 0.385,
+      "endSec": 0.571
+    },
+    {
+      "word": "and",
+      "startSec": 0.571,
+      "endSec": 0.756
+    },
+    {
+      "word": "welcome",
+      "startSec": 0.756,
+      "endSec": 0.942
+    },
+    {
+      "word": "back",
+      "startSec": 0.942,
+      "endSec": 1.127
+    },
+    {
+      "word": "to",
+      "startSec": 1.127,
+      "endSec": 1.313
+    },
+    {
+      "word": "my",
+      "startSec": 1.313,
+      "endSec": 1.498
+    },
+    {
+      "word": "YouTube",
+      "startSec": 1.498,
+      "endSec": 1.684
+    },
+    {
+      "word": "channel",
+      "startSec": 1.684,
+      "endSec": 1.869
+    },
+    {
+      "word": "the",
+      "startSec": 1.869,
+      "endSec": 2.055
+    },
+    {
+      "word": "literature",
+      "startSec": 2.055,
+      "endSec": 2.24
+    },
+    {
+      "word": "talks",
+      "startSec": 2.24,
+      "endSec": 2.43
+    },
+    {
+      "word": "and",
+      "startSec": 2.43,
+      "endSec": 2.62
+    },
+    {
+      "word": "I",
+      "startSec": 2.62,
+      "endSec": 2.81
+    },
+    {
+      "word": "hope",
+      "startSec": 2.81,
+      "endSec": 3.0
+    },
+    {
+      "word": "aap",
+      "startSec": 3.0,
+      "endSec": 3.19
+    },
+    {
+      "word": "sab",
+      "startSec": 3.19,
+      "endSec": 3.38
+    },
+    {
+      "word": "log",
+      "startSec": 3.38,
+      "endSec": 3.57
+    },
+    {
+      "word": "theek",
+      "startSec": 3.57,
+      "endSec": 3.76
+    },
+    {
+      "word": "honge",
+      "startSec": 3.76,
+      "endSec": 3.95
+    },
+    {
+      "word": "aaj",
+      "startSec": 3.95,
+      "endSec": 4.14
+    },
+    {
+      "word": "ki",
+      "startSec": 4.14,
+      "endSec": 4.33
+    },
+    {
+      "word": "is",
+      "startSec": 4.33,
+      "endSec": 4.52
+    },
+    {
+      "word": "video",
+      "startSec": 4.52,
+      "endSec": 4.88
+    },
+    {
+      "word": "mein",
+      "startSec": 4.88,
+      "endSec": 5.24
+    },
+    {
+      "word": "ham",
+      "startSec": 5.24,
+      "endSec": 5.6
+    },
+    {
+      "word": "log",
+      "startSec": 5.6,
+      "endSec": 5.96
+    },
+    {
+      "word": "jis",
+      "startSec": 5.96,
+      "endSec": 6.388
+    },
+    {
+      "word": "poem",
+      "startSec": 6.388,
+      "endSec": 6.816
+    },
+    {
+      "word": "ke",
+      "startSec": 6.816,
+      "endSec": 7.244
+    },
+    {
+      "word": "bare",
+      "startSec": 7.244,
+      "endSec": 7.672
+    },
+    {
+      "word": "mein",
+      "startSec": 7.672,
+      "endSec": 8.1
+    },
+    {
+      "word": "discuss",
+      "startSec": 8.1,
+      "endSec": 8.392
+    },
+    {
+      "word": "karne",
+      "startSec": 8.392,
+      "endSec": 8.684
+    },
+    {
+      "word": "ja",
+      "startSec": 8.684,
+      "endSec": 8.976
+    },
+    {
+      "word": "rahe",
+      "startSec": 8.976,
+      "endSec": 9.268
+    },
+    {
+      "word": "hain",
+      "startSec": 9.268,
+      "endSec": 9.56
+    },
+    {
+      "word": "uska",
+      "startSec": 9.56,
+      "endSec": 10.027
+    },
+    {
+      "word": "naam",
+      "startSec": 10.027,
+      "endSec": 10.493
+    },
+    {
+      "word": "hai",
+      "startSec": 10.493,
+      "endSec": 10.96
+    },
+    {
+      "word": "sultanaz",
+      "startSec": 10.96,
+      "endSec": 11.222
+    },
+    {
+      "word": "dream",
+      "startSec": 11.222,
+      "endSec": 11.484
+    },
+    {
+      "word": "yah",
+      "startSec": 11.484,
+      "endSec": 11.745
+    },
+    {
+      "word": "poem",
+      "startSec": 11.745,
+      "endSec": 12.007
+    },
+    {
+      "word": "rukiya",
+      "startSec": 12.007,
+      "endSec": 12.269
+    },
+    {
+      "word": "sakhawat",
+      "startSec": 12.269,
+      "endSec": 12.531
+    },
+    {
+      "word": "husain",
+      "startSec": 12.531,
+      "endSec": 12.793
+    },
+    {
+      "word": "ne",
+      "startSec": 12.793,
+      "endSec": 13.055
+    },
+    {
+      "word": "likhi",
+      "startSec": 13.055,
+      "endSec": 13.316
+    },
+    {
+      "word": "hai",
+      "startSec": 13.316,
+      "endSec": 13.578
+    },
+    {
+      "word": "sultanaz",
+      "startSec": 13.578,
+      "endSec": 13.84
+    },
+    {
+      "word": "dream",
+      "startSec": 13.84,
+      "endSec": 14.257
+    },
+    {
+      "word": "jo",
+      "startSec": 14.257,
+      "endSec": 14.673
+    },
+    {
+      "word": "poem",
+      "startSec": 14.673,
+      "endSec": 15.09
+    },
+    {
+      "word": "hai",
+      "startSec": 15.09,
+      "endSec": 15.507
+    },
+    {
+      "word": "yah",
+      "startSec": 15.507,
+      "endSec": 15.923
+    },
+    {
+      "word": "publish",
+      "startSec": 15.923,
+      "endSec": 16.34
+    },
+    {
+      "word": "ki",
+      "startSec": 16.34,
+      "endSec": 16.64
+    },
+    {
+      "word": "gayi",
+      "startSec": 16.64,
+      "endSec": 16.94
+    },
+    {
+      "word": "thi",
+      "startSec": 16.94,
+      "endSec": 17.24
+    },
+    {
+      "word": "Indian",
+      "startSec": 17.24,
+      "endSec": 17.54
+    },
+    {
+      "word": "ladies",
+      "startSec": 17.54,
+      "endSec": 17.84
+    },
+    {
+      "word": "magazine",
+      "startSec": 17.84,
+      "endSec": 18.14
+    },
+    {
+      "word": "mein",
+      "startSec": 18.14,
+      "endSec": 18.615
+    },
+    {
+      "word": "madras",
+      "startSec": 18.615,
+      "endSec": 19.09
+    },
+    {
+      "word": "mein",
+      "startSec": 19.09,
+      "endSec": 19.565
+    },
+    {
+      "word": "1905",
+      "startSec": 19.565,
+      "endSec": 20.04
+    },
+    {
+      "word": "mein",
+      "startSec": 20.04,
+      "endSec": 20.435
+    },
+    {
+      "word": "English",
+      "startSec": 20.435,
+      "endSec": 20.83
+    },
+    {
+      "word": "language",
+      "startSec": 20.83,
+      "endSec": 21.225
+    },
+    {
+      "word": "mein",
+      "startSec": 21.225,
+      "endSec": 21.62
+    },
+    {
+      "word": "aur",
+      "startSec": 21.62,
+      "endSec": 22.11
+    },
+    {
+      "word": "ise",
+      "startSec": 22.11,
+      "endSec": 22.6
+    },
+    {
+      "word": "baad",
+      "startSec": 22.6,
+      "endSec": 23.09
+    },
+    {
+      "word": "mein",
+      "startSec": 23.09,
+      "endSec": 23.58
+    },
+    {
+      "word": "2005",
+      "startSec": 23.58,
+      "endSec": 23.805
+    },
+    {
+      "word": "mein",
+      "startSec": 23.805,
+      "endSec": 24.03
+    },
+    {
+      "word": "translate",
+      "startSec": 24.03,
+      "endSec": 24.255
+    },
+    {
+      "word": "kiya",
+      "startSec": 24.255,
+      "endSec": 24.48
+    },
+    {
+      "word": "gaya",
+      "startSec": 24.48,
+      "endSec": 25.09
+    },
+    {
+      "word": "kyonki",
+      "startSec": 25.09,
+      "endSec": 25.7
+    },
+    {
+      "word": "isme",
+      "startSec": 25.7,
+      "endSec": 26.31
+    },
+    {
+      "word": "bahut",
+      "startSec": 26.31,
+      "endSec": 26.92
+    },
+    {
+      "word": "saare",
+      "startSec": 26.92,
+      "endSec": 27.53
+    },
+    {
+      "word": "urdu",
+      "startSec": 27.53,
+      "endSec": 28.14
+    },
+    {
+      "word": "words",
+      "startSec": 28.14,
+      "endSec": 28.67
+    },
+    {
+      "word": "bhi",
+      "startSec": 28.67,
+      "endSec": 29.2
+    }
+  ],
+  "totalDurationSec": 29.2,
+  "fps": 30,
+  "wordsPerScreen": 18,
+  "bgColor": "#F5F4F0",
+  "textActive": "#1A1A1A",
+  "textPast": "#AAAAAA",
+  "textFuture": "#CCCCCC",
+  "fontSize": 52,
+  "fontFamily": "Georgia, 'Times New Roman', serif"
+}

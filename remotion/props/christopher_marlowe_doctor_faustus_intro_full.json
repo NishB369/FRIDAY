@@ -1,0 +1,2998 @@
+{
+  "words": [
+    {
+      "word": "hello",
+      "startSec": 0.2,
+      "endSec": 0.533
+    },
+    {
+      "word": "everyone",
+      "startSec": 0.533,
+      "endSec": 0.867
+    },
+    {
+      "word": "and",
+      "startSec": 0.867,
+      "endSec": 1.2
+    },
+    {
+      "word": "welcome",
+      "startSec": 1.2,
+      "endSec": 1.533
+    },
+    {
+      "word": "back",
+      "startSec": 1.533,
+      "endSec": 1.867
+    },
+    {
+      "word": "to",
+      "startSec": 1.867,
+      "endSec": 2.2
+    },
+    {
+      "word": "my",
+      "startSec": 2.2,
+      "endSec": 2.533
+    },
+    {
+      "word": "YouTube",
+      "startSec": 2.533,
+      "endSec": 2.867
+    },
+    {
+      "word": "channel",
+      "startSec": 2.867,
+      "endSec": 3.2
+    },
+    {
+      "word": "the",
+      "startSec": 3.2,
+      "endSec": 3.533
+    },
+    {
+      "word": "literature",
+      "startSec": 3.533,
+      "endSec": 3.867
+    },
+    {
+      "word": "talks",
+      "startSec": 3.867,
+      "endSec": 4.2
+    },
+    {
+      "word": "aur",
+      "startSec": 4.2,
+      "endSec": 4.431
+    },
+    {
+      "word": "aaj",
+      "startSec": 4.431,
+      "endSec": 4.662
+    },
+    {
+      "word": "hum",
+      "startSec": 4.662,
+      "endSec": 4.892
+    },
+    {
+      "word": "log",
+      "startSec": 4.892,
+      "endSec": 5.123
+    },
+    {
+      "word": "baat",
+      "startSec": 5.123,
+      "endSec": 5.354
+    },
+    {
+      "word": "karne",
+      "startSec": 5.354,
+      "endSec": 5.585
+    },
+    {
+      "word": "wale",
+      "startSec": 5.585,
+      "endSec": 5.815
+    },
+    {
+      "word": "hain",
+      "startSec": 5.815,
+      "endSec": 6.046
+    },
+    {
+      "word": "ek",
+      "startSec": 6.046,
+      "endSec": 6.277
+    },
+    {
+      "word": "bahut",
+      "startSec": 6.277,
+      "endSec": 6.508
+    },
+    {
+      "word": "hi",
+      "startSec": 6.508,
+      "endSec": 6.738
+    },
+    {
+      "word": "important",
+      "startSec": 6.738,
+      "endSec": 6.969
+    },
+    {
+      "word": "English",
+      "startSec": 6.969,
+      "endSec": 7.2
+    },
+    {
+      "word": "playwright",
+      "startSec": 7.2,
+      "endSec": 7.533
+    },
+    {
+      "word": "ki",
+      "startSec": 7.533,
+      "endSec": 7.867
+    },
+    {
+      "word": "jiska",
+      "startSec": 7.867,
+      "endSec": 8.2
+    },
+    {
+      "word": "naam",
+      "startSec": 8.2,
+      "endSec": 8.533
+    },
+    {
+      "word": "hai",
+      "startSec": 8.533,
+      "endSec": 8.867
+    },
+    {
+      "word": "Christopher",
+      "startSec": 8.867,
+      "endSec": 9.2
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 9.2,
+      "endSec": 9.473
+    },
+    {
+      "word": "aur",
+      "startSec": 9.473,
+      "endSec": 9.745
+    },
+    {
+      "word": "unki",
+      "startSec": 9.745,
+      "endSec": 10.018
+    },
+    {
+      "word": "ek",
+      "startSec": 10.018,
+      "endSec": 10.291
+    },
+    {
+      "word": "bahut",
+      "startSec": 10.291,
+      "endSec": 10.564
+    },
+    {
+      "word": "hi",
+      "startSec": 10.564,
+      "endSec": 10.836
+    },
+    {
+      "word": "famous",
+      "startSec": 10.836,
+      "endSec": 11.109
+    },
+    {
+      "word": "play",
+      "startSec": 11.109,
+      "endSec": 11.382
+    },
+    {
+      "word": "ki",
+      "startSec": 11.382,
+      "endSec": 11.655
+    },
+    {
+      "word": "jiska",
+      "startSec": 11.655,
+      "endSec": 11.927
+    },
+    {
+      "word": "naam",
+      "startSec": 11.927,
+      "endSec": 12.2
+    },
+    {
+      "word": "hai",
+      "startSec": 12.2,
+      "endSec": 12.45
+    },
+    {
+      "word": "Doctor",
+      "startSec": 12.45,
+      "endSec": 12.7
+    },
+    {
+      "word": "Faustus",
+      "startSec": 12.7,
+      "endSec": 12.95
+    },
+    {
+      "word": "to",
+      "startSec": 12.95,
+      "endSec": 13.2
+    },
+    {
+      "word": "sabse",
+      "startSec": 13.2,
+      "endSec": 13.45
+    },
+    {
+      "word": "pehle",
+      "startSec": 13.45,
+      "endSec": 13.7
+    },
+    {
+      "word": "hum",
+      "startSec": 13.7,
+      "endSec": 13.95
+    },
+    {
+      "word": "log",
+      "startSec": 13.95,
+      "endSec": 14.2
+    },
+    {
+      "word": "Christopher",
+      "startSec": 14.2,
+      "endSec": 14.45
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 14.45,
+      "endSec": 14.7
+    },
+    {
+      "word": "ke",
+      "startSec": 14.7,
+      "endSec": 14.95
+    },
+    {
+      "word": "bare",
+      "startSec": 14.95,
+      "endSec": 15.2
+    },
+    {
+      "word": "mein",
+      "startSec": 15.2,
+      "endSec": 15.7
+    },
+    {
+      "word": "baat",
+      "startSec": 15.7,
+      "endSec": 16.2
+    },
+    {
+      "word": "karte",
+      "startSec": 16.2,
+      "endSec": 16.7
+    },
+    {
+      "word": "hain",
+      "startSec": 16.7,
+      "endSec": 17.2
+    },
+    {
+      "word": "Christopher",
+      "startSec": 17.2,
+      "endSec": 17.7
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 17.7,
+      "endSec": 18.2
+    },
+    {
+      "word": "jo",
+      "startSec": 18.2,
+      "endSec": 19.2
+    },
+    {
+      "word": "author",
+      "startSec": 19.2,
+      "endSec": 20.2
+    },
+    {
+      "word": "hain",
+      "startSec": 20.2,
+      "endSec": 21.2
+    },
+    {
+      "word": "wo",
+      "startSec": 21.2,
+      "endSec": 22.2
+    },
+    {
+      "word": "Christopher",
+      "startSec": 22.2,
+      "endSec": 23.2
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 23.2,
+      "endSec": 23.6
+    },
+    {
+      "word": "ka",
+      "startSec": 23.6,
+      "endSec": 24.0
+    },
+    {
+      "word": "janam",
+      "startSec": 24.0,
+      "endSec": 24.4
+    },
+    {
+      "word": "Christopher",
+      "startSec": 24.4,
+      "endSec": 24.8
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 24.8,
+      "endSec": 25.2
+    },
+    {
+      "word": "ka",
+      "startSec": 25.2,
+      "endSec": 25.533
+    },
+    {
+      "word": "birth",
+      "startSec": 25.533,
+      "endSec": 25.867
+    },
+    {
+      "word": "Christopher",
+      "startSec": 25.867,
+      "endSec": 26.2
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 26.2,
+      "endSec": 26.533
+    },
+    {
+      "word": "jo",
+      "startSec": 26.533,
+      "endSec": 26.867
+    },
+    {
+      "word": "author",
+      "startSec": 26.867,
+      "endSec": 27.2
+    },
+    {
+      "word": "hain",
+      "startSec": 27.2,
+      "endSec": 27.7
+    },
+    {
+      "word": "unhone",
+      "startSec": 27.7,
+      "endSec": 28.2
+    },
+    {
+      "word": "Christopher",
+      "startSec": 28.2,
+      "endSec": 28.7
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 28.7,
+      "endSec": 29.2
+    },
+    {
+      "word": "jo",
+      "startSec": 29.2,
+      "endSec": 29.538
+    },
+    {
+      "word": "author",
+      "startSec": 29.538,
+      "endSec": 29.875
+    },
+    {
+      "word": "hain",
+      "startSec": 29.875,
+      "endSec": 30.213
+    },
+    {
+      "word": "unka",
+      "startSec": 30.213,
+      "endSec": 30.55
+    },
+    {
+      "word": "birth",
+      "startSec": 30.55,
+      "endSec": 30.888
+    },
+    {
+      "word": "1564",
+      "startSec": 30.888,
+      "endSec": 31.225
+    },
+    {
+      "word": "mein",
+      "startSec": 31.225,
+      "endSec": 31.563
+    },
+    {
+      "word": "hua",
+      "startSec": 31.563,
+      "endSec": 31.9
+    },
+    {
+      "word": "tha",
+      "startSec": 31.9,
+      "endSec": 32.168
+    },
+    {
+      "word": "Canterbury",
+      "startSec": 32.168,
+      "endSec": 32.436
+    },
+    {
+      "word": "England",
+      "startSec": 32.436,
+      "endSec": 32.704
+    },
+    {
+      "word": "mein",
+      "startSec": 32.704,
+      "endSec": 32.972
+    },
+    {
+      "word": "aur",
+      "startSec": 32.972,
+      "endSec": 33.24
+    },
+    {
+      "word": "wo",
+      "startSec": 33.24,
+      "endSec": 33.824
+    },
+    {
+      "word": "Elizabethan",
+      "startSec": 33.824,
+      "endSec": 34.408
+    },
+    {
+      "word": "era",
+      "startSec": 34.408,
+      "endSec": 34.992
+    },
+    {
+      "word": "ke",
+      "startSec": 34.992,
+      "endSec": 35.576
+    },
+    {
+      "word": "bahut",
+      "startSec": 35.576,
+      "endSec": 36.16
+    },
+    {
+      "word": "hi",
+      "startSec": 36.16,
+      "endSec": 36.584
+    },
+    {
+      "word": "top",
+      "startSec": 36.584,
+      "endSec": 37.008
+    },
+    {
+      "word": "playwrights",
+      "startSec": 37.008,
+      "endSec": 37.432
+    },
+    {
+      "word": "mein",
+      "startSec": 37.432,
+      "endSec": 37.856
+    },
+    {
+      "word": "se",
+      "startSec": 37.856,
+      "endSec": 38.28
+    },
+    {
+      "word": "ek",
+      "startSec": 38.28,
+      "endSec": 38.663
+    },
+    {
+      "word": "hain",
+      "startSec": 38.663,
+      "endSec": 39.046
+    },
+    {
+      "word": "unka",
+      "startSec": 39.046,
+      "endSec": 39.429
+    },
+    {
+      "word": "background",
+      "startSec": 39.429,
+      "endSec": 39.811
+    },
+    {
+      "word": "bahut",
+      "startSec": 39.811,
+      "endSec": 40.194
+    },
+    {
+      "word": "hi",
+      "startSec": 40.194,
+      "endSec": 40.577
+    },
+    {
+      "word": "simple",
+      "startSec": 40.577,
+      "endSec": 40.96
+    },
+    {
+      "word": "sa",
+      "startSec": 40.96,
+      "endSec": 41.472
+    },
+    {
+      "word": "tha",
+      "startSec": 41.472,
+      "endSec": 41.984
+    },
+    {
+      "word": "wo",
+      "startSec": 41.984,
+      "endSec": 42.496
+    },
+    {
+      "word": "Cambridge",
+      "startSec": 42.496,
+      "endSec": 43.008
+    },
+    {
+      "word": "University",
+      "startSec": 43.008,
+      "endSec": 43.52
+    },
+    {
+      "word": "se",
+      "startSec": 43.52,
+      "endSec": 43.953
+    },
+    {
+      "word": "graduate",
+      "startSec": 43.953,
+      "endSec": 44.387
+    },
+    {
+      "word": "hue",
+      "startSec": 44.387,
+      "endSec": 44.82
+    },
+    {
+      "word": "the",
+      "startSec": 44.82,
+      "endSec": 45.062
+    },
+    {
+      "word": "unhone",
+      "startSec": 45.062,
+      "endSec": 45.305
+    },
+    {
+      "word": "apni",
+      "startSec": 45.305,
+      "endSec": 45.548
+    },
+    {
+      "word": "education",
+      "startSec": 45.548,
+      "endSec": 45.79
+    },
+    {
+      "word": "complete",
+      "startSec": 45.79,
+      "endSec": 46.032
+    },
+    {
+      "word": "kari",
+      "startSec": 46.032,
+      "endSec": 46.275
+    },
+    {
+      "word": "thi",
+      "startSec": 46.275,
+      "endSec": 46.517
+    },
+    {
+      "word": "aur",
+      "startSec": 46.517,
+      "endSec": 46.76
+    },
+    {
+      "word": "unhone",
+      "startSec": 46.76,
+      "endSec": 47.168
+    },
+    {
+      "word": "wahan",
+      "startSec": 47.168,
+      "endSec": 47.576
+    },
+    {
+      "word": "par",
+      "startSec": 47.576,
+      "endSec": 47.984
+    },
+    {
+      "word": "Latin",
+      "startSec": 47.984,
+      "endSec": 48.392
+    },
+    {
+      "word": "Greek",
+      "startSec": 48.392,
+      "endSec": 48.8
+    },
+    {
+      "word": "aur",
+      "startSec": 48.8,
+      "endSec": 49.06
+    },
+    {
+      "word": "theology",
+      "startSec": 49.06,
+      "endSec": 49.32
+    },
+    {
+      "word": "padhi",
+      "startSec": 49.32,
+      "endSec": 49.58
+    },
+    {
+      "word": "thi",
+      "startSec": 49.58,
+      "endSec": 49.84
+    },
+    {
+      "word": "jo",
+      "startSec": 49.84,
+      "endSec": 50.16
+    },
+    {
+      "word": "aapko",
+      "startSec": 50.16,
+      "endSec": 50.48
+    },
+    {
+      "word": "unke",
+      "startSec": 50.48,
+      "endSec": 50.8
+    },
+    {
+      "word": "plays",
+      "startSec": 50.8,
+      "endSec": 51.12
+    },
+    {
+      "word": "mein",
+      "startSec": 51.12,
+      "endSec": 51.44
+    },
+    {
+      "word": "reflect",
+      "startSec": 51.44,
+      "endSec": 51.76
+    },
+    {
+      "word": "bhi",
+      "startSec": 51.76,
+      "endSec": 52.08
+    },
+    {
+      "word": "karegi",
+      "startSec": 52.08,
+      "endSec": 52.4
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 52.4,
+      "endSec": 52.928
+    },
+    {
+      "word": "ko",
+      "startSec": 52.928,
+      "endSec": 53.456
+    },
+    {
+      "word": "father",
+      "startSec": 53.456,
+      "endSec": 53.984
+    },
+    {
+      "word": "of",
+      "startSec": 53.984,
+      "endSec": 54.512
+    },
+    {
+      "word": "blank",
+      "startSec": 54.512,
+      "endSec": 55.04
+    },
+    {
+      "word": "verse",
+      "startSec": 55.04,
+      "endSec": 55.31
+    },
+    {
+      "word": "bhi",
+      "startSec": 55.31,
+      "endSec": 55.58
+    },
+    {
+      "word": "kaha",
+      "startSec": 55.58,
+      "endSec": 55.85
+    },
+    {
+      "word": "jata",
+      "startSec": 55.85,
+      "endSec": 56.12
+    },
+    {
+      "word": "tha",
+      "startSec": 56.12,
+      "endSec": 56.536
+    },
+    {
+      "word": "kyunki",
+      "startSec": 56.536,
+      "endSec": 56.952
+    },
+    {
+      "word": "unke",
+      "startSec": 56.952,
+      "endSec": 57.368
+    },
+    {
+      "word": "drama",
+      "startSec": 57.368,
+      "endSec": 57.784
+    },
+    {
+      "word": "mein",
+      "startSec": 57.784,
+      "endSec": 58.2
+    },
+    {
+      "word": "aise",
+      "startSec": 58.2,
+      "endSec": 58.455
+    },
+    {
+      "word": "poetic",
+      "startSec": 58.455,
+      "endSec": 58.71
+    },
+    {
+      "word": "style",
+      "startSec": 58.71,
+      "endSec": 58.965
+    },
+    {
+      "word": "use",
+      "startSec": 58.965,
+      "endSec": 59.22
+    },
+    {
+      "word": "kare",
+      "startSec": 59.22,
+      "endSec": 59.475
+    },
+    {
+      "word": "hain",
+      "startSec": 59.475,
+      "endSec": 59.73
+    },
+    {
+      "word": "unhone",
+      "startSec": 59.73,
+      "endSec": 59.985
+    },
+    {
+      "word": "jo",
+      "startSec": 59.985,
+      "endSec": 60.24
+    },
+    {
+      "word": "rhyme",
+      "startSec": 60.24,
+      "endSec": 60.76
+    },
+    {
+      "word": "nahin",
+      "startSec": 60.76,
+      "endSec": 61.28
+    },
+    {
+      "word": "hote",
+      "startSec": 61.28,
+      "endSec": 61.8
+    },
+    {
+      "word": "the",
+      "startSec": 61.8,
+      "endSec": 62.32
+    },
+    {
+      "word": "lekin",
+      "startSec": 62.32,
+      "endSec": 62.594
+    },
+    {
+      "word": "aisa",
+      "startSec": 62.594,
+      "endSec": 62.869
+    },
+    {
+      "word": "lagta",
+      "startSec": 62.869,
+      "endSec": 63.143
+    },
+    {
+      "word": "tha",
+      "startSec": 63.143,
+      "endSec": 63.417
+    },
+    {
+      "word": "ki",
+      "startSec": 63.417,
+      "endSec": 63.691
+    },
+    {
+      "word": "unki",
+      "startSec": 63.691,
+      "endSec": 63.966
+    },
+    {
+      "word": "jo",
+      "startSec": 63.966,
+      "endSec": 64.24
+    },
+    {
+      "word": "rhythm",
+      "startSec": 64.24,
+      "endSec": 64.625
+    },
+    {
+      "word": "hai",
+      "startSec": 64.625,
+      "endSec": 65.01
+    },
+    {
+      "word": "wo",
+      "startSec": 65.01,
+      "endSec": 65.395
+    },
+    {
+      "word": "tab",
+      "startSec": 65.395,
+      "endSec": 65.78
+    },
+    {
+      "word": "bhi",
+      "startSec": 65.78,
+      "endSec": 66.255
+    },
+    {
+      "word": "strong",
+      "startSec": 66.255,
+      "endSec": 66.73
+    },
+    {
+      "word": "hai",
+      "startSec": 66.73,
+      "endSec": 67.205
+    },
+    {
+      "word": "aur",
+      "startSec": 67.205,
+      "endSec": 67.68
+    },
+    {
+      "word": "unke",
+      "startSec": 67.68,
+      "endSec": 68.018
+    },
+    {
+      "word": "jo",
+      "startSec": 68.018,
+      "endSec": 68.355
+    },
+    {
+      "word": "dialogues",
+      "startSec": 68.355,
+      "endSec": 68.692
+    },
+    {
+      "word": "the",
+      "startSec": 68.692,
+      "endSec": 69.03
+    },
+    {
+      "word": "wo",
+      "startSec": 69.03,
+      "endSec": 69.368
+    },
+    {
+      "word": "natural",
+      "startSec": 69.368,
+      "endSec": 69.705
+    },
+    {
+      "word": "dramatic",
+      "startSec": 69.705,
+      "endSec": 70.042
+    },
+    {
+      "word": "aur",
+      "startSec": 70.042,
+      "endSec": 70.38
+    },
+    {
+      "word": "impactful",
+      "startSec": 70.38,
+      "endSec": 70.84
+    },
+    {
+      "word": "lagte",
+      "startSec": 70.84,
+      "endSec": 71.3
+    },
+    {
+      "word": "the",
+      "startSec": 71.3,
+      "endSec": 71.76
+    },
+    {
+      "word": "aur",
+      "startSec": 71.76,
+      "endSec": 72.22
+    },
+    {
+      "word": "unka",
+      "startSec": 72.22,
+      "endSec": 72.468
+    },
+    {
+      "word": "jo",
+      "startSec": 72.468,
+      "endSec": 72.715
+    },
+    {
+      "word": "ye",
+      "startSec": 72.715,
+      "endSec": 72.962
+    },
+    {
+      "word": "style",
+      "startSec": 72.962,
+      "endSec": 73.21
+    },
+    {
+      "word": "hai",
+      "startSec": 73.21,
+      "endSec": 73.458
+    },
+    {
+      "word": "wo",
+      "startSec": 73.458,
+      "endSec": 73.705
+    },
+    {
+      "word": "bad",
+      "startSec": 73.705,
+      "endSec": 73.952
+    },
+    {
+      "word": "mein",
+      "startSec": 73.952,
+      "endSec": 74.2
+    },
+    {
+      "word": "Shakespeare",
+      "startSec": 75.24,
+      "endSec": 75.665
+    },
+    {
+      "word": "ne",
+      "startSec": 75.665,
+      "endSec": 76.09
+    },
+    {
+      "word": "bhi",
+      "startSec": 76.09,
+      "endSec": 76.515
+    },
+    {
+      "word": "adopt",
+      "startSec": 76.515,
+      "endSec": 76.94
+    },
+    {
+      "word": "kiya",
+      "startSec": 76.94,
+      "endSec": 77.255
+    },
+    {
+      "word": "tha",
+      "startSec": 77.255,
+      "endSec": 77.57
+    },
+    {
+      "word": "unke",
+      "startSec": 77.57,
+      "endSec": 77.885
+    },
+    {
+      "word": "characters",
+      "startSec": 77.885,
+      "endSec": 78.2
+    },
+    {
+      "word": "jo",
+      "startSec": 78.2,
+      "endSec": 78.474
+    },
+    {
+      "word": "hain",
+      "startSec": 78.474,
+      "endSec": 78.749
+    },
+    {
+      "word": "bahut",
+      "startSec": 78.749,
+      "endSec": 79.023
+    },
+    {
+      "word": "simple",
+      "startSec": 79.023,
+      "endSec": 79.297
+    },
+    {
+      "word": "nahin",
+      "startSec": 79.297,
+      "endSec": 79.571
+    },
+    {
+      "word": "hote",
+      "startSec": 79.571,
+      "endSec": 79.846
+    },
+    {
+      "word": "unke",
+      "startSec": 79.846,
+      "endSec": 80.12
+    },
+    {
+      "word": "characters",
+      "startSec": 80.12,
+      "endSec": 80.42
+    },
+    {
+      "word": "powerful",
+      "startSec": 80.42,
+      "endSec": 80.72
+    },
+    {
+      "word": "ambitious",
+      "startSec": 80.72,
+      "endSec": 81.02
+    },
+    {
+      "word": "aur",
+      "startSec": 81.02,
+      "endSec": 81.32
+    },
+    {
+      "word": "rebellious",
+      "startSec": 81.32,
+      "endSec": 81.62
+    },
+    {
+      "word": "hote",
+      "startSec": 81.62,
+      "endSec": 81.92
+    },
+    {
+      "word": "hain",
+      "startSec": 81.92,
+      "endSec": 82.22
+    },
+    {
+      "word": "aur",
+      "startSec": 82.22,
+      "endSec": 82.52
+    },
+    {
+      "word": "yahi",
+      "startSec": 82.52,
+      "endSec": 82.82
+    },
+    {
+      "word": "aapko",
+      "startSec": 82.82,
+      "endSec": 83.12
+    },
+    {
+      "word": "Doctor",
+      "startSec": 83.12,
+      "endSec": 83.42
+    },
+    {
+      "word": "Faustus",
+      "startSec": 83.42,
+      "endSec": 83.72
+    },
+    {
+      "word": "ke",
+      "startSec": 83.72,
+      "endSec": 84.02
+    },
+    {
+      "word": "play",
+      "startSec": 84.02,
+      "endSec": 84.307
+    },
+    {
+      "word": "mein",
+      "startSec": 84.307,
+      "endSec": 84.595
+    },
+    {
+      "word": "dikhenge",
+      "startSec": 84.595,
+      "endSec": 84.882
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 84.882,
+      "endSec": 85.169
+    },
+    {
+      "word": "ki",
+      "startSec": 85.169,
+      "endSec": 85.456
+    },
+    {
+      "word": "life",
+      "startSec": 85.456,
+      "endSec": 85.744
+    },
+    {
+      "word": "utni",
+      "startSec": 85.744,
+      "endSec": 86.031
+    },
+    {
+      "word": "hi",
+      "startSec": 86.031,
+      "endSec": 86.318
+    },
+    {
+      "word": "dramatic",
+      "startSec": 86.318,
+      "endSec": 86.605
+    },
+    {
+      "word": "hai",
+      "startSec": 86.605,
+      "endSec": 86.893
+    },
+    {
+      "word": "jitni",
+      "startSec": 86.893,
+      "endSec": 87.18
+    },
+    {
+      "word": "dramatic",
+      "startSec": 87.2,
+      "endSec": 87.48
+    },
+    {
+      "word": "unki",
+      "startSec": 87.48,
+      "endSec": 87.76
+    },
+    {
+      "word": "writings",
+      "startSec": 87.76,
+      "endSec": 88.04
+    },
+    {
+      "word": "hain",
+      "startSec": 88.04,
+      "endSec": 88.32
+    },
+    {
+      "word": "par",
+      "startSec": 88.32,
+      "endSec": 88.6
+    },
+    {
+      "word": "atheism",
+      "startSec": 88.6,
+      "endSec": 88.88
+    },
+    {
+      "word": "ke",
+      "startSec": 88.88,
+      "endSec": 89.16
+    },
+    {
+      "word": "accusations",
+      "startSec": 89.16,
+      "endSec": 89.44
+    },
+    {
+      "word": "lage",
+      "startSec": 89.44,
+      "endSec": 89.72
+    },
+    {
+      "word": "hue",
+      "startSec": 89.72,
+      "endSec": 90.0
+    },
+    {
+      "word": "hain",
+      "startSec": 90.0,
+      "endSec": 90.28
+    },
+    {
+      "word": "unhe",
+      "startSec": 90.28,
+      "endSec": 90.56
+    },
+    {
+      "word": "government",
+      "startSec": 90.56,
+      "endSec": 90.84
+    },
+    {
+      "word": "spying",
+      "startSec": 90.84,
+      "endSec": 91.12
+    },
+    {
+      "word": "ke",
+      "startSec": 91.12,
+      "endSec": 91.4
+    },
+    {
+      "word": "liye",
+      "startSec": 91.4,
+      "endSec": 91.68
+    },
+    {
+      "word": "bhi",
+      "startSec": 91.68,
+      "endSec": 91.96
+    },
+    {
+      "word": "link",
+      "startSec": 91.96,
+      "endSec": 92.24
+    },
+    {
+      "word": "kiya",
+      "startSec": 92.24,
+      "endSec": 92.52
+    },
+    {
+      "word": "gaya",
+      "startSec": 92.52,
+      "endSec": 92.8
+    },
+    {
+      "word": "tha",
+      "startSec": 92.8,
+      "endSec": 93.08
+    },
+    {
+      "word": "aur",
+      "startSec": 93.08,
+      "endSec": 93.36
+    },
+    {
+      "word": "kuch",
+      "startSec": 93.36,
+      "endSec": 93.64
+    },
+    {
+      "word": "log",
+      "startSec": 93.64,
+      "endSec": 93.92
+    },
+    {
+      "word": "kehte",
+      "startSec": 93.92,
+      "endSec": 94.2
+    },
+    {
+      "word": "hain",
+      "startSec": 94.2,
+      "endSec": 94.567
+    },
+    {
+      "word": "ki",
+      "startSec": 94.567,
+      "endSec": 94.933
+    },
+    {
+      "word": "wo",
+      "startSec": 94.933,
+      "endSec": 95.3
+    },
+    {
+      "word": "secret",
+      "startSec": 95.3,
+      "endSec": 95.667
+    },
+    {
+      "word": "agent",
+      "startSec": 95.667,
+      "endSec": 96.033
+    },
+    {
+      "word": "bhi",
+      "startSec": 96.033,
+      "endSec": 96.4
+    },
+    {
+      "word": "the",
+      "startSec": 96.4,
+      "endSec": 96.767
+    },
+    {
+      "word": "aur",
+      "startSec": 96.767,
+      "endSec": 97.133
+    },
+    {
+      "word": "sabse",
+      "startSec": 97.133,
+      "endSec": 97.5
+    },
+    {
+      "word": "harani",
+      "startSec": 97.5,
+      "endSec": 97.867
+    },
+    {
+      "word": "wali",
+      "startSec": 97.867,
+      "endSec": 98.233
+    },
+    {
+      "word": "baat",
+      "startSec": 98.233,
+      "endSec": 98.6
+    },
+    {
+      "word": "to",
+      "startSec": 98.6,
+      "endSec": 98.967
+    },
+    {
+      "word": "ye",
+      "startSec": 98.967,
+      "endSec": 99.333
+    },
+    {
+      "word": "hai",
+      "startSec": 99.333,
+      "endSec": 99.7
+    },
+    {
+      "word": "ki",
+      "startSec": 99.7,
+      "endSec": 100.067
+    },
+    {
+      "word": "jab",
+      "startSec": 100.067,
+      "endSec": 100.433
+    },
+    {
+      "word": "unki",
+      "startSec": 100.433,
+      "endSec": 100.8
+    },
+    {
+      "word": "death",
+      "startSec": 100.8,
+      "endSec": 101.167
+    },
+    {
+      "word": "hui",
+      "startSec": 101.167,
+      "endSec": 101.533
+    },
+    {
+      "word": "1593",
+      "startSec": 101.533,
+      "endSec": 101.9
+    },
+    {
+      "word": "mein",
+      "startSec": 101.9,
+      "endSec": 102.267
+    },
+    {
+      "word": "to",
+      "startSec": 102.267,
+      "endSec": 102.633
+    },
+    {
+      "word": "kisi",
+      "startSec": 102.633,
+      "endSec": 103.0
+    },
+    {
+      "word": "ko",
+      "startSec": 103.0,
+      "endSec": 103.367
+    },
+    {
+      "word": "nahin",
+      "startSec": 103.367,
+      "endSec": 103.733
+    },
+    {
+      "word": "pata",
+      "startSec": 103.733,
+      "endSec": 104.1
+    },
+    {
+      "word": "ki",
+      "startSec": 104.1,
+      "endSec": 104.467
+    },
+    {
+      "word": "unki",
+      "startSec": 104.467,
+      "endSec": 104.833
+    },
+    {
+      "word": "death",
+      "startSec": 104.833,
+      "endSec": 105.2
+    },
+    {
+      "word": "ka",
+      "startSec": 105.2,
+      "endSec": 105.593
+    },
+    {
+      "word": "exact",
+      "startSec": 105.593,
+      "endSec": 105.986
+    },
+    {
+      "word": "reason",
+      "startSec": 105.986,
+      "endSec": 106.379
+    },
+    {
+      "word": "kya",
+      "startSec": 106.379,
+      "endSec": 106.771
+    },
+    {
+      "word": "tha",
+      "startSec": 106.771,
+      "endSec": 107.164
+    },
+    {
+      "word": "unki",
+      "startSec": 107.164,
+      "endSec": 107.557
+    },
+    {
+      "word": "death",
+      "startSec": 107.557,
+      "endSec": 107.95
+    },
+    {
+      "word": "mysterious",
+      "startSec": 107.95,
+      "endSec": 108.343
+    },
+    {
+      "word": "thi",
+      "startSec": 108.343,
+      "endSec": 108.736
+    },
+    {
+      "word": "sirf",
+      "startSec": 108.736,
+      "endSec": 109.129
+    },
+    {
+      "word": "29",
+      "startSec": 109.129,
+      "endSec": 109.521
+    },
+    {
+      "word": "saal",
+      "startSec": 109.521,
+      "endSec": 109.914
+    },
+    {
+      "word": "ki",
+      "startSec": 109.914,
+      "endSec": 110.307
+    },
+    {
+      "word": "unhone",
+      "startSec": 110.307,
+      "endSec": 110.7
+    },
+    {
+      "word": "zindagi",
+      "startSec": 110.7,
+      "endSec": 111.093
+    },
+    {
+      "word": "ji",
+      "startSec": 111.093,
+      "endSec": 111.486
+    },
+    {
+      "word": "aur",
+      "startSec": 111.486,
+      "endSec": 111.879
+    },
+    {
+      "word": "us",
+      "startSec": 111.879,
+      "endSec": 112.271
+    },
+    {
+      "word": "29",
+      "startSec": 112.271,
+      "endSec": 112.664
+    },
+    {
+      "word": "years",
+      "startSec": 112.664,
+      "endSec": 113.057
+    },
+    {
+      "word": "mein",
+      "startSec": 113.057,
+      "endSec": 113.45
+    },
+    {
+      "word": "unhone",
+      "startSec": 113.45,
+      "endSec": 113.843
+    },
+    {
+      "word": "English",
+      "startSec": 113.843,
+      "endSec": 114.236
+    },
+    {
+      "word": "drama",
+      "startSec": 114.236,
+      "endSec": 114.629
+    },
+    {
+      "word": "ko",
+      "startSec": 114.629,
+      "endSec": 115.021
+    },
+    {
+      "word": "completely",
+      "startSec": 115.021,
+      "endSec": 115.414
+    },
+    {
+      "word": "change",
+      "startSec": 115.414,
+      "endSec": 115.807
+    },
+    {
+      "word": "kiya",
+      "startSec": 115.807,
+      "endSec": 116.2
+    },
+    {
+      "word": "change",
+      "startSec": 116.2,
+      "endSec": 116.461
+    },
+    {
+      "word": "kar",
+      "startSec": 116.461,
+      "endSec": 116.722
+    },
+    {
+      "word": "diya",
+      "startSec": 116.722,
+      "endSec": 116.983
+    },
+    {
+      "word": "unhone",
+      "startSec": 116.983,
+      "endSec": 117.243
+    },
+    {
+      "word": "writers",
+      "startSec": 117.243,
+      "endSec": 117.504
+    },
+    {
+      "word": "ko",
+      "startSec": 117.504,
+      "endSec": 117.765
+    },
+    {
+      "word": "dikhaiya",
+      "startSec": 117.765,
+      "endSec": 118.026
+    },
+    {
+      "word": "ki",
+      "startSec": 118.026,
+      "endSec": 118.287
+    },
+    {
+      "word": "drama",
+      "startSec": 118.287,
+      "endSec": 118.548
+    },
+    {
+      "word": "sirf",
+      "startSec": 118.548,
+      "endSec": 118.809
+    },
+    {
+      "word": "entertainment",
+      "startSec": 118.809,
+      "endSec": 119.07
+    },
+    {
+      "word": "nahin",
+      "startSec": 119.07,
+      "endSec": 119.33
+    },
+    {
+      "word": "hota",
+      "startSec": 119.33,
+      "endSec": 119.591
+    },
+    {
+      "word": "lekin",
+      "startSec": 119.591,
+      "endSec": 119.852
+    },
+    {
+      "word": "deep",
+      "startSec": 119.852,
+      "endSec": 120.113
+    },
+    {
+      "word": "ideas",
+      "startSec": 120.113,
+      "endSec": 120.374
+    },
+    {
+      "word": "ko",
+      "startSec": 120.374,
+      "endSec": 120.635
+    },
+    {
+      "word": "explore",
+      "startSec": 120.635,
+      "endSec": 120.896
+    },
+    {
+      "word": "karna",
+      "startSec": 120.896,
+      "endSec": 121.157
+    },
+    {
+      "word": "bhi",
+      "startSec": 121.157,
+      "endSec": 121.417
+    },
+    {
+      "word": "hota",
+      "startSec": 121.417,
+      "endSec": 121.678
+    },
+    {
+      "word": "hai",
+      "startSec": 121.678,
+      "endSec": 121.939
+    },
+    {
+      "word": "aur",
+      "startSec": 121.939,
+      "endSec": 122.2
+    },
+    {
+      "word": "ye",
+      "startSec": 122.2,
+      "endSec": 122.629
+    },
+    {
+      "word": "sab",
+      "startSec": 122.629,
+      "endSec": 123.057
+    },
+    {
+      "word": "aapko",
+      "startSec": 123.057,
+      "endSec": 123.486
+    },
+    {
+      "word": "unke",
+      "startSec": 123.486,
+      "endSec": 123.914
+    },
+    {
+      "word": "play",
+      "startSec": 123.914,
+      "endSec": 124.343
+    },
+    {
+      "word": "mein",
+      "startSec": 124.343,
+      "endSec": 124.771
+    },
+    {
+      "word": "Doctor",
+      "startSec": 124.771,
+      "endSec": 125.2
+    },
+    {
+      "word": "Faustus",
+      "startSec": 125.2,
+      "endSec": 125.629
+    },
+    {
+      "word": "mein",
+      "startSec": 125.629,
+      "endSec": 126.057
+    },
+    {
+      "word": "acche",
+      "startSec": 126.057,
+      "endSec": 126.486
+    },
+    {
+      "word": "se",
+      "startSec": 126.486,
+      "endSec": 126.914
+    },
+    {
+      "word": "dikhega",
+      "startSec": 126.914,
+      "endSec": 127.343
+    },
+    {
+      "word": "to",
+      "startSec": 127.343,
+      "endSec": 127.771
+    },
+    {
+      "word": "Doctor",
+      "startSec": 127.771,
+      "endSec": 128.2
+    },
+    {
+      "word": "Faustus",
+      "startSec": 128.2,
+      "endSec": 128.57
+    },
+    {
+      "word": "jo",
+      "startSec": 128.57,
+      "endSec": 128.941
+    },
+    {
+      "word": "hai",
+      "startSec": 128.941,
+      "endSec": 129.311
+    },
+    {
+      "word": "wo",
+      "startSec": 129.311,
+      "endSec": 129.681
+    },
+    {
+      "word": "Marlowe",
+      "startSec": 129.681,
+      "endSec": 130.052
+    },
+    {
+      "word": "ka",
+      "startSec": 130.052,
+      "endSec": 130.422
+    },
+    {
+      "word": "sabse",
+      "startSec": 130.422,
+      "endSec": 130.793
+    },
+    {
+      "word": "famous",
+      "startSec": 130.793,
+      "endSec": 131.163
+    },
+    {
+      "word": "play",
+      "startSec": 131.163,
+      "endSec": 131.533
+    },
+    {
+      "word": "hai",
+      "startSec": 131.533,
+      "endSec": 131.904
+    },
+    {
+      "word": "aaj",
+      "startSec": 131.904,
+      "endSec": 132.274
+    },
+    {
+      "word": "tak",
+      "startSec": 132.274,
+      "endSec": 132.644
+    },
+    {
+      "word": "ka",
+      "startSec": 132.644,
+      "endSec": 133.015
+    },
+    {
+      "word": "aur",
+      "startSec": 133.015,
+      "endSec": 133.385
+    },
+    {
+      "word": "ye",
+      "startSec": 133.385,
+      "endSec": 133.756
+    },
+    {
+      "word": "ek",
+      "startSec": 133.756,
+      "endSec": 134.126
+    },
+    {
+      "word": "bahut",
+      "startSec": 134.126,
+      "endSec": 134.496
+    },
+    {
+      "word": "hi",
+      "startSec": 134.496,
+      "endSec": 134.867
+    },
+    {
+      "word": "tragic",
+      "startSec": 134.867,
+      "endSec": 135.237
+    },
+    {
+      "word": "story",
+      "startSec": 135.237,
+      "endSec": 135.607
+    },
+    {
+      "word": "hai",
+      "startSec": 135.607,
+      "endSec": 135.978
+    },
+    {
+      "word": "ek",
+      "startSec": 135.978,
+      "endSec": 136.348
+    },
+    {
+      "word": "scholar",
+      "startSec": 136.348,
+      "endSec": 136.719
+    },
+    {
+      "word": "ki",
+      "startSec": 136.719,
+      "endSec": 137.089
+    },
+    {
+      "word": "jiska",
+      "startSec": 137.089,
+      "endSec": 137.459
+    },
+    {
+      "word": "naam",
+      "startSec": 137.459,
+      "endSec": 137.83
+    },
+    {
+      "word": "hai",
+      "startSec": 137.83,
+      "endSec": 138.2
+    },
+    {
+      "word": "Faustus",
+      "startSec": 138.2,
+      "endSec": 138.612
+    },
+    {
+      "word": "Faustus",
+      "startSec": 138.612,
+      "endSec": 139.024
+    },
+    {
+      "word": "ke",
+      "startSec": 139.024,
+      "endSec": 139.435
+    },
+    {
+      "word": "paas",
+      "startSec": 139.435,
+      "endSec": 139.847
+    },
+    {
+      "word": "sab",
+      "startSec": 139.847,
+      "endSec": 140.259
+    },
+    {
+      "word": "kuch",
+      "startSec": 140.259,
+      "endSec": 140.671
+    },
+    {
+      "word": "tha",
+      "startSec": 140.671,
+      "endSec": 141.082
+    },
+    {
+      "word": "lekin",
+      "startSec": 141.082,
+      "endSec": 141.494
+    },
+    {
+      "word": "uske",
+      "startSec": 141.494,
+      "endSec": 141.906
+    },
+    {
+      "word": "baawajood",
+      "startSec": 141.906,
+      "endSec": 142.318
+    },
+    {
+      "word": "use",
+      "startSec": 142.318,
+      "endSec": 142.729
+    },
+    {
+      "word": "unlimited",
+      "startSec": 142.729,
+      "endSec": 143.141
+    },
+    {
+      "word": "power",
+      "startSec": 143.141,
+      "endSec": 143.553
+    },
+    {
+      "word": "aur",
+      "startSec": 143.553,
+      "endSec": 143.965
+    },
+    {
+      "word": "knowledge",
+      "startSec": 143.965,
+      "endSec": 144.376
+    },
+    {
+      "word": "chahiye",
+      "startSec": 144.376,
+      "endSec": 144.788
+    },
+    {
+      "word": "thi",
+      "startSec": 144.788,
+      "endSec": 145.2
+    },
+    {
+      "word": "aur",
+      "startSec": 145.2,
+      "endSec": 145.518
+    },
+    {
+      "word": "is",
+      "startSec": 145.518,
+      "endSec": 145.836
+    },
+    {
+      "word": "unlimited",
+      "startSec": 145.836,
+      "endSec": 146.155
+    },
+    {
+      "word": "power",
+      "startSec": 146.155,
+      "endSec": 146.473
+    },
+    {
+      "word": "aur",
+      "startSec": 146.473,
+      "endSec": 146.791
+    },
+    {
+      "word": "knowledge",
+      "startSec": 146.791,
+      "endSec": 147.109
+    },
+    {
+      "word": "ko",
+      "startSec": 147.109,
+      "endSec": 147.427
+    },
+    {
+      "word": "pane",
+      "startSec": 147.427,
+      "endSec": 147.745
+    },
+    {
+      "word": "ke",
+      "startSec": 147.745,
+      "endSec": 148.064
+    },
+    {
+      "word": "liye",
+      "startSec": 148.064,
+      "endSec": 148.382
+    },
+    {
+      "word": "wo",
+      "startSec": 148.382,
+      "endSec": 148.7
+    },
+    {
+      "word": "apni",
+      "startSec": 148.7,
+      "endSec": 149.018
+    },
+    {
+      "word": "soul",
+      "startSec": 149.018,
+      "endSec": 149.336
+    },
+    {
+      "word": "devil",
+      "startSec": 149.336,
+      "endSec": 149.655
+    },
+    {
+      "word": "ko",
+      "startSec": 149.655,
+      "endSec": 149.973
+    },
+    {
+      "word": "bech",
+      "startSec": 149.973,
+      "endSec": 150.291
+    },
+    {
+      "word": "deta",
+      "startSec": 150.291,
+      "endSec": 150.609
+    },
+    {
+      "word": "hai",
+      "startSec": 150.609,
+      "endSec": 150.927
+    },
+    {
+      "word": "24",
+      "startSec": 150.927,
+      "endSec": 151.245
+    },
+    {
+      "word": "saal",
+      "startSec": 151.245,
+      "endSec": 151.564
+    },
+    {
+      "word": "ke",
+      "startSec": 151.564,
+      "endSec": 151.882
+    },
+    {
+      "word": "liye",
+      "startSec": 151.882,
+      "endSec": 152.2
+    },
+    {
+      "word": "uske",
+      "startSec": 152.2,
+      "endSec": 152.564
+    },
+    {
+      "word": "badle",
+      "startSec": 152.564,
+      "endSec": 152.927
+    },
+    {
+      "word": "use",
+      "startSec": 152.927,
+      "endSec": 153.291
+    },
+    {
+      "word": "devil",
+      "startSec": 153.291,
+      "endSec": 153.655
+    },
+    {
+      "word": "jo",
+      "startSec": 153.655,
+      "endSec": 154.018
+    },
+    {
+      "word": "hai",
+      "startSec": 154.018,
+      "endSec": 154.382
+    },
+    {
+      "word": "magical",
+      "startSec": 154.382,
+      "endSec": 154.745
+    },
+    {
+      "word": "powers",
+      "startSec": 154.745,
+      "endSec": 155.109
+    },
+    {
+      "word": "deta",
+      "startSec": 155.109,
+      "endSec": 155.473
+    },
+    {
+      "word": "hai",
+      "startSec": 155.473,
+      "endSec": 155.836
+    },
+    {
+      "word": "shuru",
+      "startSec": 155.836,
+      "endSec": 156.2
+    },
+    {
+      "word": "mein",
+      "startSec": 156.2,
+      "endSec": 156.4
+    },
+    {
+      "word": "wo",
+      "startSec": 156.4,
+      "endSec": 156.6
+    },
+    {
+      "word": "apne",
+      "startSec": 156.6,
+      "endSec": 156.8
+    },
+    {
+      "word": "powers",
+      "startSec": 156.8,
+      "endSec": 157.0
+    },
+    {
+      "word": "ko",
+      "startSec": 157.0,
+      "endSec": 157.2
+    },
+    {
+      "word": "bahut",
+      "startSec": 157.2,
+      "endSec": 157.4
+    },
+    {
+      "word": "enjoy",
+      "startSec": 157.4,
+      "endSec": 157.6
+    },
+    {
+      "word": "karta",
+      "startSec": 157.6,
+      "endSec": 157.8
+    },
+    {
+      "word": "hai",
+      "startSec": 157.8,
+      "endSec": 158.0
+    },
+    {
+      "word": "lekin",
+      "startSec": 158.0,
+      "endSec": 158.2
+    },
+    {
+      "word": "jaise",
+      "startSec": 158.2,
+      "endSec": 158.581
+    },
+    {
+      "word": "jaise",
+      "startSec": 158.581,
+      "endSec": 158.962
+    },
+    {
+      "word": "uske",
+      "startSec": 158.962,
+      "endSec": 159.343
+    },
+    {
+      "word": "24",
+      "startSec": 159.343,
+      "endSec": 159.724
+    },
+    {
+      "word": "saal",
+      "startSec": 159.724,
+      "endSec": 160.105
+    },
+    {
+      "word": "khatm",
+      "startSec": 160.105,
+      "endSec": 160.486
+    },
+    {
+      "word": "hone",
+      "startSec": 160.486,
+      "endSec": 160.867
+    },
+    {
+      "word": "lagte",
+      "startSec": 160.867,
+      "endSec": 161.248
+    },
+    {
+      "word": "hain",
+      "startSec": 161.248,
+      "endSec": 161.629
+    },
+    {
+      "word": "wo",
+      "startSec": 161.629,
+      "endSec": 162.01
+    },
+    {
+      "word": "un",
+      "startSec": 162.01,
+      "endSec": 162.39
+    },
+    {
+      "word": "powers",
+      "startSec": 162.39,
+      "endSec": 162.771
+    },
+    {
+      "word": "ko",
+      "startSec": 162.771,
+      "endSec": 163.152
+    },
+    {
+      "word": "gain",
+      "startSec": 163.152,
+      "endSec": 163.533
+    },
+    {
+      "word": "karne",
+      "startSec": 163.533,
+      "endSec": 163.914
+    },
+    {
+      "word": "mein",
+      "startSec": 163.914,
+      "endSec": 164.295
+    },
+    {
+      "word": "hi",
+      "startSec": 164.295,
+      "endSec": 164.676
+    },
+    {
+      "word": "regret",
+      "startSec": 164.676,
+      "endSec": 165.057
+    },
+    {
+      "word": "karta",
+      "startSec": 165.057,
+      "endSec": 165.438
+    },
+    {
+      "word": "hai",
+      "startSec": 165.438,
+      "endSec": 165.819
+    },
+    {
+      "word": "aur",
+      "startSec": 165.819,
+      "endSec": 166.2
+    },
+    {
+      "word": "jab",
+      "startSec": 166.2,
+      "endSec": 166.6
+    },
+    {
+      "word": "unka",
+      "startSec": 166.6,
+      "endSec": 167.0
+    },
+    {
+      "word": "end",
+      "startSec": 167.0,
+      "endSec": 167.4
+    },
+    {
+      "word": "ata",
+      "startSec": 167.4,
+      "endSec": 167.8
+    },
+    {
+      "word": "hai",
+      "startSec": 167.8,
+      "endSec": 168.2
+    },
+    {
+      "word": "to",
+      "startSec": 168.2,
+      "endSec": 168.45
+    },
+    {
+      "word": "use",
+      "startSec": 168.45,
+      "endSec": 168.7
+    },
+    {
+      "word": "end",
+      "startSec": 168.7,
+      "endSec": 168.95
+    },
+    {
+      "word": "mein",
+      "startSec": 168.95,
+      "endSec": 169.2
+    },
+    {
+      "word": "hell",
+      "startSec": 169.2,
+      "endSec": 169.45
+    },
+    {
+      "word": "mein",
+      "startSec": 169.45,
+      "endSec": 169.7
+    },
+    {
+      "word": "le",
+      "startSec": 169.7,
+      "endSec": 169.95
+    },
+    {
+      "word": "jaya",
+      "startSec": 169.95,
+      "endSec": 170.2
+    },
+    {
+      "word": "jata",
+      "startSec": 170.2,
+      "endSec": 170.486
+    },
+    {
+      "word": "hai",
+      "startSec": 170.486,
+      "endSec": 170.771
+    },
+    {
+      "word": "yeh",
+      "startSec": 170.771,
+      "endSec": 171.057
+    },
+    {
+      "word": "play",
+      "startSec": 171.057,
+      "endSec": 171.343
+    },
+    {
+      "word": "bahut",
+      "startSec": 171.343,
+      "endSec": 171.629
+    },
+    {
+      "word": "hi",
+      "startSec": 171.629,
+      "endSec": 171.914
+    },
+    {
+      "word": "important",
+      "startSec": 171.914,
+      "endSec": 172.2
+    },
+    {
+      "word": "lesson",
+      "startSec": 172.2,
+      "endSec": 172.486
+    },
+    {
+      "word": "hai",
+      "startSec": 172.486,
+      "endSec": 172.771
+    },
+    {
+      "word": "aur",
+      "startSec": 172.771,
+      "endSec": 173.057
+    },
+    {
+      "word": "yeh",
+      "startSec": 173.057,
+      "endSec": 173.343
+    },
+    {
+      "word": "lesson",
+      "startSec": 173.343,
+      "endSec": 173.629
+    },
+    {
+      "word": "hum",
+      "startSec": 173.629,
+      "endSec": 173.914
+    },
+    {
+      "word": "sab",
+      "startSec": 173.914,
+      "endSec": 174.2
+    },
+    {
+      "word": "ko",
+      "startSec": 174.2,
+      "endSec": 174.465
+    },
+    {
+      "word": "yaad",
+      "startSec": 174.465,
+      "endSec": 174.729
+    },
+    {
+      "word": "rakhna",
+      "startSec": 174.729,
+      "endSec": 174.994
+    },
+    {
+      "word": "chahiye",
+      "startSec": 174.994,
+      "endSec": 175.258
+    },
+    {
+      "word": "ki",
+      "startSec": 175.258,
+      "endSec": 175.523
+    },
+    {
+      "word": "ambition",
+      "startSec": 175.523,
+      "endSec": 175.788
+    },
+    {
+      "word": "hamari",
+      "startSec": 175.788,
+      "endSec": 176.052
+    },
+    {
+      "word": "life",
+      "startSec": 176.052,
+      "endSec": 176.317
+    },
+    {
+      "word": "mein",
+      "startSec": 176.317,
+      "endSec": 176.582
+    },
+    {
+      "word": "bahut",
+      "startSec": 176.582,
+      "endSec": 176.846
+    },
+    {
+      "word": "zaroori",
+      "startSec": 176.846,
+      "endSec": 177.111
+    },
+    {
+      "word": "hai",
+      "startSec": 177.111,
+      "endSec": 177.375
+    },
+    {
+      "word": "lekin",
+      "startSec": 177.375,
+      "endSec": 177.64
+    },
+    {
+      "word": "un",
+      "startSec": 177.64,
+      "endSec": 177.953
+    },
+    {
+      "word": "ambitions",
+      "startSec": 177.953,
+      "endSec": 178.266
+    },
+    {
+      "word": "ko",
+      "startSec": 178.266,
+      "endSec": 178.579
+    },
+    {
+      "word": "hume",
+      "startSec": 178.579,
+      "endSec": 178.891
+    },
+    {
+      "word": "control",
+      "startSec": 178.891,
+      "endSec": 179.204
+    },
+    {
+      "word": "se",
+      "startSec": 179.204,
+      "endSec": 179.517
+    },
+    {
+      "word": "bahar",
+      "startSec": 179.517,
+      "endSec": 179.83
+    },
+    {
+      "word": "nahin",
+      "startSec": 179.83,
+      "endSec": 180.143
+    },
+    {
+      "word": "ho",
+      "startSec": 180.143,
+      "endSec": 180.456
+    },
+    {
+      "word": "jane",
+      "startSec": 180.456,
+      "endSec": 180.769
+    },
+    {
+      "word": "dena",
+      "startSec": 180.769,
+      "endSec": 181.081
+    },
+    {
+      "word": "chahiye",
+      "startSec": 181.081,
+      "endSec": 181.394
+    },
+    {
+      "word": "kyunki",
+      "startSec": 181.394,
+      "endSec": 181.707
+    },
+    {
+      "word": "jab",
+      "startSec": 181.707,
+      "endSec": 182.02
+    },
+    {
+      "word": "wo",
+      "startSec": 182.3,
+      "endSec": 182.542
+    },
+    {
+      "word": "out",
+      "startSec": 182.542,
+      "endSec": 182.784
+    },
+    {
+      "word": "of",
+      "startSec": 182.784,
+      "endSec": 183.027
+    },
+    {
+      "word": "control",
+      "startSec": 183.027,
+      "endSec": 183.269
+    },
+    {
+      "word": "ho",
+      "startSec": 183.269,
+      "endSec": 183.511
+    },
+    {
+      "word": "jate",
+      "startSec": 183.511,
+      "endSec": 183.753
+    },
+    {
+      "word": "hain",
+      "startSec": 183.753,
+      "endSec": 183.996
+    },
+    {
+      "word": "to",
+      "startSec": 183.996,
+      "endSec": 184.238
+    },
+    {
+      "word": "wo",
+      "startSec": 184.238,
+      "endSec": 184.48
+    },
+    {
+      "word": "destruction",
+      "startSec": 184.52,
+      "endSec": 184.75
+    },
+    {
+      "word": "ban",
+      "startSec": 184.75,
+      "endSec": 184.98
+    },
+    {
+      "word": "jati",
+      "startSec": 184.98,
+      "endSec": 185.21
+    },
+    {
+      "word": "hai",
+      "startSec": 185.21,
+      "endSec": 185.44
+    },
+    {
+      "word": "to",
+      "startSec": 185.44,
+      "endSec": 185.67
+    },
+    {
+      "word": "ab",
+      "startSec": 185.67,
+      "endSec": 185.9
+    },
+    {
+      "word": "socho",
+      "startSec": 187.02,
+      "endSec": 187.42
+    },
+    {
+      "word": "ek",
+      "startSec": 187.42,
+      "endSec": 187.82
+    },
+    {
+      "word": "deal",
+      "startSec": 188.06,
+      "endSec": 188.33
+    },
+    {
+      "word": "24",
+      "startSec": 188.33,
+      "endSec": 188.6
+    },
+    {
+      "word": "saal",
+      "startSec": 188.6,
+      "endSec": 188.87
+    },
+    {
+      "word": "ki",
+      "startSec": 188.87,
+      "endSec": 189.14
+    },
+    {
+      "word": "unlimited",
+      "startSec": 189.14,
+      "endSec": 189.41
+    },
+    {
+      "word": "power",
+      "startSec": 189.41,
+      "endSec": 189.68
+    },
+    {
+      "word": "aur",
+      "startSec": 189.68,
+      "endSec": 189.95
+    },
+    {
+      "word": "uske",
+      "startSec": 189.95,
+      "endSec": 190.22
+    },
+    {
+      "word": "bad",
+      "startSec": 190.64,
+      "endSec": 190.93
+    },
+    {
+      "word": "life",
+      "startSec": 190.93,
+      "endSec": 191.22
+    },
+    {
+      "word": "time",
+      "startSec": 191.22,
+      "endSec": 191.51
+    },
+    {
+      "word": "regret",
+      "startSec": 191.51,
+      "endSec": 191.8
+    },
+    {
+      "word": "yeh",
+      "startSec": 191.8,
+      "endSec": 192.09
+    },
+    {
+      "word": "Doctor",
+      "startSec": 192.09,
+      "endSec": 192.38
+    },
+    {
+      "word": "Faustus",
+      "startSec": 192.84,
+      "endSec": 193.083
+    },
+    {
+      "word": "ki",
+      "startSec": 193.083,
+      "endSec": 193.327
+    },
+    {
+      "word": "story",
+      "startSec": 193.327,
+      "endSec": 193.57
+    },
+    {
+      "word": "hai",
+      "startSec": 193.57,
+      "endSec": 193.813
+    },
+    {
+      "word": "next",
+      "startSec": 193.813,
+      "endSec": 194.057
+    },
+    {
+      "word": "video",
+      "startSec": 194.057,
+      "endSec": 194.3
+    },
+    {
+      "word": "mein",
+      "startSec": 194.3,
+      "endSec": 194.744
+    },
+    {
+      "word": "hum",
+      "startSec": 194.744,
+      "endSec": 195.187
+    },
+    {
+      "word": "log",
+      "startSec": 195.187,
+      "endSec": 195.631
+    },
+    {
+      "word": "act",
+      "startSec": 195.631,
+      "endSec": 196.075
+    },
+    {
+      "word": "one",
+      "startSec": 196.075,
+      "endSec": 196.518
+    },
+    {
+      "word": "break",
+      "startSec": 196.518,
+      "endSec": 196.962
+    },
+    {
+      "word": "down",
+      "startSec": 196.962,
+      "endSec": 197.405
+    },
+    {
+      "word": "karne",
+      "startSec": 197.405,
+      "endSec": 197.849
+    },
+    {
+      "word": "wale",
+      "startSec": 197.849,
+      "endSec": 198.293
+    },
+    {
+      "word": "hain",
+      "startSec": 198.293,
+      "endSec": 198.736
+    },
+    {
+      "word": "so",
+      "startSec": 198.736,
+      "endSec": 199.18
+    },
+    {
+      "word": "if",
+      "startSec": 199.18,
+      "endSec": 199.627
+    },
+    {
+      "word": "you",
+      "startSec": 199.627,
+      "endSec": 200.073
+    },
+    {
+      "word": "want",
+      "startSec": 200.073,
+      "endSec": 200.52
+    },
+    {
+      "word": "to",
+      "startSec": 200.52,
+      "endSec": 200.967
+    },
+    {
+      "word": "learn",
+      "startSec": 200.967,
+      "endSec": 201.413
+    },
+    {
+      "word": "more",
+      "startSec": 201.413,
+      "endSec": 201.86
+    },
+    {
+      "word": "about",
+      "startSec": 201.86,
+      "endSec": 202.307
+    },
+    {
+      "word": "this",
+      "startSec": 202.307,
+      "endSec": 202.753
+    },
+    {
+      "word": "play",
+      "startSec": 202.753,
+      "endSec": 203.2
+    },
+    {
+      "word": "then",
+      "startSec": 203.2,
+      "endSec": 203.513
+    },
+    {
+      "word": "please",
+      "startSec": 203.513,
+      "endSec": 203.825
+    },
+    {
+      "word": "make",
+      "startSec": 203.825,
+      "endSec": 204.138
+    },
+    {
+      "word": "sure",
+      "startSec": 204.138,
+      "endSec": 204.451
+    },
+    {
+      "word": "to",
+      "startSec": 204.451,
+      "endSec": 204.764
+    },
+    {
+      "word": "subscribe",
+      "startSec": 204.764,
+      "endSec": 205.076
+    },
+    {
+      "word": "my",
+      "startSec": 205.076,
+      "endSec": 205.389
+    },
+    {
+      "word": "YouTube",
+      "startSec": 205.389,
+      "endSec": 205.702
+    },
+    {
+      "word": "channel",
+      "startSec": 205.702,
+      "endSec": 206.015
+    },
+    {
+      "word": "tab",
+      "startSec": 206.015,
+      "endSec": 206.327
+    },
+    {
+      "word": "tak",
+      "startSec": 206.327,
+      "endSec": 206.64
+    },
+    {
+      "word": "ke",
+      "startSec": 206.64,
+      "endSec": 207.005
+    },
+    {
+      "word": "liye",
+      "startSec": 207.005,
+      "endSec": 207.37
+    },
+    {
+      "word": "bye",
+      "startSec": 207.37,
+      "endSec": 207.735
+    },
+    {
+      "word": "bye",
+      "startSec": 207.735,
+      "endSec": 208.1
+    }
+  ],
+  "totalDurationSec": 208.448,
+  "fps": 30,
+  "wordsPerScreen": 18,
+  "bgColor": "#F5F4F0",
+  "textActive": "#1A1A1A",
+  "textPast": "#AAAAAA",
+  "textFuture": "#CCCCCC",
+  "fontSize": 52,
+  "fontFamily": "Georgia, 'Times New Roman', serif"
+}

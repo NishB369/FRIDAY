@@ -8,3 +8,5 @@ yt-data-extractor/node_modules/
 .claude/settings.local.json
 tlt/client_secrets.json
 tlt/.yt_token.json
+
+.env

@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>TLT — Dual Transcript Review (Sarvam + Groq)</title>
+  <style>
+    body { font-family: -apple-system, system-ui, sans-serif; margin: 24px; background: #fafafa; color: #1a1a1a; }
+    h1 { font-size: 20px; margin: 0 0 16px; }
+    .sub { color: #666; font-size: 13px; margin-bottom: 20px; }
+    table { border-collapse: collapse; width: 100%; background: #fff; }
+    th, td { border: 1px solid #ddd; padding: 12px; vertical-align: top; text-align: left; }
+    th { background: #f0f0f0; font-size: 13px; }
+    .sn { width: 40px; text-align: center; color: #888; }
+    .audio-cell { width: 320px; }
+    .fname { font-size: 12px; font-weight: 600; word-break: break-all; margin-bottom: 6px; }
+    .tname { font-size: 11px; color: #888; margin-top: 6px; word-break: break-all; }
+    audio { width: 100%; }
+    .out .meta { font-size: 11px; color: #555; margin-bottom: 8px; }
+    .out .text { font-size: 14px; line-height: 1.55; white-space: pre-wrap; margin-bottom: 12px; }
+    .words summary { cursor: pointer; font-size: 12px; color: #555; }
+    .chips { margin-top: 8px; line-height: 2.2; }
+    .chip { display: inline-block; background: #eef3ff; border: 1px solid #c5d3f0; border-radius: 4px;
+             padding: 2px 6px; margin: 0 4px 4px 0; font-size: 13px; }
+    .chip small { color: #888; font-size: 9px; margin-left: 4px; vertical-align: top; }
+  </style>
+</head>
+<body>
+  <h1>TLT — Dual Transcript Review</h1>
+  <div class="sub">2 clip(s) · text from Sarvam (saaras:v3) · word timing from Groq (whisper-large-v3) · aligned proportionally</div>
+  <table>
+    <thead><tr><th>#</th><th>Audio</th><th>Transcript + Word Timing</th></tr></thead>
+    <tbody>
+      
+        <tr>
+          <td class="sn">1</td>
+          <td class="audio-cell">
+            <div class="fname">sultanas_dream_0-29s.mp3</div>
+            <audio controls preload="none" src="../audios/sultanas_dream_0-29s.mp3"></audio>
+            <div class="tname">transcript: sultanas_dream_0-29s_dual.json</div>
+          </td>
+          <td class="out">
+            <div class="meta">87 words · 29.0s · sarvam-text + groq-timing</div>
+            <div class="text">हेलो एवरीवन एंड वेलकम बैक टू माय YouTube चैनल द लिटरेचर टॉक्स एंड आई होप आप सब लोग ठीक होंगे। आज की इस वीडियो में हम लोग जिस पोयम के बारे में डिस्कस करने जा रहे हैं, उसका नाम है सुल्तानाज ड्रीम। यह पोयम रुकिया सखावत हुसैन ने लिखी है। सुल्तानाज ड्रीम जो पोयम है, यह पब्लिश की गई थी इंडियन लेडीज मैगजीन में मद्रास में 1905 में इंग्लिश लैंग्वेज में। और इसे बाद में 2005 में ट्रांसलेट किया गया क्योंकि इसमें बहुत सारे उर्दू वर्ड्स भी</div>
+            <details class="words"><summary>word-level timing (87 words)</summary>
+              <div class="chips"><span class="chip" title="0.00s – 0.30s">हेलो<small>0.0</small></span><span class="chip" title="0.00s – 0.64s">एवरीवन<small>0.0</small></span><span class="chip" title="0.30s – 0.82s">एंड<small>0.3</small></span><span class="chip" title="0.64s – 0.98s">वेलकम<small>0.6</small></span><span class="chip" title="0.82s – 1.20s">बैक<small>0.8</small></span><span class="chip" title="0.98s – 1.30s">टू<small>1.0</small></span><span class="chip" title="1.20s – 1.30s">माय<small>1.2</small></span><span class="chip" title="1.20s – 1.42s">YouTube<small>1.2</small></span><span class="chip" title="1.30s – 1.66s">चैनल<small>1.3</small></span><span class="chip" title="1.42s – 2.00s">द<small>1.4</small></span><span class="chip" title="1.66s – 2.28s">लिटरेचर<small>1.7</small></span><span class="chip" title="2.00s – 2.66s">टॉक्स<small>2.0</small></span><span class="chip" title="2.28s – 2.66s">एंड<small>2.3</small></span><span class="chip" title="2.28s – 3.06s">आई<small>2.3</small></span><span class="chip" title="2.66s – 3.26s">होप<small>2.7</small></span><span class="chip" title="3.06s – 3.52s">आप<small>3.1</small></span><span class="chip" title="3.26s – 3.64s">सब<small>3.3</small></span><span class="chip" title="3.52s – 3.96s">लोग<small>3.5</small></span><span class="chip" title="3.64s – 3.96s">ठीक<small>3.6</small></span><span class="chip" title="3.64s – 4.04s">होंगे।<small>3.6</small></span><span class="chip" title="3.96s – 4.20s">आज<small>4.0</small></span><span class="chip" title="4.04s – 4.22s">की<small>4.0</small></span><span class="chip" title="4.20s – 4.26s">इस<small>4.2</small></span><span class="chip" title="4.22s – 5.06s">वीडियो<small>4.2</small></span><span class="chip" title="4.42s – 5.06s">में<small>4.4</small></span><span class="chip" title="4.42s – 5.20s">हम<small>4.4</small></span><span class="chip" title="5.06s – 5.70s">लोग<small>5.1</small></span><span class="chip" title="5.20s – 6.32s">जिस<small>5.2</small></span><span class="chip" title="6.16s – 6.50s">पोयम<small>6.2</small></span><span class="chip" title="6.32s – 6.52s">के<small>6.3</small></span><span class="chip" title="6.50s – 6.54s">बारे<small>6.5</small></span><span class="chip" title="6.52s – 6.54s">में<small>6.5</small></span><span class="chip" title="6.52s – 6.56s">डिस्कस<small>6.5</small></span><span class="chip" title="6.54s – 8.40s">करने<small>6.5</small></span><span class="chip" title="8.38s – 8.42s">जा<small>8.4</small></span><span class="chip" title="8.40s – 8.44s">रहे<small>8.4</small></span><span class="chip" title="8.42s – 9.30s">हैं,<small>8.4</small></span><span class="chip" title="8.44s – 9.30s">उसका<small>8.4</small></span><span class="chip" title="8.44s – 10.56s">नाम<small>8.4</small></span><span class="chip" title="9.88s – 10.70s">है<small>9.9</small></span><span class="chip" title="10.56s – 11.58s">सुल्तानाज<small>10.6</small></span><span class="chip" title="11.44s – 11.84s">ड्रीम।<small>11.4</small></span><span class="chip" title="11.58s – 11.92s">यह<small>11.6</small></span><span class="chip" title="11.84s – 11.92s">पोयम<small>11.8</small></span><span class="chip" title="11.84s – 11.94s">रुकिया<small>11.8</small></span><span class="chip" title="11.92s – 11.96s">सखावत<small>11.9</small></span><span class="chip" title="11.94s – 12.30s">हुसैन<small>11.9</small></span><span class="chip" title="11.96s – 12.72s">ने<small>12.0</small></span><span class="chip" title="12.30s – 13.12s">लिखी<small>12.3</small></span><span class="chip" title="12.72s – 13.12s">है।<small>12.7</small></span><span class="chip" title="12.72s – 14.64s">सुल्तानाज<small>12.7</small></span><span class="chip" title="13.98s – 14.78s">ड्रीम<small>14.0</small></span><span class="chip" title="14.64s – 15.58s">जो<small>14.6</small></span><span class="chip" title="14.78s – 15.98s">पोयम<small>14.8</small></span><span class="chip" title="15.58s – 16.70s">है,<small>15.6</small></span><span class="chip" title="16.24s – 16.70s">यह<small>16.2</small></span><span class="chip" title="16.24s – 17.00s">पब्लिश<small>16.2</small></span><span class="chip" title="16.70s – 17.36s">की<small>16.7</small></span><span class="chip" title="17.00s – 17.80s">गई<small>17.0</small></span><span class="chip" title="17.36s – 18.22s">थी<small>17.4</small></span><span class="chip" title="17.96s – 18.64s">इंडियन<small>18.0</small></span><span class="chip" title="18.22s – 18.84s">लेडीज<small>18.2</small></span><span class="chip" title="18.64s – 18.84s">मैगजीन<small>18.6</small></span><span class="chip" title="18.64s – 19.72s">में<small>18.6</small></span><span class="chip" title="18.84s – 20.42s">मद्रास<small>18.8</small></span><span class="chip" title="19.98s – 20.70s">में<small>20.0</small></span><span class="chip" title="20.42s – 21.28s">1905<small>20.4</small></span><span class="chip" title="20.70s – 22.52s">में<small>20.7</small></span><span class="chip" title="22.18s – 22.52s">इंग्लिश<small>22.2</small></span><span class="chip" title="22.18s – 22.86s">लैंग्वेज<small>22.2</small></span><span class="chip" title="22.52s – 23.06s">में।<small>22.5</small></span><span class="chip" title="22.86s – 23.28s">और<small>22.9</small></span><span class="chip" title="23.06s – 23.44s">इसे<small>23.1</small></span><span class="chip" title="22.94s – 23.46s">बाद<small>22.9</small></span><span class="chip" title="23.44s – 23.46s">में<small>23.4</small></span><span class="chip" title="23.44s – 24.22s">2005<small>23.4</small></span><span class="chip" title="23.46s – 26.54s">में<small>23.5</small></span><span class="chip" title="25.72s – 26.92s">ट्रांसलेट<small>25.7</small></span><span class="chip" title="26.54s – 26.94s">किया<small>26.5</small></span><span class="chip" title="26.92s – 26.96s">गया<small>26.9</small></span><span class="chip" title="26.94s – 26.96s">क्योंकि<small>26.9</small></span><span class="chip" title="26.94s – 27.12s">इसमें<small>26.9</small></span><span class="chip" title="26.96s – 27.14s">बहुत<small>27.0</small></span><span class="chip" title="27.12s – 27.58s">सारे<small>27.1</small></span><span class="chip" title="27.14s – 28.28s">उर्दू<small>27.1</small></span><span class="chip" title="27.44s – 28.88s">वर्ड्स<small>27.4</small></span><span class="chip" title="28.28s – 28.88s">भी<small>28.3</small></span></div>
+            </details>
+          </td>
+        </tr>
+        
+        <tr>
+          <td class="sn">2</td>
+          <td class="audio-cell">
+            <div class="fname">sultanas_dream_0-30s.mp3</div>
+            <audio controls preload="none" src="../audios/sultanas_dream_0-30s.mp3"></audio>
+            <div class="tname">transcript: —</div>
+          </td>
+          <td class="out">
+            <div class="meta"></div>
+            <div class="text"><em>no transcript yet</em></div>
+            <details class="words"><summary>word-level timing (0 words)</summary>
+              <div class="chips"><em>no word-level timing</em></div>
+            </details>
+          </td>
+        </tr>
+        
+    </tbody>
+  </table>
+</body>
+</html>
