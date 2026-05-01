@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>TLT Comment Reply Generator</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+    background: #fafafa;
+    color: #111;
+    max-width: 860px;
+    margin: 40px auto;
+    padding: 0 24px;
+    line-height: 1.5;
+  }
+  h1 { font-size: 24px; margin-bottom: 4px; letter-spacing: -0.5px; }
+  .sub { color: #666; font-size: 14px; margin-bottom: 32px; }
+
+  .card {
+    background: #fff;
+    border: 2px dashed #e5e7eb;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+  }
+  label {
+    display: block;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #888;
+    margin-bottom: 8px;
+  }
+  textarea, input {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 14px;
+    font-family: inherit;
+    resize: vertical;
+    background: #fafafa;
+  }
+  textarea:focus, input:focus { outline: none; border-color: #ff5500; }
+
+  button {
+    background: #111;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 20px;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  button:hover { background: #ff5500; }
+  button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  .row { display: flex; gap: 8px; align-items: stretch; }
+  .row > textarea { flex: 1; }
+
+  .reply-box {
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+  .reply-text {
+    flex: 1;
+    background: #fff5f0;
+    border: 2px solid #ffd1b3;
+    border-radius: 8px;
+    padding: 14px 16px;
+    font-size: 15px;
+    line-height: 1.55;
+    white-space: pre-wrap;
+  }
+  .copy-btn {
+    background: #ff5500;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 0 16px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    align-self: stretch;
+    min-width: 80px;
+  }
+  .copy-btn.copied { background: #10b981; }
+
+  .api-key-row { display: flex; gap: 8px; align-items: center; }
+  .api-key-row input { flex: 1; }
+  .api-key-row button { white-space: nowrap; padding: 12px 14px; font-size: 12px; }
+
+  .err { color: #c00; font-size: 13px; margin-top: 8px; }
+  .hint { color: #888; font-size: 12px; margin-top: 6px; }
+
+  .lang-toggle { display: inline-flex; gap: 0; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; margin-left: 12px; vertical-align: middle; }
+  .lang-toggle button {
+    background: #fff; color: #555; border: none; border-right: 1px solid #ddd;
+    padding: 8px 14px; font-size: 12px; font-weight: 700; border-radius: 0;
+    cursor: pointer; transition: all 0.15s;
+  }
+  .lang-toggle button:last-child { border-right: none; }
+  .lang-toggle button.active { background: #ff5500; color: #fff; }
+  .lang-toggle button:hover:not(.active) { background: #fff5f0; color: #ff5500; }
+
+  /* Saved replies panel */
+  .saved-section { margin-top: 32px; }
+  .saved-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 16px;
+  }
+  .saved-header h2 { font-size: 18px; margin: 0; }
+  .saved-header .count {
+    background: #111; color: #fff; font-size: 11px; font-weight: 800;
+    padding: 2px 8px; border-radius: 999px; margin-left: 8px;
+  }
+  .clear-btn {
+    background: transparent; color: #888; border: 1px solid #ddd;
+    padding: 6px 12px; font-size: 11px; font-weight: 700;
+  }
+  .clear-btn:hover { background: #fee; color: #c00; border-color: #fcc; }
+
+  .filter-row {
+    display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px;
+  }
+  .filter-pill {
+    background: #fff; color: #555; border: 1px solid #ddd; border-radius: 999px;
+    padding: 5px 12px; font-size: 11px; font-weight: 700; cursor: pointer;
+    transition: all 0.15s;
+  }
+  .filter-pill.active { background: #111; color: #fff; border-color: #111; }
+  .filter-pill:hover:not(.active) { border-color: #ff5500; color: #ff5500; }
+
+  .saved-item {
+    background: #fff; border: 1px solid #eee; border-radius: 10px;
+    padding: 14px; margin-bottom: 10px; transition: border-color 0.15s;
+  }
+  .saved-item:hover { border-color: #ff5500; }
+  .saved-meta {
+    display: flex; align-items: center; gap: 8px; margin-bottom: 8px;
+    font-size: 11px; color: #888;
+  }
+  .saved-cat {
+    background: #fff5f0; color: #ff5500; border: 1px solid #ffd1b3;
+    padding: 2px 8px; border-radius: 999px; font-size: 10px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.5px;
+  }
+  .saved-comment {
+    background: #f7f7f7; border-left: 3px solid #ddd;
+    padding: 8px 10px; font-size: 12px; color: #555;
+    margin-bottom: 8px; border-radius: 4px; font-style: italic;
+  }
+  .saved-reply {
+    font-size: 14px; line-height: 1.5; color: #111; margin-bottom: 10px;
+    white-space: pre-wrap;
+  }
+  .saved-actions { display: flex; gap: 6px; }
+  .saved-actions button {
+    font-size: 11px; padding: 6px 12px; font-weight: 700;
+  }
+  .saved-actions .copy { background: #ff5500; color: #fff; }
+  .saved-actions .copy.copied { background: #10b981; }
+  .saved-actions .del { background: #fff; color: #888; border: 1px solid #ddd; }
+  .saved-actions .del:hover { background: #fee; color: #c00; border-color: #fcc; }
+  .saved-empty {
+    text-align: center; color: #aaa; font-size: 13px;
+    padding: 30px; font-style: italic;
+  }
+</style>
+</head>
+<body>
+
+<h1>TLT — Comment Reply Generator</h1>
+<div class="sub">Paste a YouTube comment, get a warm on-brand reply with a 5th May + subscribe CTA.</div>
+
+
+<!-- Input -->
+<div class="card">
+  <label>YouTube comment</label>
+  <textarea id="comment" rows="3" placeholder="e.g. Nice explanation ma'am, please come back soon"></textarea>
+  <div style="margin-top: 12px; display: flex; align-items: center; flex-wrap: wrap; gap: 8px;">
+    <button id="genBtn" onclick="generate()">Generate Reply</button>
+    <div class="lang-toggle">
+      <button data-lang="auto" class="active" onclick="setLang('auto')">Auto</button>
+      <button data-lang="en" onclick="setLang('en')">English</button>
+      <button data-lang="hi" onclick="setLang('hi')">Hinglish</button>
+    </div>
+    <span id="status" class="hint"></span>
+  </div>
+  <div id="err" class="err"></div>
+</div>
+
+<!-- Output -->
+<div class="card" id="replyCard" style="display:none;">
+  <label>Reply <span id="replyCat" style="margin-left: 8px;"></span></label>
+  <div class="reply-box">
+    <div class="reply-text" id="reply"></div>
+    <div style="display: flex; flex-direction: column; gap: 6px;">
+      <button class="copy-btn" id="copyBtn" onclick="copyReply()">Copy</button>
+      <button class="copy-btn" style="background: #555;" onclick="generate()">Regen</button>
+    </div>
+  </div>
+</div>
+
+<!-- Saved Replies -->
+<div class="saved-section">
+  <div class="saved-header">
+    <h2>Saved Replies <span class="count" id="savedCount">0</span></h2>
+    <button class="clear-btn" onclick="clearAllSaved()">Clear all</button>
+  </div>
+  <div class="filter-row" id="filterRow"></div>
+  <div id="savedList"></div>
+</div>
+
+<script src="config.local.js" onerror="void 0"></script>
+<script>
+const SYSTEM_PROMPT = `You are writing reply comments on behalf of "The Literature Talks" (@theliteraturetalks), a YouTube channel for Indian university and school students studying English literature (BA Eng Hons, Class 6-12, DU SOL, IGNOU). The channel is relaunching after a 2-year break.
+
+Your job: read a viewer's comment and write ONE short, warm reply.
+
+LANGUAGE DETECTION — DO THIS FIRST, BEFORE WRITING ANYTHING:
+
+Step 1: Read the comment and decide which language bucket it falls into.
+
+BUCKET A — ENGLISH ONLY (default — most comments are this):
+The comment is fully in English, even if short or with grammar mistakes. It uses NO Hindi words.
+Examples: "Nice explanation", "Thank you ma'am", "Great video", "From Bangladesh", "Please make video on Hamlet", "This helped me a lot", "Awesome content", "Very helpful for my exam".
+→ REPLY IN PURE ENGLISH. ZERO Hindi words. Do not switch to Hinglish.
+
+BUCKET B — HINGLISH (Hindi words written in Roman script):
+The comment contains Hindi words like: "aap", "kya", "hai", "kamal", "maza", "shukriya", "yaar", "bhai", "didi", "kal", "aaj", "paper", "kuch", "bhi", "nhi", "wrd to wrd", "padh", "sun", "bata", "samjha", "acha", "bahut", "thoda", "zara", "abhi", "humara", "tumhara", "mera", "tera", "uska", "iska", "wala", "wali", etc.
+Examples: "Itna kamal ka explanation", "Maza aa gaya", "2 bje paper hai", "Bahut acha samjhaya".
+→ REPLY IN HINGLISH (warm desi tone).
+
+BUCKET C — PURE HINDI (Devanagari script):
+The comment uses Devanagari letters (e.g. "बहुत अच्छा", "धन्यवाद").
+→ REPLY IN HINGLISH (Roman script Hindi).
+
+CRITICAL: When in doubt, default to BUCKET A (English). Most YouTube comments on this channel are in English. Do NOT add Hindi words to an English reply just because the channel is Indian. "Thank you ma'am" is English, not Hinglish.
+
+Mirror the energy: enthusiastic comment → enthusiastic reply, calm → calm.
+
+Voice rules:
+- Warm, grateful, exam-aware. Sound like a real didi/teacher who genuinely cares — not marketing.
+- VERY SHORT: 1 sentence ideally, max 2 short ones. 15-20 words. Never exceed 25.
+- 1 emoji max (💛 🙌 🥹 🙏 ❤️ are on-brand). Mirror their emojis if they used many.
+- NO markdown. No **bold**, no *italics*, no asterisks. Plain text only.
+- Write "5th May" as plain text.
+
+Required in every reply (work all three into one short sentence if possible):
+1. Acknowledge the comment briefly.
+2. Mention 5th May relaunch.
+3. Soft subscribe nudge.
+
+ENGLISH examples:
+- "Thank you so much! New videos drop from 5th May — subscribe so you catch them first 💛"
+- "So glad it helped! We're back from 5th May, hit subscribe to not miss it 🙌"
+- "Welcome from Bangladesh 💛 Big relaunch on 5th May — subscribe to be the first to know!"
+
+HINGLISH examples (use this kind of tone for Hinglish/Hindi comments):
+- "Aapka itna pyar dekh ke maza aa gaya 🥹 5th May se naye videos shuru — subscribe karna mat bhulna!"
+- "Bas aap logo ke pyaar ne hi wapas laaya hai 💛 5th May se phir se shuruat — subscribe zaroor karein!"
+- "Itna sweet comment 🥹 5th May se naye videos aa rahe hain — subscribe kar lijiye taaki miss na ho!"
+- "Shukriya itna 💛 Hum 5th May se wapas aa rahe hain — subscribe karke rakhna, exams mein kaam aayega!"
+- "Aapko pasand aaya yahi sab kuch hai 🙌 5th May se naya safar — subscribe karna mat bhoolna!"
+
+PAST TIME-SENSITIVE COMMENTS (very important):
+Many comments mention exams, papers, or events happening "today/tomorrow/in 2 hours" — but the comment is OLD. The exam is long over. Treat these in past tense and hope it went well.
+Examples of such comments: "2 bje paper hai aaj", "kal exam hai", "tomorrow paper", "exam ke pehle dekha", "5 mins before exam".
+
+For these comments:
+- Hope their exam/paper went well in past tense.
+- Hope the video helped them in that exam.
+- Then add the 5th May relaunch + subscribe nudge.
+
+Examples:
+- "Hope aapka paper acha gaya hoga 🤞 aur video se thodi help mili hogi 💛 5th May se naye videos — subscribe kar lijiye next exam mein kaam aayega!"
+- "Ummeed hai exam acha gaya hoga aur is video se kuch help mili hogi 🙌 Hum 5th May se wapas aa rahe hain — subscribe karna mat bhoolna!"
+- "Hope your paper went well and our explanation helped 🤞 We're back from 5th May with even better content — hit subscribe to catch it first!"
+
+If the comment is a literature question, give a 5-8 word answer in matching language, then add 5th May + subscribe nudge.
+If it mentions a country, warmly acknowledge.
+
+CATEGORY (mandatory output field):
+Classify the comment into ONE of these category slugs (lowercase, exact spelling):
+- praise          → generic praise / thanks / nice video / mam aap great ho
+- question        → literature question or doubt
+- exam-past       → exam mentioned (today/tomorrow/in X hours) — treat as past
+- location        → user mentions country / city
+- supporter       → user defends the channel against haters or shows deep loyalty
+- request         → asks for a specific text / topic / chapter video
+- negative        → critical / hateful / "stop teaching" / dislike comment
+- comeback        → "where are you" / "please come back" / "miss you" type
+- other           → anything that doesn't fit the above
+
+OUTPUT FORMAT — STRICT:
+Output ONLY a single JSON object, no markdown fences, no preamble:
+{"category": "<slug>", "reply": "<the reply text>"}
+
+Example output:
+{"category": "praise", "reply": "Thank you so much! New videos drop from 5th May — subscribe so you catch them first 💛"}`;
+
+const API_KEY_STORAGE = 'tlt_anthropic_api_key';
+function getApiKey() {
+  let k = localStorage.getItem(API_KEY_STORAGE);
+  if (!k) {
+    k = prompt('Enter your Anthropic API key (stored locally in this browser only):');
+    if (k) localStorage.setItem(API_KEY_STORAGE, k.trim());
+  }
+  return k && k.trim();
+}
+
+let selectedLang = 'auto';
+function setLang(lang) {
+  selectedLang = lang;
+  document.querySelectorAll('.lang-toggle button').forEach(b => {
+    b.classList.toggle('active', b.dataset.lang === lang);
+  });
+}
+
+const LANG_INSTRUCTION = {
+  auto: '',
+  en: '\n\nFORCED LANGUAGE: Reply in PURE ENGLISH only. Zero Hindi words. Even if the comment is in Hinglish or Hindi, the reply must be 100% English. Override the language detection logic above.',
+  hi: '\n\nFORCED LANGUAGE: Reply in HINGLISH (warm, casual, desi tone with Hindi words in Roman script mixed with English). Even if the comment is in pure English, reply in Hinglish. Override the language detection logic above.'
+};
+
+async function generate() {
+  const apiKey = getApiKey();
+  const comment = document.getElementById('comment').value.trim();
+  const errEl = document.getElementById('err');
+  const statusEl = document.getElementById('status');
+  const btn = document.getElementById('genBtn');
+
+  errEl.textContent = '';
+
+  if (!apiKey) { errEl.textContent = 'API key required.'; return; }
+  if (!comment) { errEl.textContent = 'Paste a comment to reply to.'; return; }
+
+  btn.disabled = true;
+  statusEl.textContent = 'Generating…';
+
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-5',
+        max_tokens: 200,
+        system: SYSTEM_PROMPT + LANG_INSTRUCTION[selectedLang],
+        messages: [
+          { role: 'user', content: `Comment to reply to:\n\n"${comment}"` }
+        ]
+      })
+    });
+
+    if (!res.ok) {
+      const data = await res.json().catch(() => ({}));
+      throw new Error(data.error?.message || `HTTP ${res.status}`);
+    }
+
+    const data = await res.json();
+    const raw = data.content?.[0]?.text?.trim() || '';
+
+    // Parse JSON output (strip code fences if any)
+    let parsed = { category: 'other', reply: raw };
+    try {
+      const cleaned = raw.replace(/^```json\s*|\s*```$/g, '').trim();
+      const json = JSON.parse(cleaned);
+      if (json.reply) parsed = json;
+    } catch (e) {
+      // Fallback: treat raw as reply if JSON parsing fails
+      parsed.reply = raw;
+    }
+
+    document.getElementById('reply').textContent = parsed.reply;
+    document.getElementById('replyCat').innerHTML = parsed.category
+      ? `<span class="saved-cat">${parsed.category}</span>` : '';
+    document.getElementById('replyCard').style.display = 'block';
+    statusEl.textContent = '';
+
+    // Save to cache
+    saveToCache({
+      id: Date.now(),
+      comment,
+      reply: parsed.reply,
+      category: parsed.category || 'other',
+      lang: selectedLang,
+      ts: new Date().toISOString()
+    });
+  } catch (e) {
+    errEl.textContent = 'Error: ' + e.message;
+    statusEl.textContent = '';
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+function copyReply() {
+  const text = document.getElementById('reply').textContent;
+  navigator.clipboard.writeText(text);
+  const btn = document.getElementById('copyBtn');
+  btn.textContent = 'Copied ✓';
+  btn.classList.add('copied');
+  setTimeout(() => {
+    btn.textContent = 'Copy';
+    btn.classList.remove('copied');
+  }, 1500);
+}
+
+// ─── Cache management ─────────────────────────────────────────────────
+const CACHE_KEY = 'tlt_replies_cache';
+let activeFilter = 'all';
+
+function getCache() {
+  try { return JSON.parse(localStorage.getItem(CACHE_KEY) || '[]'); }
+  catch { return []; }
+}
+function setCache(arr) { localStorage.setItem(CACHE_KEY, JSON.stringify(arr)); }
+
+function saveToCache(entry) {
+  const cache = getCache();
+  cache.unshift(entry); // newest first
+  // Cap at 200 entries to avoid bloat
+  if (cache.length > 200) cache.length = 200;
+  setCache(cache);
+  renderSaved();
+}
+
+function deleteFromCache(id) {
+  setCache(getCache().filter(x => x.id !== id));
+  renderSaved();
+}
+
+function clearAllSaved() {
+  if (!confirm('Clear all saved replies? This cannot be undone.')) return;
+  setCache([]);
+  renderSaved();
+}
+
+function copyFromSaved(id) {
+  const item = getCache().find(x => x.id === id);
+  if (!item) return;
+  navigator.clipboard.writeText(item.reply);
+  const btn = document.querySelector(`[data-copy-id="${id}"]`);
+  if (btn) {
+    btn.textContent = 'Copied ✓';
+    btn.classList.add('copied');
+    setTimeout(() => {
+      btn.textContent = 'Copy';
+      btn.classList.remove('copied');
+    }, 1500);
+  }
+}
+
+function setFilter(cat) {
+  activeFilter = cat;
+  renderSaved();
+}
+
+const CAT_LABELS = {
+  praise: 'Praise',
+  question: 'Question',
+  'exam-past': 'Exam (past)',
+  location: 'Location',
+  supporter: 'Supporter',
+  request: 'Request',
+  negative: 'Negative',
+  comeback: 'Comeback',
+  other: 'Other'
+};
+
+function renderSaved() {
+  const cache = getCache();
+  const list = document.getElementById('savedList');
+  const filterRow = document.getElementById('filterRow');
+  document.getElementById('savedCount').textContent = cache.length;
+
+  // Build filter pills
+  const cats = [...new Set(cache.map(x => x.category))].sort();
+  const pills = ['<button class="filter-pill ' + (activeFilter === 'all' ? 'active' : '') +
+    '" onclick="setFilter(\'all\')">All (' + cache.length + ')</button>'];
+  cats.forEach(c => {
+    const count = cache.filter(x => x.category === c).length;
+    const label = CAT_LABELS[c] || c;
+    pills.push(`<button class="filter-pill ${activeFilter === c ? 'active' : ''}"
+      onclick="setFilter('${c}')">${label} (${count})</button>`);
+  });
+  filterRow.innerHTML = pills.join('');
+
+  // Build list
+  const filtered = activeFilter === 'all' ? cache : cache.filter(x => x.category === activeFilter);
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="saved-empty">No saved replies yet. Generate one above ↑</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(item => {
+    const safeComment = item.comment.replace(/[<>&]/g, c => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]));
+    const safeReply = item.reply.replace(/[<>&]/g, c => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]));
+    const label = CAT_LABELS[item.category] || item.category;
+    const time = new Date(item.ts).toLocaleString('en-IN', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
+    return `
+      <div class="saved-item">
+        <div class="saved-meta">
+          <span class="saved-cat">${label}</span>
+          <span>${time}</span>
+          <span style="margin-left:auto; text-transform: uppercase; font-size: 10px; font-weight: 700;">
+            ${item.lang === 'auto' ? 'Auto' : item.lang === 'en' ? 'English' : 'Hinglish'}
+          </span>
+        </div>
+        <div class="saved-comment">"${safeComment}"</div>
+        <div class="saved-reply">${safeReply}</div>
+        <div class="saved-actions">
+          <button class="copy" data-copy-id="${item.id}" onclick="copyFromSaved(${item.id})">Copy</button>
+          <button class="del" onclick="deleteFromCache(${item.id})">Delete</button>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+// Render on load
+window.addEventListener('load', renderSaved);
+
+// Cmd/Ctrl+Enter to generate
+document.getElementById('comment').addEventListener('keydown', (e) => {
+  if ((e.metaKey || e.ctrlKey) && e.key === 'Enter') generate();
+});
+</script>
+
+</body>
+</html>

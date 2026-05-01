@@ -6,3 +6,4 @@
 | 2026-04-13 | s1 | session/2026-04-13-s1 | TBD |
 | 2026-04-19 | s1 | session/2026-04-19-s1 | Audio→karaoke skill + N2/N3a/N3c/N3d nodes + previewer |
 | 2026-04-20 | s1 | session/2026-04-20-s1 | Focus: audio→YT upload track (N4-VIDEO → N5) |
+| 2026-04-27 | s1 | session/2026-04-27-s1 | Voice cloning for Aanchal — Voicebox app exploration |
